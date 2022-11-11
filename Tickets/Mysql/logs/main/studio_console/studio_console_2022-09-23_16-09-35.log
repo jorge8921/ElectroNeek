@@ -1,0 +1,107 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 23/9/2022, 16:09:36
+  ==========================================
+  
+
+[2022-09-23T19:11:52.901Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:16:33.076Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:16:33.160Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:16:33.161Z] : [success]: Bot started
+
+[2022-09-23T19:16:33.162Z] : [info]: Robot start
+
+[2022-09-23T19:16:35.279Z] : [success]: Bot finished successfully, total execution time: 2s 116ms
+
+[2022-09-23T19:16:35.281Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:17:53.817Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:17:57.938Z] : [success]: Bot started
+
+[2022-09-23T19:17:57.939Z] : [info]: Robot start
+
+[2022-09-23T19:17:59.034Z] : [error]: Database: Unknown column 'Jorge' in 'field list'
+
+[2022-09-23T19:17:59.035Z] : [error]: Total execution time: 1s 94ms
+
+[2022-09-23T19:17:59.036Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:18:24.838Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:18:24.914Z] : [success]: Bot started
+
+[2022-09-23T19:18:24.915Z] : [info]: Robot start
+
+[2022-09-23T19:18:26.007Z] : [error]: Missing initializer in const declaration
+
+[2022-09-23T19:18:26.009Z] : [error]: Total execution time: 1s 91ms
+
+[2022-09-23T19:18:26.010Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:19:19.070Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:19:19.146Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:19:19.147Z] : [success]: Bot started
+
+[2022-09-23T19:19:19.148Z] : [info]: Robot start
+
+[2022-09-23T19:19:20.261Z] : [error]: Database: Unknown column 'name' in 'field list'
+
+[2022-09-23T19:19:20.263Z] : [error]: Total execution time: 1s 113ms
+
+[2022-09-23T19:19:20.264Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:20:32.669Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:20:36.880Z] : [success]: Bot started
+
+[2022-09-23T19:20:36.881Z] : [info]: Robot start
+
+[2022-09-23T19:20:37.947Z] : [success]: Bot finished successfully, total execution time: 1s 65ms
+
+[2022-09-23T19:20:37.948Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:26:42.913Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:26:43.029Z] : [success]: Bot started
+
+[2022-09-23T19:26:43.030Z] : [info]: Robot start
+
+[2022-09-23T19:26:45.126Z] : [error]: Database: Unknown database 'pb_tasa_cambio'
+
+[2022-09-23T19:26:45.128Z] : [error]: Total execution time: 2s 95ms
+
+[2022-09-23T19:26:45.129Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:28:37.566Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:28:46.730Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:28:46.731Z] : [success]: Bot started
+
+[2022-09-23T19:28:46.732Z] : [info]: Robot start
+
+[2022-09-23T19:28:47.832Z] : [error]: Database: Column count doesn't match value count at row 1
+
+[2022-09-23T19:28:47.835Z] : [error]: Total execution time: 1s 100ms
+
+[2022-09-23T19:28:47.836Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:30:22.853Z] : [success]: Robot saved successfully
+
+[2022-09-23T19:30:22.942Z] : [info]: ---------------------------------------------
+
+[2022-09-23T19:30:22.943Z] : [success]: Bot started
+
+[2022-09-23T19:30:22.944Z] : [info]: Robot start
+
+[2022-09-23T19:30:24.059Z] : [success]: Bot finished successfully, total execution time: 1s 114ms
+
+[2022-09-23T19:30:24.060Z] : [info]: ---------------------------------------------
+

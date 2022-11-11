@@ -1,0 +1,105 @@
+[2022-09-22T22:13:35.822Z] : [success]: Robot saved successfully
+
+[2022-09-22T22:13:42.714Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:13:42.715Z] : [success]: Bot started
+
+[2022-09-22T22:13:42.716Z] : [info]: Robot start
+
+[2022-09-22T22:13:44.818Z] : [error]: File is not defined
+
+[2022-09-22T22:13:44.821Z] : [error]: Total execution time: 2s 102ms
+
+[2022-09-22T22:13:44.821Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:14:44.926Z] : [success]: Robot saved successfully
+
+[2022-09-22T22:14:49.103Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:14:49.109Z] : [success]: Bot started
+
+[2022-09-22T22:14:49.110Z] : [info]: Robot start
+
+[2022-09-22T22:14:51.203Z] : [error]: Access denied to require 'fs'
+
+[2022-09-22T22:14:51.205Z] : [error]: Total execution time: 2s 93ms
+
+[2022-09-22T22:14:51.206Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:17:33.258Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 22/9/2022, 19:31:05
+  ==========================================
+  
+
+[2022-09-22T22:33:42.662Z] : [success]: Robot saved successfully
+
+[2022-09-22T22:33:48.103Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:33:48.104Z] : [success]: Bot started
+
+[2022-09-22T22:33:48.105Z] : [info]: Robot start
+
+[2022-09-22T22:33:51.560Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\testJs\Validator.py", line 1, in <module>
+    test = arr;
+NameError: name 'arr' is not defined
+
+
+[2022-09-22T22:33:51.562Z] : [error]: Total execution time: 3s 455ms
+
+[2022-09-22T22:33:51.564Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:34:35.902Z] : [success]: Robot saved successfully
+
+[2022-09-22T22:34:41.862Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:34:41.863Z] : [success]: Bot started
+
+[2022-09-22T22:34:41.864Z] : [info]: Robot start
+
+[2022-09-22T22:34:45.416Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\testJs\Validator.py", line 1, in <module>
+    test = arr;
+NameError: name 'arr' is not defined
+
+
+[2022-09-22T22:34:45.418Z] : [error]: Total execution time: 3s 552ms
+
+[2022-09-22T22:34:45.418Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:34:56.975Z] : [success]: Robot saved successfully
+
+[2022-09-22T22:34:58.617Z] : [success]: Bot started
+
+[2022-09-22T22:34:58.618Z] : [info]: Robot start
+
+[2022-09-22T22:35:03.276Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\testJs\Validator.py", line 1, in <module>
+    test = arr;
+NameError: name 'arr' is not defined
+
+
+[2022-09-22T22:35:03.277Z] : [error]: Total execution time: 4s 657ms
+
+[2022-09-22T22:35:03.278Z] : [info]: ---------------------------------------------
+
+[2022-09-22T22:35:19.670Z] : [success]: Robot saved successfully
+
+[2022-09-22T22:35:23.408Z] : [success]: Bot started
+
+[2022-09-22T22:35:23.409Z] : [info]: Robot start
+
+[2022-09-22T22:35:26.861Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\testJs\Validator.py", line 1, in <module>
+    test = arr2;
+NameError: name 'arr2' is not defined
+
+
+[2022-09-22T22:35:26.863Z] : [error]: Total execution time: 3s 452ms
+
+[2022-09-22T22:35:26.864Z] : [info]: ---------------------------------------------
+

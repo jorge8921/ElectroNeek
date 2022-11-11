@@ -1,0 +1,73 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 29/8/2022, 14:23:51
+  ==========================================
+  
+
+[2022-08-29T17:36:59.133Z] : [success]: Robot saved successfully
+
+[2022-08-29T17:36:59.248Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:36:59.249Z] : [success]: Bot started
+
+[2022-08-29T17:36:59.250Z] : [info]: Robot start
+
+[2022-08-29T17:37:15.999Z] : [error]: Unexpected token (5:4)
+
+[2022-08-29T17:37:16.001Z] : [error]: Total execution time: 16s 748ms
+
+[2022-08-29T17:37:16.003Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:42:41.159Z] : [success]: Robot saved successfully
+
+[2022-08-29T17:42:41.260Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:42:41.261Z] : [success]: Bot started
+
+[2022-08-29T17:42:41.262Z] : [info]: Robot start
+
+[2022-08-29T17:42:48.516Z] : [error]: Unexpected token (6:4)
+
+[2022-08-29T17:42:48.518Z] : [error]: Total execution time: 7s 253ms
+
+[2022-08-29T17:42:48.519Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:47:38.591Z] : [success]: Robot saved successfully
+
+[2022-08-29T17:47:38.697Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:47:38.698Z] : [success]: Bot started
+
+[2022-08-29T17:47:38.698Z] : [info]: Robot start
+
+[2022-08-29T17:47:48.894Z] : [error]: Unexpected token (30:0)
+
+[2022-08-29T17:47:48.896Z] : [error]: Total execution time: 10s 196ms
+
+[2022-08-29T17:47:48.897Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:49:59.740Z] : [success]: Bot started
+
+[2022-08-29T17:49:59.741Z] : [info]: Robot start
+
+[2022-08-29T17:50:10.999Z] : [success]: Bot finished successfully, total execution time: 11s 257ms
+
+[2022-08-29T17:50:11.000Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:50:16.065Z] : [success]: Bot started
+
+[2022-08-29T17:50:16.065Z] : [info]: Robot start
+
+[2022-08-29T17:50:28.411Z] : [success]: Bot finished successfully, total execution time: 12s 343ms
+
+[2022-08-29T17:50:28.412Z] : [info]: ---------------------------------------------
+
+[2022-08-29T17:50:34.051Z] : [success]: Bot started
+
+[2022-08-29T17:50:34.052Z] : [info]: Robot start
+
+[2022-08-29T17:50:44.279Z] : [success]: Bot finished successfully, total execution time: 10s 226ms
+
+[2022-08-29T17:50:44.280Z] : [info]: ---------------------------------------------
+

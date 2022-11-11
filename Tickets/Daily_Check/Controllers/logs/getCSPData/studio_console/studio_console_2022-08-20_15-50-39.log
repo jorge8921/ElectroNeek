@@ -1,0 +1,99 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 17:27:08
+  ==========================================
+  
+
+[2022-08-20T20:34:52.408Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:35:05.469Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:35:05.470Z] : [success]: Bot started
+
+[2022-08-20T20:35:05.470Z] : [info]: Robot start
+
+[2022-08-20T20:35:11.725Z] : [success]: Bot finished successfully, total execution time: 6s 254ms
+
+[2022-08-20T20:35:11.726Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:36:13.932Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:36:19.849Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:36:19.849Z] : [success]: Bot started
+
+[2022-08-20T20:36:19.851Z] : [info]: Robot start
+
+[2022-08-20T20:36:23.116Z] : [success]: Bot finished successfully, total execution time: 3s 264ms
+
+[2022-08-20T20:36:23.117Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:37:56.712Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:37:56.719Z] : [success]: Bot started
+
+[2022-08-20T20:37:56.720Z] : [info]: Robot start
+
+[2022-08-20T20:38:00.054Z] : [success]: Bot finished successfully, total execution time: 3s 333ms
+
+[2022-08-20T20:38:00.054Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:39:42.182Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:39:48.716Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:39:48.717Z] : [success]: Bot started
+
+[2022-08-20T20:39:48.718Z] : [info]: Robot start
+
+[2022-08-20T20:39:52.018Z] : [success]: Bot finished successfully, total execution time: 3s 299ms
+
+[2022-08-20T20:39:52.020Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:41:50.263Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:42:19.028Z] : [success]: Bot started
+
+[2022-08-20T20:42:19.028Z] : [info]: Robot start
+
+[2022-08-20T20:42:24.366Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T20:42:24.369Z] : [error]: Total execution time: 5s 338ms
+
+[2022-08-20T20:42:24.370Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:45:31.519Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:45:31.520Z] : [success]: Bot started
+
+[2022-08-20T20:45:31.521Z] : [info]: Robot start
+
+[2022-08-20T20:45:34.786Z] : [success]: Bot finished successfully, total execution time: 3s 264ms
+
+[2022-08-20T20:45:34.787Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:49:14.273Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:52:16.051Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:52:24.138Z] : [success]: Bot started
+
+[2022-08-20T20:52:24.139Z] : [info]: Robot start
+
+[2022-08-20T20:52:30.070Z] : [success]: Bot finished successfully, total execution time: 5s 930ms
+
+[2022-08-20T20:52:30.072Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:54:18.287Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:58:39.498Z] : [success]: Robot saved successfully
+
+[2022-08-20T21:11:57.058Z] : [error]: trim is not defined
+
+[2022-08-20T21:11:57.060Z] : [error]: Total execution time: 1m 29s 911ms
+
+[2022-08-20T21:11:57.061Z] : [info]: ---------------------------------------------
+
+[2022-08-20T21:13:03.826Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,22 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 7/9/2022, 21:24:38
+  ==========================================
+  
+
+[2022-09-08T00:25:26.945Z] : [success]: Robot saved successfully
+
+[2022-09-08T00:38:14.352Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-09-08T00:38:14.355Z] : [error]: Total execution time: 11m 16s 701ms
+
+[2022-09-08T00:38:14.357Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 7/9/2022, 21:38:14
+  ==========================================
+  
+

@@ -1,0 +1,165 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 3/8/2022, 16:11:16
+  ==========================================
+  
+
+[2022-08-03T19:11:22.059Z] : [info]: ---------------------------------------------
+
+[2022-08-03T19:11:22.059Z] : [success]: Bot started
+
+[2022-08-03T19:11:22.060Z] : [info]: Robot start
+
+[2022-08-03T19:11:32.780Z] : [info]: test
+
+[2022-08-03T19:11:33.716Z] : [success]: Bot finished successfully, total execution time: 11s 655ms
+
+[2022-08-03T19:11:33.717Z] : [info]: ---------------------------------------------
+
+[2022-08-03T19:12:33.141Z] : [success]: Robot saved successfully
+
+[2022-08-03T19:12:38.989Z] : [success]: Bot started
+
+[2022-08-03T19:12:38.989Z] : [info]: Robot start
+
+[2022-08-03T19:12:44.346Z] : [info]: test
+
+[2022-08-03T19:12:45.179Z] : [success]: Bot finished successfully, total execution time: 6s 189ms
+
+[2022-08-03T19:12:45.180Z] : [info]: ---------------------------------------------
+
+[2022-08-03T19:13:06.157Z] : [success]: Robot saved successfully
+
+[2022-08-03T19:13:11.806Z] : [success]: Bot started
+
+[2022-08-03T19:13:11.807Z] : [info]: Robot start
+
+[2022-08-03T19:13:28.706Z] : [info]: test
+
+[2022-08-03T19:13:29.200Z] : [error]: script timeout
+
+[2022-08-03T19:13:29.204Z] : [error]: Total execution time: 17s 392ms
+
+[2022-08-03T19:13:29.206Z] : [info]: ---------------------------------------------
+
+[2022-08-03T19:13:57.620Z] : [info]: ---------------------------------------------
+
+[2022-08-03T19:13:57.621Z] : [success]: Bot started
+
+[2022-08-03T19:13:57.622Z] : [info]: Robot start
+
+[2022-08-03T19:14:00.988Z] : [info]: test
+
+[2022-08-03T19:14:01.796Z] : [success]: Bot finished successfully, total execution time: 4s 172ms
+
+[2022-08-03T19:14:01.797Z] : [info]: ---------------------------------------------
+
+[2022-08-03T19:14:32.176Z] : [success]: The workflow has been exported successfully
+
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 4/8/2022, 12:03:40
+  ==========================================
+  
+
+[2022-08-04T15:04:09.490Z] : [success]: Robot saved successfully
+
+[2022-08-04T15:04:16.420Z] : [info]: ---------------------------------------------
+
+[2022-08-04T15:04:16.420Z] : [success]: Bot started
+
+[2022-08-04T15:04:16.421Z] : [info]: Robot start
+
+[2022-08-04T15:04:27.390Z] : [info]: test
+
+[2022-08-04T15:04:42.941Z] : [error]: Waiting for at least one element to be located By(css selector, .testing)
+Wait timed out after 15130ms
+
+[2022-08-04T15:04:42.943Z] : [error]: Total execution time: 26s 519ms
+
+[2022-08-04T15:04:42.944Z] : [info]: ---------------------------------------------
+
+[2022-08-04T15:04:57.346Z] : [success]: Robot saved successfully
+
+[2022-08-04T15:05:08.573Z] : [success]: The workflow has been exported successfully
+
+[2022-08-04T15:06:40.578Z] : [success]: Robot saved successfully
+
+[2022-08-04T15:07:58.250Z] : [success]: Workflow published successfully
+
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 4/8/2022, 13:00:55
+  ==========================================
+  
+
+[2022-08-04T16:02:49.980Z] : [success]: Robot saved successfully
+
+[2022-08-04T16:02:56.923Z] : [success]: Workflow published successfully
+
+[2022-08-04T16:06:47.261Z] : [info]: ---------------------------------------------
+
+[2022-08-04T16:06:47.264Z] : [success]: Bot started
+
+[2022-08-04T16:06:47.266Z] : [info]: Robot start
+
+[2022-08-04T16:07:05.740Z] : [info]: test
+
+[2022-08-04T16:07:06.197Z] : [error]: Can't launch browser
+
+[2022-08-04T16:07:06.200Z] : [error]: Total execution time: 18s 914ms
+
+[2022-08-04T16:07:06.201Z] : [info]: ---------------------------------------------
+
+[2022-08-04T16:07:34.188Z] : [success]: Robot saved successfully
+
+[2022-08-04T16:07:38.302Z] : [info]: ---------------------------------------------
+
+[2022-08-04T16:07:38.303Z] : [success]: Bot started
+
+[2022-08-04T16:07:38.304Z] : [info]: Robot start
+
+[2022-08-04T16:07:42.647Z] : [info]: test
+
+[2022-08-04T16:07:46.832Z] : [success]: Bot finished successfully, total execution time: 8s 527ms
+
+[2022-08-04T16:07:46.832Z] : [info]: ---------------------------------------------
+
+[2022-08-04T16:08:14.629Z] : [success]: Robot saved successfully
+
+[2022-08-04T16:08:21.286Z] : [info]: ---------------------------------------------
+
+[2022-08-04T16:08:21.287Z] : [success]: Bot started
+
+[2022-08-04T16:08:21.287Z] : [info]: Robot start
+
+[2022-08-04T16:08:25.752Z] : [info]: test
+
+[2022-08-04T16:08:34.745Z] : [success]: Bot finished successfully, total execution time: 13s 456ms
+
+[2022-08-04T16:08:34.747Z] : [info]: ---------------------------------------------
+
+[2022-08-04T16:08:51.281Z] : [success]: Bot started
+
+[2022-08-04T16:08:51.282Z] : [info]: Robot start
+
+[2022-08-04T16:10:15.648Z] : [info]: test
+
+[2022-08-04T16:10:30.173Z] : [success]: Bot finished successfully, total execution time: 1m 38s 890ms
+
+[2022-08-04T16:10:30.175Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 4/8/2022, 13:30:02
+  ==========================================
+  
+
+[2022-08-04T16:30:07.197Z] : [success]: Robot saved successfully
+
+[2022-08-04T16:30:11.243Z] : [success]: The workflow has been exported successfully
+

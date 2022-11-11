@@ -1,0 +1,89 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 17/8/2022 14:57:20
+  ==========================================
+  
+
+[2022-08-17T22:05:31.866Z] : [success]: Robot guardado correctamente
+
+[2022-08-17T22:05:43.680Z] : [info]: ---------------------------------------------
+
+[2022-08-17T22:05:43.681Z] : [success]: Bot iniciado
+
+[2022-08-17T22:05:43.682Z] : [info]: Robot start
+
+[2022-08-17T22:05:59.919Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-17T22:05:59.923Z] : [error]: Tiempo total de ejecución: 16s 237ms
+
+[2022-08-17T22:05:59.925Z] : [info]: ---------------------------------------------
+
+[2022-08-17T22:07:30.279Z] : [success]: Robot guardado correctamente
+
+[2022-08-17T22:07:30.303Z] : [success]: Bot iniciado
+
+[2022-08-17T22:07:30.304Z] : [info]: Robot start
+
+[2022-08-17T22:07:41.132Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-17T22:07:41.137Z] : [error]: Tiempo total de ejecución: 10s 827ms
+
+[2022-08-17T22:07:41.138Z] : [info]: ---------------------------------------------
+
+[2022-08-17T22:09:15.181Z] : [success]: Robot guardado correctamente
+
+[2022-08-17T22:09:17.176Z] : [success]: Bot iniciado
+
+[2022-08-17T22:09:17.177Z] : [info]: Robot start
+
+[2022-08-17T22:09:26.572Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-17T22:09:26.576Z] : [error]: Tiempo total de ejecución: 9s 394ms
+
+[2022-08-17T22:09:26.577Z] : [info]: ---------------------------------------------
+
+[2022-08-17T22:09:53.403Z] : [success]: Bot iniciado
+
+[2022-08-17T22:09:53.404Z] : [info]: Robot start
+
+[2022-08-17T22:10:05.178Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-17T22:10:05.181Z] : [error]: Tiempo total de ejecución: 11s 774ms
+
+[2022-08-17T22:10:05.182Z] : [info]: ---------------------------------------------
+
+[2022-08-18T00:13:00.429Z] : [success]: Robot guardado correctamente
+
+[2022-08-18T00:13:07.346Z] : [success]: Bot iniciado
+
+[2022-08-18T00:13:07.347Z] : [info]: Robot start
+
+[2022-08-18T00:13:22.904Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-18T00:13:22.911Z] : [error]: Tiempo total de ejecución: 15s 557ms
+
+[2022-08-18T00:13:22.912Z] : [info]: ---------------------------------------------
+
+[2022-08-18T16:14:23.370Z] : [success]: Bot iniciado
+
+[2022-08-18T16:14:23.371Z] : [info]: Robot start
+
+[2022-08-18T16:14:55.483Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-18T16:14:55.488Z] : [error]: Tiempo total de ejecución: 32s 111ms
+
+[2022-08-18T16:14:55.489Z] : [info]: ---------------------------------------------
+
+[2022-08-18T16:19:01.545Z] : [success]: Robot guardado correctamente
+
+[2022-08-18T16:19:05.842Z] : [success]: Bot iniciado
+
+[2022-08-18T16:19:05.843Z] : [info]: Robot start
+
+[2022-08-18T16:19:29.926Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-18T16:19:29.929Z] : [error]: Tiempo total de ejecución: 24s 82ms
+
+[2022-08-18T16:19:29.930Z] : [info]: ---------------------------------------------
+

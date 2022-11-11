@@ -1,0 +1,150 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 24/9/2022, 1:31:08
+  ==========================================
+  
+
+[2022-09-24T04:39:25.291Z] : [success]: Robot saved successfully
+
+[2022-09-24T04:39:25.381Z] : [info]: ---------------------------------------------
+
+[2022-09-24T04:39:25.382Z] : [success]: Bot started
+
+[2022-09-24T04:39:25.382Z] : [info]: Robot start
+
+[2022-09-24T04:39:33.563Z] : [success]: Bot finished successfully, total execution time: 8s 177ms
+
+[2022-09-24T04:39:33.564Z] : [info]: ---------------------------------------------
+
+[2022-09-24T04:40:17.553Z] : [success]: Robot saved successfully
+
+[2022-09-24T04:40:28.665Z] : [success]: Robot saved successfully
+
+[2022-09-24T04:40:32.706Z] : [info]: ---------------------------------------------
+
+[2022-09-24T04:40:32.707Z] : [success]: Bot started
+
+[2022-09-24T04:40:32.708Z] : [info]: Robot start
+
+[2022-09-24T04:40:36.835Z] : [error]: Referencia a objeto no establecida como instancia de un objeto.
+
+[2022-09-24T04:40:36.837Z] : [error]: Total execution time: 4s 126ms
+
+[2022-09-24T04:40:36.838Z] : [info]: ---------------------------------------------
+
+[2022-09-24T04:40:49.243Z] : [info]: ---------------------------------------------
+
+[2022-09-24T04:40:49.244Z] : [success]: Bot started
+
+[2022-09-24T04:40:49.244Z] : [info]: Robot start
+
+[2022-09-24T04:41:08.581Z] : [success]: Bot finished successfully, total execution time: 19s 336ms
+
+[2022-09-24T04:41:08.583Z] : [info]: ---------------------------------------------
+
+[2022-09-24T04:41:41.689Z] : [success]: Robot saved successfully
+
+[2022-09-24T04:41:46.336Z] : [success]: Bot started
+
+[2022-09-24T04:41:46.338Z] : [info]: Robot start
+
+[2022-09-24T04:44:23.859Z] : [success]: Bot finished successfully, total execution time: 2m 37s 519ms
+
+[2022-09-24T04:44:23.860Z] : [info]: ---------------------------------------------
+
+[2022-09-24T04:45:08.584Z] : [success]: Robot saved successfully
+
+[2022-09-24T15:48:53.188Z] : [info]: Internet connection // error
+
+[2022-09-24T15:48:56.718Z] : [success]: Connection to our licenses server is restored
+
+[2022-09-24T15:56:45.880Z] : [success]: Robot saved successfully
+
+[2022-09-24T15:56:52.378Z] : [info]: ---------------------------------------------
+
+[2022-09-24T15:56:52.379Z] : [success]: Bot started
+
+[2022-09-24T15:56:52.381Z] : [info]: Robot start
+
+[2022-09-24T15:59:55.899Z] : [error]: System activity: Can't kill process
+
+[2022-09-24T15:59:55.901Z] : [error]: Total execution time: 3m 3s 517ms
+
+[2022-09-24T15:59:55.902Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:00:08.661Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:00:08.740Z] : [success]: Bot started
+
+[2022-09-24T16:00:08.741Z] : [info]: Robot start
+
+[2022-09-24T16:00:10.839Z] : [success]: Bot finished successfully, total execution time: 2s 95ms
+
+[2022-09-24T16:00:10.841Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:04:49.319Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:04:53.210Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:04:53.211Z] : [success]: Bot started
+
+[2022-09-24T16:04:53.212Z] : [info]: Robot start
+
+[2022-09-24T16:10:38.076Z] : [success]: Bot finished successfully, total execution time: 5m 44s 862ms
+
+[2022-09-24T16:10:38.077Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:32:20.050Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:32:42.860Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:32:58.537Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:33:24.041Z] : [success]: Bot started
+
+[2022-09-24T16:33:24.042Z] : [info]: Robot start
+
+[2022-09-24T16:33:29.242Z] : [success]: Bot finished successfully, total execution time: 5s 199ms
+
+[2022-09-24T16:33:29.244Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:34:11.764Z] : [success]: Bot started
+
+[2022-09-24T16:34:11.764Z] : [info]: Robot start
+
+[2022-09-24T16:34:39.195Z] : [info]: click en boton exportar
+
+[2022-09-24T16:36:14.540Z] : [success]: Bot finished successfully, total execution time: 2m 2s 775ms
+
+[2022-09-24T16:36:14.542Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:36:19.068Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:36:23.525Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:36:23.526Z] : [success]: Bot started
+
+[2022-09-24T16:36:23.526Z] : [info]: Robot start
+
+[2022-09-24T16:36:54.471Z] : [info]: click en boton exportar
+
+[2022-09-24T16:40:58.287Z] : [success]: Bot finished successfully, total execution time: 4m 34s 760ms
+
+[2022-09-24T16:40:58.288Z] : [info]: ---------------------------------------------
+
+[2022-09-24T16:45:32.382Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:50:32.266Z] : [success]: Robot saved successfully
+
+[2022-09-24T16:56:00.050Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 24/9/2022, 13:56:20
+  ==========================================
+  
+
+[2022-09-24T16:56:22.176Z] : [success]: Robot saved successfully
+

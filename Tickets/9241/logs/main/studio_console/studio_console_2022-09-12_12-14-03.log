@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 12/9/2022, 12:16:27
+  ==========================================
+  
+
+[2022-09-12T15:18:13.134Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2022-09-12T15:18:14.559Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2022-09-12T15:21:23.568Z] : [success]: Robot saved successfully
+
+[2022-09-12T15:21:23.680Z] : [info]: ---------------------------------------------
+
+[2022-09-12T15:21:23.681Z] : [success]: Bot started
+
+[2022-09-12T15:21:23.682Z] : [info]: Robot start
+
+[2022-09-12T15:21:26.780Z] : [success]: Bot finished successfully, total execution time: 3s 97ms
+
+[2022-09-12T15:21:26.781Z] : [info]: ---------------------------------------------
+
+[2022-09-12T15:22:52.758Z] : [success]: Robot saved successfully
+
+[2022-09-12T15:22:52.855Z] : [success]: Bot started
+
+[2022-09-12T15:22:52.855Z] : [info]: Robot start
+
+[2022-09-12T15:22:54.930Z] : [success]: Bot finished successfully, total execution time: 2s 73ms
+
+[2022-09-12T15:22:54.931Z] : [info]: ---------------------------------------------
+
+[2022-09-12T15:23:30.422Z] : [success]: Robot saved successfully
+
+[2022-09-12T15:23:30.541Z] : [success]: Bot started
+
+[2022-09-12T15:23:30.543Z] : [info]: Robot start
+
+[2022-09-12T15:23:32.655Z] : [success]: Bot finished successfully, total execution time: 2s 109ms
+
+[2022-09-12T15:23:32.656Z] : [info]: ---------------------------------------------
+

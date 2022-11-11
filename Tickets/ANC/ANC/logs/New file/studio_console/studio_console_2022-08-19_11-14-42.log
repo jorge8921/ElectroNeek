@@ -1,0 +1,229 @@
+[2022-08-25T22:31:07.747Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:35:05.009Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:35:05.018Z] : [success]: Bot iniciado
+
+[2022-08-25T22:35:05.021Z] : [info]: Robot start
+
+[2022-08-25T22:35:10.389Z] : [error]: ""T:\FA graphs ANC_plantilla.xlsx"" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+
+[2022-08-25T22:35:10.392Z] : [error]: Tiempo total de ejecución: 5s 368ms
+
+[2022-08-25T22:35:10.393Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:39:16.445Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:39:16.462Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:39:16.464Z] : [success]: Bot iniciado
+
+[2022-08-25T22:39:16.464Z] : [info]: Robot start
+
+[2022-08-25T22:39:18.715Z] : [error]: "T:\FA" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+
+[2022-08-25T22:39:18.717Z] : [error]: Tiempo total de ejecución: 2s 251ms
+
+[2022-08-25T22:39:18.718Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:40:27.860Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:40:27.871Z] : [success]: Bot iniciado
+
+[2022-08-25T22:40:27.871Z] : [info]: Robot start
+
+[2022-08-25T22:40:30.465Z] : [error]: "T:\FA" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+
+[2022-08-25T22:40:30.468Z] : [error]: Tiempo total de ejecución: 2s 594ms
+
+[2022-08-25T22:40:30.468Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:41:27.168Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:41:27.182Z] : [success]: Bot iniciado
+
+[2022-08-25T22:41:27.183Z] : [info]: Robot start
+
+[2022-08-25T22:41:29.482Z] : [error]: El nombre de archivo, el nombre de directorio o la sintaxis de la etiqueta del volumen no son correctos.
+
+[2022-08-25T22:41:29.484Z] : [error]: Tiempo total de ejecución: 2s 299ms
+
+[2022-08-25T22:41:29.485Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:41:59.783Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:42:04.494Z] : [success]: Bot iniciado
+
+[2022-08-25T22:42:04.495Z] : [info]: Robot start
+
+[2022-08-25T22:42:06.698Z] : [error]: ""T:\FA graphs ANC_plantilla.xlsx"" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+
+[2022-08-25T22:42:06.700Z] : [error]: Tiempo total de ejecución: 2s 203ms
+
+[2022-08-25T22:42:06.701Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:44:52.518Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:44:57.623Z] : [success]: Bot iniciado
+
+[2022-08-25T22:44:57.624Z] : [info]: Robot start
+
+[2022-08-25T22:44:59.872Z] : [error]: ""T:\FA graphs ANC_plantilla.xlsx"" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+
+[2022-08-25T22:44:59.875Z] : [error]: Tiempo total de ejecución: 2s 248ms
+
+[2022-08-25T22:44:59.876Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:45:29.173Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:45:34.528Z] : [success]: Bot iniciado
+
+[2022-08-25T22:45:34.528Z] : [info]: Robot start
+
+[2022-08-25T22:45:36.748Z] : [error]: "T:\FA" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+
+[2022-08-25T22:45:36.753Z] : [error]: Tiempo total de ejecución: 2s 219ms
+
+[2022-08-25T22:45:36.753Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:49:21.529Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:49:21.543Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:49:21.544Z] : [success]: Bot iniciado
+
+[2022-08-25T22:49:21.544Z] : [info]: Robot start
+
+[2022-08-25T22:49:23.745Z] : [error]: ""T:\FA graphs ANC_plantilla.xlsx"" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+
+[2022-08-25T22:49:23.748Z] : [error]: Tiempo total de ejecución: 2s 201ms
+
+[2022-08-25T22:49:23.749Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:53:03.676Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:53:03.715Z] : [success]: Bot iniciado
+
+[2022-08-25T22:53:03.716Z] : [info]: Robot start
+
+[2022-08-25T22:53:05.989Z] : [error]: ENOENT: no such file or directory, stat 'T:\FA graphs ANC_plantilla.xlsx'
+
+[2022-08-25T22:53:05.991Z] : [error]: Tiempo total de ejecución: 2s 273ms
+
+[2022-08-25T22:53:05.992Z] : [info]: ---------------------------------------------
+
+[2022-08-25T22:53:33.425Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T22:53:33.436Z] : [success]: Bot iniciado
+
+[2022-08-25T22:53:33.437Z] : [info]: Robot start
+
+[2022-08-25T22:53:35.856Z] : [error]: ENOENT: no such file or directory, stat 'T:\FA graphs ANC_plantilla.xlsx'
+
+[2022-08-25T22:53:35.858Z] : [error]: Tiempo total de ejecución: 2s 419ms
+
+[2022-08-25T22:53:35.859Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:03:10.575Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T23:03:10.604Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:03:10.604Z] : [success]: Bot iniciado
+
+[2022-08-25T23:03:10.605Z] : [info]: Robot start
+
+[2022-08-25T23:03:16.959Z] : [error]: El nombre de usuario o la contraseña no son correctos.
+
+
+[2022-08-25T23:03:16.962Z] : [error]: Tiempo total de ejecución: 6s 354ms
+
+[2022-08-25T23:03:16.963Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:04:32.142Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T23:04:32.179Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:04:32.179Z] : [success]: Bot iniciado
+
+[2022-08-25T23:04:32.180Z] : [info]: Robot start
+
+[2022-08-25T23:04:37.427Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 5s 245ms
+
+[2022-08-25T23:04:37.428Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:06:06.734Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T23:06:06.771Z] : [success]: Bot iniciado
+
+[2022-08-25T23:06:06.773Z] : [info]: Robot start
+
+[2022-08-25T23:06:13.164Z] : [error]: Terminal: Se produjo una excepción en el inicializador de tipo de 'ElectroneekWinAgent.SelectorsApi.Controllers.TerminalController'.
+
+[2022-08-25T23:06:13.166Z] : [error]: Tiempo total de ejecución: 6s 390ms
+
+[2022-08-25T23:06:13.167Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:09:29.575Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T23:09:29.601Z] : [success]: Bot iniciado
+
+[2022-08-25T23:09:29.602Z] : [info]: Robot start
+
+[2022-08-25T23:09:50.335Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 20s 728ms
+
+[2022-08-25T23:09:50.337Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:11:17.136Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T23:11:17.180Z] : [success]: Bot iniciado
+
+[2022-08-25T23:11:17.181Z] : [info]: Robot start
+
+[2022-08-25T23:11:30.538Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 13s 356ms
+
+[2022-08-25T23:11:30.539Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:11:56.079Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T23:11:56.090Z] : [success]: Bot iniciado
+
+[2022-08-25T23:11:56.090Z] : [info]: Robot start
+
+[2022-08-25T23:12:08.453Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 12s 361ms
+
+[2022-08-25T23:12:08.454Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:17:06.645Z] : [success]: Bot iniciado
+
+[2022-08-25T23:17:06.646Z] : [info]: Robot start
+
+[2022-08-25T23:17:23.466Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 16s 817ms
+
+[2022-08-25T23:17:23.467Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:21:17.029Z] : [success]: Robot guardado correctamente
+
+[2022-08-25T23:21:17.055Z] : [success]: Bot iniciado
+
+[2022-08-25T23:21:17.056Z] : [info]: Robot start
+
+[2022-08-25T23:21:29.976Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 12s 919ms
+
+[2022-08-25T23:21:29.977Z] : [info]: ---------------------------------------------
+
+[2022-08-25T23:22:17.481Z] : [success]: Robot guardado correctamente
+

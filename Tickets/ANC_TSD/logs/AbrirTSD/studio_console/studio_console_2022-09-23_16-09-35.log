@@ -1,0 +1,120 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 23/9/2022, 22:48:49
+  ==========================================
+  
+
+[2022-09-24T01:51:16.738Z] : [info]: ---------------------------------------------
+
+[2022-09-24T01:51:16.739Z] : [success]: Bot started
+
+[2022-09-24T01:51:16.739Z] : [info]: Robot start
+
+[2022-09-24T01:52:07.819Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-09-24T01:52:07.821Z] : [error]: Total execution time: 51s 79ms
+
+[2022-09-24T01:52:07.822Z] : [info]: ---------------------------------------------
+
+[2022-09-24T01:55:33.966Z] : [success]: Robot saved successfully
+
+[2022-09-24T01:55:38.808Z] : [success]: Bot started
+
+[2022-09-24T01:55:38.809Z] : [info]: Robot start
+
+[2022-09-24T01:56:36.650Z] : [success]: Bot finished successfully, total execution time: 57s 839ms
+
+[2022-09-24T01:56:36.651Z] : [info]: ---------------------------------------------
+
+[2022-09-24T01:57:57.506Z] : [success]: Robot saved successfully
+
+[2022-09-24T01:59:39.686Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:03:13.592Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:03:18.941Z] : [success]: Bot started
+
+[2022-09-24T02:03:18.942Z] : [info]: Robot start
+
+[2022-09-24T02:04:09.751Z] : [error]: C:\Users\Jorge Noguera\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe: can't open file 'C:\\Users\\Jorge Noguera\\Downloads\\pressCtrl.py': [Errno 2] No such file or directory
+
+
+[2022-09-24T02:04:09.754Z] : [error]: Total execution time: 50s 808ms
+
+[2022-09-24T02:04:09.755Z] : [info]: ---------------------------------------------
+
+[2022-09-24T02:04:39.178Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:04:59.249Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:04:59.576Z] : [info]: ---------------------------------------------
+
+[2022-09-24T02:04:59.577Z] : [success]: Bot started
+
+[2022-09-24T02:04:59.578Z] : [info]: Robot start
+
+[2022-09-24T02:06:06.645Z] : [success]: Bot finished successfully, total execution time: 1m 7s 65ms
+
+[2022-09-24T02:06:06.646Z] : [info]: ---------------------------------------------
+
+[2022-09-24T02:06:51.421Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:07:02.908Z] : [success]: Bot started
+
+[2022-09-24T02:07:02.910Z] : [info]: Robot start
+
+[2022-09-24T02:07:28.393Z] : [success]: Bot finished successfully, total execution time: 25s 482ms
+
+[2022-09-24T02:07:28.394Z] : [info]: ---------------------------------------------
+
+[2022-09-24T02:08:35.014Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:08:39.298Z] : [success]: Bot started
+
+[2022-09-24T02:08:39.299Z] : [info]: Robot start
+
+[2022-09-24T02:09:07.836Z] : [success]: Bot finished successfully, total execution time: 28s 536ms
+
+[2022-09-24T02:09:07.837Z] : [info]: ---------------------------------------------
+
+[2022-09-24T02:10:36.511Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:10:42.762Z] : [success]: Bot started
+
+[2022-09-24T02:10:42.763Z] : [info]: Robot start
+
+[2022-09-24T02:11:11.320Z] : [success]: Bot finished successfully, total execution time: 28s 556ms
+
+[2022-09-24T02:11:11.322Z] : [info]: ---------------------------------------------
+
+[2022-09-24T02:11:25.737Z] : [success]: Robot saved successfully
+
+[2022-09-24T02:11:32.505Z] : [success]: Bot started
+
+[2022-09-24T02:11:32.506Z] : [info]: Robot start
+
+[2022-09-24T02:12:00.094Z] : [success]: Bot finished successfully, total execution time: 27s 587ms
+
+[2022-09-24T02:12:00.095Z] : [info]: ---------------------------------------------
+
+[2022-09-24T02:12:53.976Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.977Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.980Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.982Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.983Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.985Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.986Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.987Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.990Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-24T02:12:53.991Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,44 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 16:59:47
+  ==========================================
+  
+
+[2022-08-20T20:09:54.461Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 17:10:35
+  ==========================================
+  
+
+[2022-08-20T20:19:40.868Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:53:29.379Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:54:28.038Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:55:06.865Z] : [success]: Robot saved successfully
+
+[2022-08-20T21:01:25.672Z] : [success]: Robot saved successfully
+
+[2022-08-20T21:04:56.647Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-08-20T21:04:56.649Z] : [error]: Total execution time: 36s 485ms
+
+[2022-08-20T21:04:56.650Z] : [info]: ---------------------------------------------
+
+[2022-08-20T21:07:25.257Z] : [success]: Robot saved successfully
+
+[2022-08-20T21:09:11.151Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-08-20T21:09:11.153Z] : [error]: Total execution time: 1m 35s 852ms
+
+[2022-08-20T21:09:11.153Z] : [info]: ---------------------------------------------
+
+[2022-08-20T21:09:56.722Z] : [success]: Robot saved successfully
+
+[2022-08-20T21:13:07.146Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,70 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 14/9/2022, 13:33:40
+  ==========================================
+  
+
+[2022-09-14T16:40:20.423Z] : [success]: Robot saved successfully
+
+[2022-09-14T16:40:20.644Z] : [info]: ---------------------------------------------
+
+[2022-09-14T16:40:20.645Z] : [success]: Bot started
+
+[2022-09-14T16:40:20.646Z] : [info]: Robot start
+
+[2022-09-14T16:40:26.835Z] : [error]: Usuario is not defined
+      undefined
+
+[2022-09-14T16:40:26.838Z] : [info]: ---------------------------------------------
+
+[2022-09-14T16:41:55.207Z] : [success]: Robot saved successfully
+
+[2022-09-14T16:41:55.455Z] : [success]: Bot started
+
+[2022-09-14T16:41:55.455Z] : [info]: Robot start
+
+[2022-09-14T16:42:00.612Z] : [success]: Bot finished successfully, total execution time: 5s 154ms
+
+[2022-09-14T16:42:00.615Z] : [info]: ---------------------------------------------
+
+[2022-09-14T16:43:14.265Z] : [success]: Robot saved successfully
+
+[2022-09-14T16:43:14.483Z] : [success]: Bot started
+
+[2022-09-14T16:43:14.484Z] : [info]: Robot start
+
+[2022-09-14T16:43:19.639Z] : [success]: Bot finished successfully, total execution time: 5s 153ms
+
+[2022-09-14T16:43:19.640Z] : [info]: ---------------------------------------------
+
+[2022-09-14T17:32:24.878Z] : [success]: Robot saved successfully
+
+[2022-09-14T17:32:25.131Z] : [success]: Bot started
+
+[2022-09-14T17:32:25.132Z] : [info]: Robot start
+
+[2022-09-14T17:32:29.278Z] : [success]: Bot finished successfully, total execution time: 4s 145ms
+
+[2022-09-14T17:32:29.279Z] : [info]: ---------------------------------------------
+
+[2022-09-14T17:33:02.925Z] : [success]: Robot saved successfully
+
+[2022-09-14T17:33:21.255Z] : [success]: Bot started
+
+[2022-09-14T17:33:21.256Z] : [info]: Robot start
+
+[2022-09-14T17:37:32.702Z] : [success]: Robot saved successfully
+
+[2022-09-14T17:37:32.899Z] : [info]: ---------------------------------------------
+
+[2022-09-14T17:37:32.900Z] : [success]: Bot started
+
+[2022-09-14T17:37:32.901Z] : [info]: Robot start
+
+[2022-09-14T17:37:45.141Z] : [success]: Bot finished successfully, total execution time: 12s 239ms
+
+[2022-09-14T17:37:45.142Z] : [info]: ---------------------------------------------
+
+[2022-09-14T17:40:00.795Z] : [success]: The workflow has been exported successfully
+

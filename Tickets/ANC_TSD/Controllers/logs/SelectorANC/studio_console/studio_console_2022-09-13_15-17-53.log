@@ -1,0 +1,173 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 13/9/2022, 15:18:13
+  ==========================================
+  
+
+[2022-09-13T18:18:21.831Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:18:42.709Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:19:27.705Z] : [error]: Script Stopped.
+
+[2022-09-13T18:19:27.708Z] : [warn]: Total execution time: 40s 655ms
+
+[2022-09-13T18:19:27.709Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:19:49.911Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:34:26.556Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:39:10.853Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:39:11.034Z] : [success]: Bot started
+
+[2022-09-13T18:39:11.035Z] : [info]: Robot start
+
+[2022-09-13T18:39:13.156Z] : [error]: ANC_LIST is not defined
+      undefined
+
+[2022-09-13T18:39:13.157Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:39:56.840Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:39:57.101Z] : [success]: Bot started
+
+[2022-09-13T18:39:57.102Z] : [info]: Robot start
+
+[2022-09-13T18:39:59.242Z] : [error]: anc is not defined
+
+[2022-09-13T18:39:59.246Z] : [error]: Total execution time: 2s 138ms
+
+[2022-09-13T18:39:59.247Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:40:31.382Z] : [success]: Bot started
+
+[2022-09-13T18:40:31.383Z] : [info]: Robot start
+
+[2022-09-13T18:40:33.473Z] : [error]: rlbLocsID is not defined
+
+[2022-09-13T18:40:33.478Z] : [error]: Total execution time: 2s 88ms
+
+[2022-09-13T18:40:33.480Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:40:46.760Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:40:46.936Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:40:46.937Z] : [success]: Bot started
+
+[2022-09-13T18:40:46.937Z] : [info]: Robot start
+
+[2022-09-13T18:40:49.064Z] : [error]: rlbLocsID is not defined
+
+[2022-09-13T18:40:49.069Z] : [error]: Total execution time: 2s 127ms
+
+[2022-09-13T18:40:49.071Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:42:01.859Z] : [success]: Bot started
+
+[2022-09-13T18:42:01.860Z] : [info]: Robot start
+
+[2022-09-13T18:42:04.000Z] : [error]: rlbLocsID is not defined
+
+[2022-09-13T18:42:04.002Z] : [error]: Total execution time: 2s 140ms
+
+[2022-09-13T18:42:04.003Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:42:23.405Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:42:23.572Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:42:23.573Z] : [success]: Bot started
+
+[2022-09-13T18:42:23.574Z] : [info]: Robot start
+
+[2022-09-13T18:42:25.659Z] : [error]: rlbLocsID is not defined
+
+[2022-09-13T18:42:25.661Z] : [error]: Total execution time: 2s 85ms
+
+[2022-09-13T18:42:25.661Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:47:48.599Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:47:48.728Z] : [success]: Bot started
+
+[2022-09-13T18:47:48.729Z] : [info]: Robot start
+
+[2022-09-13T18:47:50.825Z] : [error]: Cannot read properties of undefined (reading 'apply')
+
+[2022-09-13T18:47:50.827Z] : [error]: Total execution time: 2s 95ms
+
+[2022-09-13T18:47:50.828Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:48:29.628Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:48:29.804Z] : [success]: Bot started
+
+[2022-09-13T18:48:29.804Z] : [info]: Robot start
+
+[2022-09-13T18:48:31.961Z] : [error]: Cannot read properties of undefined (reading 'apply')
+
+[2022-09-13T18:48:31.964Z] : [error]: Total execution time: 2s 156ms
+
+[2022-09-13T18:48:31.965Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:48:47.244Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:48:47.245Z] : [success]: Bot started
+
+[2022-09-13T18:48:47.246Z] : [info]: Robot start
+
+[2022-09-13T18:48:49.307Z] : [error]: Cannot read properties of undefined (reading 'apply')
+
+[2022-09-13T18:48:49.309Z] : [error]: Total execution time: 2s 61ms
+
+[2022-09-13T18:48:49.310Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:50:35.811Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:50:36.171Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:50:36.172Z] : [success]: Bot started
+
+[2022-09-13T18:50:36.172Z] : [info]: Robot start
+
+[2022-09-13T18:50:39.294Z] : [success]: Bot finished successfully, total execution time: 3s 120ms
+
+[2022-09-13T18:50:39.295Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:50:51.890Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:50:52.190Z] : [success]: Bot started
+
+[2022-09-13T18:50:52.191Z] : [info]: Robot start
+
+[2022-09-13T18:50:55.338Z] : [success]: Bot finished successfully, total execution time: 3s 146ms
+
+[2022-09-13T18:50:55.340Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:20:00.052Z] : [error]: Canceled by user
+
+[2022-09-13T19:20:00.054Z] : [error]: Total execution time: 34s 434ms
+
+[2022-09-13T19:20:00.055Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:20:14.289Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:20:14.519Z] : [success]: Bot started
+
+[2022-09-13T19:20:14.520Z] : [info]: Robot start
+
+[2022-09-13T19:20:39.801Z] : [error]: chrome not reachable
+  (Session info: chrome=105.0.5195.125)
+
+[2022-09-13T19:20:39.802Z] : [error]: Total execution time: 25s 280ms
+
+[2022-09-13T19:20:39.803Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:22:16.038Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:34:40.998Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,281 @@
+
+  ==========================================
+  Studio Pro version: 8.6.10
+  Started at: 9/11/2022, 19:15:47
+  ==========================================
+  
+
+[2022-11-09T22:44:40.914Z] : [success]: Robot saved successfully
+
+[2022-11-09T22:45:09.213Z] : [success]: Robot saved successfully
+
+[2022-11-09T22:45:09.294Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:45:09.294Z] : [success]: Bot started
+
+[2022-11-09T22:45:09.295Z] : [info]: Robot start
+
+[2022-11-09T22:45:11.399Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 23, in <module>
+    xml_file.close()
+NameError: name 'xml_file' is not defined
+
+
+[2022-11-09T22:45:11.401Z] : [error]: Total execution time: 2s 103ms
+
+[2022-11-09T22:45:11.403Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:46:28.656Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:46:28.657Z] : [success]: Bot started
+
+[2022-11-09T22:46:28.658Z] : [info]: Robot start
+
+[2022-11-09T22:46:30.824Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 23, in <module>
+    xml_file.close()
+NameError: name 'xml_file' is not defined
+
+
+[2022-11-09T22:46:30.826Z] : [error]: Total execution time: 2s 166ms
+
+[2022-11-09T22:46:30.827Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:46:47.220Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:46:47.221Z] : [success]: Bot started
+
+[2022-11-09T22:46:47.222Z] : [info]: Robot start
+
+[2022-11-09T22:46:49.390Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 23, in <module>
+    xml_file.close()
+NameError: name 'xml_file' is not defined
+
+
+[2022-11-09T22:46:49.392Z] : [error]: Total execution time: 2s 168ms
+
+[2022-11-09T22:46:49.393Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:47:01.384Z] : [success]: Robot saved successfully
+
+[2022-11-09T22:47:05.362Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:47:05.363Z] : [success]: Bot started
+
+[2022-11-09T22:47:05.365Z] : [info]: Robot start
+
+[2022-11-09T22:47:07.471Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 23, in <module>
+    xml_file.close()
+NameError: name 'xml_file' is not defined
+
+
+[2022-11-09T22:47:07.473Z] : [error]: Total execution time: 2s 106ms
+
+[2022-11-09T22:47:07.474Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:47:30.914Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:47:30.915Z] : [success]: Bot started
+
+[2022-11-09T22:47:30.916Z] : [info]: Robot start
+
+[2022-11-09T22:47:33.087Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 23, in <module>
+    xml_file.close()
+NameError: name 'xml_file' is not defined
+
+
+[2022-11-09T22:47:33.089Z] : [error]: Total execution time: 2s 170ms
+
+[2022-11-09T22:47:33.090Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:47:48.896Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:47:48.897Z] : [success]: Bot started
+
+[2022-11-09T22:47:48.899Z] : [info]: Robot start
+
+[2022-11-09T22:47:51.084Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 23, in <module>
+    xml_file.close()
+NameError: name 'xml_file' is not defined
+
+
+[2022-11-09T22:47:51.086Z] : [error]: Total execution time: 2s 185ms
+
+[2022-11-09T22:47:51.086Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:48:04.671Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:48:04.671Z] : [success]: Bot started
+
+[2022-11-09T22:48:04.675Z] : [info]: Robot start
+
+[2022-11-09T22:48:06.861Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 23, in <module>
+    xml_file.close()
+NameError: name 'xml_file' is not defined
+
+
+[2022-11-09T22:48:06.862Z] : [error]: Total execution time: 2s 186ms
+
+[2022-11-09T22:48:06.863Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:48:53.041Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:48:53.042Z] : [success]: Bot started
+
+[2022-11-09T22:48:53.044Z] : [info]: Robot start
+
+[2022-11-09T22:48:55.200Z] : [success]: Bot finished successfully, total execution time: 2s 155ms
+
+[2022-11-09T22:48:55.201Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:49:06.961Z] : [success]: Robot saved successfully
+
+[2022-11-09T22:49:07.025Z] : [success]: Bot started
+
+[2022-11-09T22:49:07.025Z] : [info]: Robot start
+
+[2022-11-09T22:49:09.104Z] : [success]: Bot finished successfully, total execution time: 2s 77ms
+
+[2022-11-09T22:49:09.105Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:53:22.673Z] : [success]: Bot started
+
+[2022-11-09T22:53:22.674Z] : [info]: Robot start
+
+[2022-11-09T22:53:24.815Z] : [success]: Bot finished successfully, total execution time: 2s 137ms
+
+[2022-11-09T22:53:24.817Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:53:51.280Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:53:51.281Z] : [success]: Bot started
+
+[2022-11-09T22:53:51.285Z] : [info]: Robot start
+
+[2022-11-09T22:53:53.435Z] : [success]: Bot finished successfully, total execution time: 2s 148ms
+
+[2022-11-09T22:53:53.437Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:56:31.037Z] : [success]: Robot saved successfully
+
+[2022-11-09T22:56:35.673Z] : [success]: Bot started
+
+[2022-11-09T22:56:35.674Z] : [info]: Robot start
+
+[2022-11-09T22:56:37.827Z] : [success]: Bot finished successfully, total execution time: 2s 152ms
+
+[2022-11-09T22:56:37.828Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:57:29.286Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:57:29.288Z] : [success]: Bot started
+
+[2022-11-09T22:57:29.290Z] : [info]: Robot start
+
+[2022-11-09T22:57:31.454Z] : [success]: Bot finished successfully, total execution time: 2s 161ms
+
+[2022-11-09T22:57:31.457Z] : [info]: ---------------------------------------------
+
+[2022-11-09T22:59:20.832Z] : [success]: Bot started
+
+[2022-11-09T22:59:20.833Z] : [info]: Robot start
+
+[2022-11-09T22:59:22.965Z] : [success]: Bot finished successfully, total execution time: 2s 130ms
+
+[2022-11-09T22:59:22.967Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:00:20.928Z] : [success]: Bot started
+
+[2022-11-09T23:00:20.929Z] : [info]: Robot start
+
+[2022-11-09T23:00:23.069Z] : [success]: Bot finished successfully, total execution time: 2s 140ms
+
+[2022-11-09T23:00:23.070Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:01:01.902Z] : [success]: Bot started
+
+[2022-11-09T23:01:01.903Z] : [info]: Robot start
+
+[2022-11-09T23:01:04.009Z] : [success]: Bot finished successfully, total execution time: 2s 105ms
+
+[2022-11-09T23:01:04.010Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:02:59.073Z] : [success]: Robot saved successfully
+
+[2022-11-09T23:02:59.138Z] : [success]: Bot started
+
+[2022-11-09T23:02:59.139Z] : [info]: Robot start
+
+[2022-11-09T23:03:01.287Z] : [success]: Bot finished successfully, total execution time: 2s 147ms
+
+[2022-11-09T23:03:01.288Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:05:19.523Z] : [success]: Bot started
+
+[2022-11-09T23:05:19.525Z] : [info]: Robot start
+
+[2022-11-09T23:05:21.672Z] : [success]: Bot finished successfully, total execution time: 2s 146ms
+
+[2022-11-09T23:05:21.673Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:06:12.350Z] : [success]: Bot started
+
+[2022-11-09T23:06:12.351Z] : [info]: Robot start
+
+[2022-11-09T23:06:14.474Z] : [success]: Bot finished successfully, total execution time: 2s 121ms
+
+[2022-11-09T23:06:14.475Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:09:23.804Z] : [success]: Bot started
+
+[2022-11-09T23:09:23.806Z] : [info]: Robot start
+
+[2022-11-09T23:09:25.951Z] : [error]:   File "C:\Users\Jorge Noguera\Documents\Tickets\Python\execute_js_code_scripts\main.py", line 4
+    file_path = "C:\users\\"+os.getuser()
+                            ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \uXXXX escape
+
+
+[2022-11-09T23:09:25.952Z] : [error]: Total execution time: 2s 144ms
+
+[2022-11-09T23:09:25.954Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:09:53.487Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:09:53.488Z] : [success]: Bot started
+
+[2022-11-09T23:09:53.490Z] : [info]: Robot start
+
+[2022-11-09T23:09:55.605Z] : [success]: Bot finished successfully, total execution time: 2s 114ms
+
+[2022-11-09T23:09:55.606Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:10:26.244Z] : [success]: Bot started
+
+[2022-11-09T23:10:26.244Z] : [info]: Robot start
+
+[2022-11-09T23:10:28.373Z] : [success]: Bot finished successfully, total execution time: 2s 127ms
+
+[2022-11-09T23:10:28.376Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:11:56.224Z] : [success]: Bot started
+
+[2022-11-09T23:11:56.225Z] : [info]: Robot start
+
+[2022-11-09T23:11:58.324Z] : [success]: Bot finished successfully, total execution time: 2s 96ms
+
+[2022-11-09T23:11:58.325Z] : [info]: ---------------------------------------------
+
+[2022-11-09T23:19:07.290Z] : [success]: Bot started
+
+[2022-11-09T23:19:07.290Z] : [info]: Robot start
+
+[2022-11-09T23:19:09.387Z] : [success]: Bot finished successfully, total execution time: 2s 96ms
+
+[2022-11-09T23:19:09.388Z] : [info]: ---------------------------------------------
+

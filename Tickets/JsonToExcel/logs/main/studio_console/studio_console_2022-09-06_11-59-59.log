@@ -1,0 +1,210 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 6/9/2022, 12:01:15
+  ==========================================
+  
+
+[2022-09-06T15:02:03.789Z] : [success]: Robot saved successfully
+
+[2022-09-06T15:05:38.014Z] : [success]: Robot saved successfully
+
+[2022-09-06T15:05:38.154Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:05:38.155Z] : [success]: Bot started
+
+[2022-09-06T15:05:38.155Z] : [info]: Robot start
+
+[2022-09-06T15:05:41.133Z] : [info]: John
+
+[2022-09-06T15:05:41.201Z] : [info]: Jane
+
+[2022-09-06T15:05:41.258Z] : [info]: Albert
+
+[2022-09-06T15:05:41.327Z] : [info]: Michael
+
+[2022-09-06T15:05:41.399Z] : [info]: Doug
+
+[2022-09-06T15:05:41.448Z] : [info]: Jessie
+
+[2022-09-06T15:05:41.507Z] : [info]: Stan
+
+[2022-09-06T15:05:41.554Z] : [info]: Michelle
+
+[2022-09-06T15:05:41.614Z] : [info]: Stacy
+
+[2022-09-06T15:05:41.681Z] : [info]: Lara
+
+[2022-09-06T15:05:42.381Z] : [success]: Bot finished successfully, total execution time: 4s 224ms
+
+[2022-09-06T15:05:42.382Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:08:18.105Z] : [success]: Robot saved successfully
+
+[2022-09-06T15:10:36.666Z] : [success]: Robot saved successfully
+
+[2022-09-06T15:10:41.921Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:10:41.924Z] : [success]: Bot started
+
+[2022-09-06T15:10:41.924Z] : [info]: Robot start
+
+[2022-09-06T15:10:45.245Z] : [info]: John
+
+[2022-09-06T15:10:45.292Z] : [info]: Jane
+
+[2022-09-06T15:10:45.354Z] : [info]: Albert
+
+[2022-09-06T15:10:45.418Z] : [info]: Michael
+
+[2022-09-06T15:10:45.480Z] : [info]: Doug
+
+[2022-09-06T15:10:45.543Z] : [info]: Jessie
+
+[2022-09-06T15:10:45.622Z] : [info]: Stan
+
+[2022-09-06T15:10:45.702Z] : [info]: Michelle
+
+[2022-09-06T15:10:45.776Z] : [info]: Stacy
+
+[2022-09-06T15:10:45.876Z] : [info]: Lara
+
+[2022-09-06T15:10:46.037Z] : [success]: Bot finished successfully, total execution time: 4s 112ms
+
+[2022-09-06T15:10:46.038Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:17:04.768Z] : [success]: Robot saved successfully
+
+[2022-09-06T15:17:09.380Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:17:09.381Z] : [success]: Bot started
+
+[2022-09-06T15:17:09.381Z] : [info]: Robot start
+
+[2022-09-06T15:17:14.631Z] : [info]: John
+
+[2022-09-06T15:17:14.694Z] : [info]: Jane
+
+[2022-09-06T15:17:14.741Z] : [info]: Albert
+
+[2022-09-06T15:17:14.821Z] : [info]: Michael
+
+[2022-09-06T15:17:14.919Z] : [info]: Doug
+
+[2022-09-06T15:17:14.977Z] : [info]: Jessie
+
+[2022-09-06T15:17:15.041Z] : [info]: Stan
+
+[2022-09-06T15:17:15.119Z] : [info]: Michelle
+
+[2022-09-06T15:17:15.185Z] : [info]: Stacy
+
+[2022-09-06T15:17:15.262Z] : [info]: Lara
+
+[2022-09-06T15:17:15.671Z] : [success]: Bot finished successfully, total execution time: 6s 287ms
+
+[2022-09-06T15:17:15.675Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:18:11.792Z] : [success]: Robot saved successfully
+
+[2022-09-06T15:18:11.803Z] : [success]: Bot started
+
+[2022-09-06T15:18:11.804Z] : [info]: Robot start
+
+[2022-09-06T15:18:14.998Z] : [info]: John
+
+[2022-09-06T15:18:15.093Z] : [info]: Jane
+
+[2022-09-06T15:18:15.143Z] : [info]: Albert
+
+[2022-09-06T15:18:15.203Z] : [info]: Michael
+
+[2022-09-06T15:18:15.281Z] : [info]: Doug
+
+[2022-09-06T15:18:15.360Z] : [info]: Jessie
+
+[2022-09-06T15:18:15.439Z] : [info]: Stan
+
+[2022-09-06T15:18:15.503Z] : [info]: Michelle
+
+[2022-09-06T15:18:15.577Z] : [info]: Stacy
+
+[2022-09-06T15:18:15.645Z] : [info]: Lara
+
+[2022-09-06T15:18:15.938Z] : [success]: Bot finished successfully, total execution time: 4s 133ms
+
+[2022-09-06T15:18:15.939Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:19:53.557Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:19:53.557Z] : [success]: Bot started
+
+[2022-09-06T15:19:53.558Z] : [info]: Robot start
+
+[2022-09-06T15:19:57.123Z] : [info]: John
+
+[2022-09-06T15:19:57.169Z] : [info]: Jane
+
+[2022-09-06T15:19:57.263Z] : [info]: Albert
+
+[2022-09-06T15:19:57.358Z] : [info]: Michael
+
+[2022-09-06T15:19:57.420Z] : [info]: Doug
+
+[2022-09-06T15:19:57.483Z] : [info]: Jessie
+
+[2022-09-06T15:19:57.530Z] : [info]: Stan
+
+[2022-09-06T15:19:57.593Z] : [info]: Michelle
+
+[2022-09-06T15:19:57.640Z] : [info]: Stacy
+
+[2022-09-06T15:19:57.719Z] : [info]: Lara
+
+[2022-09-06T15:19:57.915Z] : [success]: Bot finished successfully, total execution time: 4s 356ms
+
+[2022-09-06T15:19:57.916Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:23:09.272Z] : [success]: Robot saved successfully
+
+[2022-09-06T15:23:15.531Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:23:15.534Z] : [success]: Bot started
+
+[2022-09-06T15:23:15.535Z] : [info]: Robot start
+
+[2022-09-06T15:23:19.015Z] : [info]: John
+
+[2022-09-06T15:23:19.142Z] : [info]: Jane
+
+[2022-09-06T15:23:19.290Z] : [info]: Albert
+
+[2022-09-06T15:23:19.385Z] : [info]: Michael
+
+[2022-09-06T15:23:19.526Z] : [info]: Doug
+
+[2022-09-06T15:23:19.668Z] : [info]: Jessie
+
+[2022-09-06T15:23:19.762Z] : [info]: Stan
+
+[2022-09-06T15:23:19.878Z] : [info]: Michelle
+
+[2022-09-06T15:23:20.013Z] : [info]: Stacy
+
+[2022-09-06T15:23:20.112Z] : [info]: Lara
+
+[2022-09-06T15:23:20.780Z] : [success]: Bot finished successfully, total execution time: 5s 244ms
+
+[2022-09-06T15:23:20.781Z] : [info]: ---------------------------------------------
+
+[2022-09-06T15:24:49.512Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 6/9/2022, 12:25:00
+  ==========================================
+  
+
+[2022-09-06T15:25:26.617Z] : [success]: Robot saved successfully
+

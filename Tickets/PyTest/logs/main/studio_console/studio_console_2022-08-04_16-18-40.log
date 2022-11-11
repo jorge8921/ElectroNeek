@@ -1,0 +1,177 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 4/8/2022, 18:10:38
+  ==========================================
+  
+
+[2022-08-04T21:14:28.385Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:14:33.355Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:14:33.357Z] : [success]: Bot started
+
+[2022-08-04T21:14:33.357Z] : [info]: Robot start
+
+[2022-08-04T21:14:46.844Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\PyTest\testPY.py", line 1, in <module>
+    import pyautogui
+ModuleNotFoundError: No module named 'pyautogui'
+
+
+[2022-08-04T21:14:46.851Z] : [error]: Total execution time: 13s 485ms
+
+[2022-08-04T21:14:46.854Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:24:30.579Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:24:30.711Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:24:30.712Z] : [success]: Bot started
+
+[2022-08-04T21:24:30.712Z] : [info]: Robot start
+
+[2022-08-04T21:24:35.641Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T21:24:35.645Z] : [error]: Total execution time: 4s 929ms
+
+[2022-08-04T21:24:35.646Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:28:53.816Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:28:53.913Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:28:53.913Z] : [success]: Bot started
+
+[2022-08-04T21:28:53.914Z] : [info]: Robot start
+
+[2022-08-04T21:28:57.016Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\PyTest\testPY.py", line 1, in <module>
+    import pyautogui
+ModuleNotFoundError: No module named 'pyautogui'
+
+
+[2022-08-04T21:28:57.019Z] : [error]: Total execution time: 3s 102ms
+
+[2022-08-04T21:28:57.020Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:31:28.453Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:31:28.547Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:31:28.547Z] : [success]: Bot started
+
+[2022-08-04T21:31:28.548Z] : [info]: Robot start
+
+[2022-08-04T21:31:30.665Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T21:31:30.668Z] : [error]: Total execution time: 2s 116ms
+
+[2022-08-04T21:31:30.669Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:33:37.885Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:33:37.886Z] : [success]: Bot started
+
+[2022-08-04T21:33:37.888Z] : [info]: Robot start
+
+[2022-08-04T21:33:40.045Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T21:33:40.048Z] : [error]: Total execution time: 2s 156ms
+
+[2022-08-04T21:33:40.049Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:33:52.778Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:33:52.874Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:33:52.875Z] : [success]: Bot started
+
+[2022-08-04T21:33:52.875Z] : [info]: Robot start
+
+[2022-08-04T21:33:54.933Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\PyTest\testPY.py", line 1, in <module>
+    import pyautogui
+ModuleNotFoundError: No module named 'pyautogui'
+
+
+[2022-08-04T21:33:54.934Z] : [error]: Total execution time: 2s 57ms
+
+[2022-08-04T21:33:54.935Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:50:56.236Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:50:56.333Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:50:56.334Z] : [success]: Bot started
+
+[2022-08-04T21:50:56.335Z] : [info]: Robot start
+
+[2022-08-04T21:51:01.241Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T21:51:01.243Z] : [error]: Total execution time: 4s 906ms
+
+[2022-08-04T21:51:01.244Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:56:16.063Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:56:16.174Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:56:16.175Z] : [success]: Bot started
+
+[2022-08-04T21:56:16.176Z] : [info]: Robot start
+
+[2022-08-04T21:56:19.272Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\PyTest\testPY.py", line 1, in <module>
+    import pyautogui
+ModuleNotFoundError: No module named 'pyautogui'
+
+
+[2022-08-04T21:56:19.277Z] : [error]: Total execution time: 3s 96ms
+
+[2022-08-04T21:56:19.278Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:57:04.574Z] : [success]: Bot started
+
+[2022-08-04T21:57:04.575Z] : [info]: Robot start
+
+[2022-08-04T21:57:07.685Z] : [success]: Bot finished successfully, total execution time: 3s 109ms
+
+[2022-08-04T21:57:07.685Z] : [info]: ---------------------------------------------
+
+[2022-08-04T22:01:23.260Z] : [info]: ---------------------------------------------
+
+[2022-08-04T22:01:23.261Z] : [success]: Bot started
+
+[2022-08-04T22:01:23.262Z] : [info]: Robot start
+
+[2022-08-04T22:01:26.336Z] : [success]: Bot finished successfully, total execution time: 3s 73ms
+
+[2022-08-04T22:01:26.337Z] : [info]: ---------------------------------------------
+
+[2022-08-04T22:14:44.145Z] : [success]: Robot saved successfully
+
+[2022-08-04T22:15:42.594Z] : [success]: Robot saved successfully
+
+[2022-08-04T22:16:26.326Z] : [success]: Bot started
+
+[2022-08-04T22:16:26.327Z] : [info]: Robot start
+
+[2022-08-04T22:16:34.343Z] : [success]: Bot finished successfully, total execution time: 8s 15ms
+
+[2022-08-04T22:16:34.344Z] : [info]: ---------------------------------------------
+
+[2022-08-04T22:17:05.363Z] : [success]: The workflow has been exported successfully
+
+[2022-08-04T22:18:07.415Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T22:18:07.416Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T22:18:07.420Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T22:18:07.424Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T22:18:07.425Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T22:18:07.428Z] : [error]: Cannot read properties of null (reading 'type')
+

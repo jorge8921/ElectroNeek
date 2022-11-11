@@ -1,0 +1,144 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 11/8/2022, 12:36:38
+  ==========================================
+  
+
+[2022-08-11T15:42:56.477Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 11/8/2022, 16:29:20
+  ==========================================
+  
+
+[2022-08-11T19:29:42.366Z] : [success]: Robot saved successfully
+
+[2022-08-11T19:29:43.116Z] : [error]: Activity parameters required: Open URL
+
+[2022-08-11T19:29:43.118Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:29:48.009Z] : [error]: Activity parameters required: Open URL
+
+[2022-08-11T19:29:48.011Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:30:16.521Z] : [success]: Robot saved successfully
+
+[2022-08-11T19:30:16.554Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:30:16.555Z] : [success]: Bot started
+
+[2022-08-11T19:30:16.556Z] : [info]: Robot start
+
+[2022-08-11T19:30:43.390Z] : [error]: Selectors: "El dispositivo no está listo.\r\n"
+
+
+[2022-08-11T19:30:43.392Z] : [error]: Total execution time: 26s 833ms
+
+[2022-08-11T19:30:43.393Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:31:28.921Z] : [success]: Robot saved successfully
+
+[2022-08-11T19:31:37.312Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:31:37.313Z] : [success]: Bot started
+
+[2022-08-11T19:31:37.313Z] : [info]: Robot start
+
+[2022-08-11T19:31:53.840Z] : [error]: Selectors: "El dispositivo no está listo.\r\n"
+
+
+[2022-08-11T19:31:53.842Z] : [error]: Total execution time: 16s 527ms
+
+[2022-08-11T19:31:53.843Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:32:13.449Z] : [success]: Robot saved successfully
+
+[2022-08-11T19:32:21.248Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:32:21.249Z] : [success]: Bot started
+
+[2022-08-11T19:32:21.250Z] : [info]: Robot start
+
+[2022-08-11T19:32:37.553Z] : [error]: Selectors: "Lo sentimos, no hemos encontrado D:\\Users\\kelly\\Downloads\\Planilla Becariari (2) (1).xlsx. ¿Puede ser que lo haya movido, eliminado o le hayas cambiado el nombre?"
+
+
+[2022-08-11T19:32:37.554Z] : [error]: Total execution time: 16s 302ms
+
+[2022-08-11T19:32:37.555Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:33:40.234Z] : [success]: Robot saved successfully
+
+[2022-08-11T19:33:45.563Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:33:45.564Z] : [success]: Bot started
+
+[2022-08-11T19:33:45.565Z] : [info]: Robot start
+
+[2022-08-11T19:36:43.217Z] : [error]: Script Stopped.
+
+[2022-08-11T19:36:43.218Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:40:15.336Z] : [success]: Robot saved successfully
+
+[2022-08-11T19:40:47.691Z] : [success]: Robot saved successfully
+
+[2022-08-11T19:40:54.476Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:40:54.477Z] : [success]: Bot started
+
+[2022-08-11T19:40:54.478Z] : [info]: Robot start
+
+[2022-08-11T19:41:10.048Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-11T19:41:10.050Z] : [error]: Total execution time: 15s 570ms
+
+[2022-08-11T19:41:10.051Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:41:29.954Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:41:29.955Z] : [success]: Bot started
+
+[2022-08-11T19:41:29.955Z] : [info]: Robot start
+
+[2022-08-11T19:41:46.467Z] : [error]: Selectors: "No se puede encontrar una parte de la ruta de acceso 'D:\\Users\\kelly\\Downloads\\Planilla Becariari (2) (1).xlsx'."
+
+
+[2022-08-11T19:41:46.469Z] : [error]: Total execution time: 16s 511ms
+
+[2022-08-11T19:41:46.469Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:42:22.324Z] : [info]: ---------------------------------------------
+
+[2022-08-11T19:42:22.325Z] : [success]: Bot started
+
+[2022-08-11T19:42:22.326Z] : [info]: Robot start
+
+[2022-08-11T19:44:31.673Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T19:44:32.020Z] : [error]: Wrong input format
+
+[2022-08-11T19:44:32.022Z] : [error]: Total execution time: 2m 9s 693ms
+
+[2022-08-11T19:44:32.023Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:05:19.096Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:05:27.013Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:05:27.014Z] : [success]: Bot started
+
+[2022-08-11T20:05:27.016Z] : [info]: Robot start
+
+[2022-08-11T20:07:21.342Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T20:07:21.608Z] : [error]: Wrong input format
+
+[2022-08-11T20:07:21.611Z] : [error]: Total execution time: 1m 54s 591ms
+
+[2022-08-11T20:07:21.612Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:31:14.992Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,236 @@
+[2022-08-11T20:10:21.596Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:14:16.680Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:16:29.021Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:16:33.922Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:16:33.923Z] : [success]: Bot started
+
+[2022-08-11T20:16:33.923Z] : [info]: Robot start
+
+[2022-08-11T20:16:38.197Z] : [success]: Bot finished successfully, total execution time: 4s 273ms
+
+[2022-08-11T20:16:38.198Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:21:17.781Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:41:44.222Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:42:27.178Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:42:27.178Z] : [success]: Bot started
+
+[2022-08-11T20:42:27.179Z] : [info]: Robot start
+
+[2022-08-11T20:42:31.862Z] : [error]: cuenta is not defined
+
+[2022-08-11T20:42:31.864Z] : [error]: Total execution time: 4s 682ms
+
+[2022-08-11T20:42:31.865Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:43:04.339Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:43:16.052Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:43:16.064Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:43:16.064Z] : [success]: Bot started
+
+[2022-08-11T20:43:16.065Z] : [info]: Robot start
+
+[2022-08-11T20:43:21.889Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T20:43:28.535Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-11T20:43:28.537Z] : [error]: Total execution time: 12s 469ms
+
+[2022-08-11T20:43:28.537Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:44:59.247Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:44:59.248Z] : [success]: Bot started
+
+[2022-08-11T20:44:59.249Z] : [info]: Robot start
+
+[2022-08-11T20:45:04.958Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T20:45:09.646Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-11T20:45:09.648Z] : [error]: Total execution time: 10s 397ms
+
+[2022-08-11T20:45:09.649Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:46:21.540Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:46:26.724Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:46:26.725Z] : [success]: Bot started
+
+[2022-08-11T20:46:26.725Z] : [info]: Robot start
+
+[2022-08-11T20:46:32.477Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T20:46:39.183Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-11T20:46:39.185Z] : [error]: Total execution time: 12s 458ms
+
+[2022-08-11T20:46:39.185Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:53:48.258Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:54:05.123Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:54:05.124Z] : [success]: Bot started
+
+[2022-08-11T20:54:05.124Z] : [info]: Robot start
+
+[2022-08-11T20:54:10.875Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T20:54:19.786Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-11T20:54:19.788Z] : [error]: Total execution time: 14s 662ms
+
+[2022-08-11T20:54:19.789Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:54:59.422Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:54:59.433Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:54:59.434Z] : [success]: Bot started
+
+[2022-08-11T20:54:59.435Z] : [info]: Robot start
+
+[2022-08-11T20:55:05.746Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T20:55:12.022Z] : [success]: Bot finished successfully, total execution time: 12s 586ms
+
+[2022-08-11T20:55:12.023Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:57:39.155Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:57:39.166Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:57:39.167Z] : [success]: Bot started
+
+[2022-08-11T20:57:39.168Z] : [info]: Robot start
+
+[2022-08-11T20:57:41.581Z] : [success]: Bot finished successfully, total execution time: 2s 413ms
+
+[2022-08-11T20:57:41.582Z] : [info]: ---------------------------------------------
+
+[2022-08-11T20:58:07.150Z] : [success]: Robot saved successfully
+
+[2022-08-11T20:58:07.160Z] : [success]: Bot started
+
+[2022-08-11T20:58:07.160Z] : [info]: Robot start
+
+[2022-08-11T20:58:12.807Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T20:58:17.562Z] : [success]: Bot finished successfully, total execution time: 10s 399ms
+
+[2022-08-11T20:58:17.564Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:02:04.491Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:02:04.503Z] : [success]: Bot started
+
+[2022-08-11T21:02:04.504Z] : [info]: Robot start
+
+[2022-08-11T21:02:10.126Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T21:02:18.024Z] : [success]: Bot finished successfully, total execution time: 13s 518ms
+
+[2022-08-11T21:02:18.025Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:03:27.432Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:03:27.445Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:03:27.445Z] : [success]: Bot started
+
+[2022-08-11T21:03:27.446Z] : [info]: Robot start
+
+[2022-08-11T21:03:33.272Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T21:03:40.010Z] : [success]: Bot finished successfully, total execution time: 12s 563ms
+
+[2022-08-11T21:03:40.011Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:09:32.908Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:09:32.921Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:09:32.921Z] : [success]: Bot started
+
+[2022-08-11T21:09:32.922Z] : [info]: Robot start
+
+[2022-08-11T21:09:38.619Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T21:09:45.399Z] : [success]: Bot finished successfully, total execution time: 12s 476ms
+
+[2022-08-11T21:09:45.400Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:12:36.509Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:12:36.522Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:12:36.523Z] : [success]: Bot started
+
+[2022-08-11T21:12:36.523Z] : [info]: Robot start
+
+[2022-08-11T21:12:42.471Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T21:12:49.096Z] : [success]: Bot finished successfully, total execution time: 12s 572ms
+
+[2022-08-11T21:12:49.097Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:14:19.691Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:14:19.702Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:14:19.703Z] : [success]: Bot started
+
+[2022-08-11T21:14:19.703Z] : [info]: Robot start
+
+[2022-08-11T21:14:25.238Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T21:14:33.141Z] : [success]: Bot finished successfully, total execution time: 13s 436ms
+
+[2022-08-11T21:14:33.142Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:15:51.200Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:18:20.920Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:18:31.957Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:18:31.958Z] : [success]: Bot started
+
+[2022-08-11T21:18:31.959Z] : [info]: Robot start
+
+[2022-08-11T21:18:37.547Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T21:19:00.524Z] : [success]: Bot finished successfully, total execution time: 28s 564ms
+
+[2022-08-11T21:19:00.525Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:24:22.594Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:26:34.904Z] : [success]: Robot saved successfully
+
+[2022-08-11T21:26:39.456Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:26:39.457Z] : [success]: Bot started
+
+[2022-08-11T21:26:39.457Z] : [info]: Robot start
+
+[2022-08-11T21:26:45.344Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-11T21:26:53.914Z] : [success]: Bot finished successfully, total execution time: 14s 456ms
+
+[2022-08-11T21:26:53.915Z] : [info]: ---------------------------------------------
+
+[2022-08-11T21:29:00.574Z] : [success]: Robot saved successfully
+

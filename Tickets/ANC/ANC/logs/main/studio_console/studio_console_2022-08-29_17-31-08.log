@@ -1,0 +1,81 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 29/8/2022 17:31:25
+  ==========================================
+  
+
+[2022-08-29T23:31:35.566Z] : [info]: ---------------------------------------------
+
+[2022-08-29T23:31:35.570Z] : [success]: Bot iniciado
+
+[2022-08-29T23:31:35.571Z] : [info]: Robot start
+
+[2022-08-29T23:32:02.806Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-29T23:32:02.810Z] : [error]: Tiempo total de ejecución: 27s 235ms
+
+[2022-08-29T23:32:02.812Z] : [info]: ---------------------------------------------
+
+[2022-08-29T23:50:25.495Z] : [success]: Robot guardado correctamente
+
+[2022-08-29T23:50:30.823Z] : [success]: Bot iniciado
+
+[2022-08-29T23:50:30.824Z] : [info]: Robot start
+
+[2022-08-29T23:51:01.443Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-29T23:51:01.455Z] : [error]: Tiempo total de ejecución: 30s 618ms
+
+[2022-08-29T23:51:01.457Z] : [info]: ---------------------------------------------
+
+[2022-08-29T23:53:02.002Z] : [success]: Robot guardado correctamente
+
+[2022-08-29T23:53:13.134Z] : [success]: Bot iniciado
+
+[2022-08-29T23:53:13.135Z] : [info]: Robot start
+
+[2022-08-29T23:54:31.541Z] : [error]: script timeout
+
+[2022-08-29T23:54:31.547Z] : [error]: Tiempo total de ejecución: 1m 18s 405ms
+
+[2022-08-29T23:54:31.548Z] : [info]: ---------------------------------------------
+
+[2022-08-29T23:54:40.550Z] : [success]: Bot iniciado
+
+[2022-08-29T23:54:40.551Z] : [info]: Robot start
+
+[2022-08-29T23:55:51.385Z] : [error]: script timeout
+
+[2022-08-29T23:55:51.390Z] : [error]: Tiempo total de ejecución: 1m 10s 834ms
+
+[2022-08-29T23:55:51.391Z] : [info]: ---------------------------------------------
+
+[2022-08-30T00:03:50.937Z] : [success]: Bot iniciado
+
+[2022-08-30T00:03:50.938Z] : [info]: Robot start
+
+[2022-08-30T00:05:00.530Z] : [error]: Script Stopped.
+
+[2022-08-30T00:05:00.535Z] : [info]: ---------------------------------------------
+
+[2022-08-30T00:05:19.649Z] : [success]: Bot iniciado
+
+[2022-08-30T00:05:19.650Z] : [info]: Robot start
+
+[2022-08-30T00:06:39.392Z] : [error]: script timeout
+
+[2022-08-30T00:06:39.399Z] : [error]: Tiempo total de ejecución: 1m 19s 741ms
+
+[2022-08-30T00:06:39.400Z] : [info]: ---------------------------------------------
+
+[2022-08-30T00:11:39.280Z] : [success]: Bot iniciado
+
+[2022-08-30T00:11:39.283Z] : [info]: Robot start
+
+[2022-08-30T00:12:00.846Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 21s 557ms
+
+[2022-08-30T00:12:00.848Z] : [info]: ---------------------------------------------
+
+[2022-08-30T00:15:34.390Z] : [success]: Robot guardado correctamente
+

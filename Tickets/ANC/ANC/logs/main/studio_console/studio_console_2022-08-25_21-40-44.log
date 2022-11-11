@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 25/8/2022 22:00:02
+  ==========================================
+  
+
+[2022-08-26T04:00:09.153Z] : [success]: Robot guardado correctamente
+
+[2022-08-26T04:00:09.184Z] : [info]: ---------------------------------------------
+
+[2022-08-26T04:00:09.185Z] : [success]: Bot iniciado
+
+[2022-08-26T04:00:09.186Z] : [info]: Robot start
+
+[2022-08-26T04:00:28.244Z] : [error]: File '\\172.16.30.3\Dpto-MK-RM\Bot_ANC\CredencialesTDS\User.txt.txt' does not exist.
+
+[2022-08-26T04:00:28.248Z] : [error]: Tiempo total de ejecución: 19s 57ms
+
+[2022-08-26T04:00:28.249Z] : [info]: ---------------------------------------------
+
+[2022-08-26T04:01:07.807Z] : [success]: Robot guardado correctamente
+
+[2022-08-26T04:01:20.962Z] : [success]: Bot iniciado
+
+[2022-08-26T04:01:20.963Z] : [info]: Robot start
+
+[2022-08-26T04:01:50.377Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-26T04:01:50.380Z] : [error]: Tiempo total de ejecución: 29s 414ms
+
+[2022-08-26T04:01:50.381Z] : [info]: ---------------------------------------------
+

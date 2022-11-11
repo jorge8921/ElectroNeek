@@ -1,0 +1,1 @@
+document.getElementById('rlbLocs_i0').click();

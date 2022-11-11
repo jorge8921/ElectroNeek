@@ -1,0 +1,253 @@
+
+  ==========================================
+  Studio Pro version: 8.6.10
+  Started at: 31/10/2022, 20:06:40
+  ==========================================
+  
+
+[2022-10-31T23:07:06.999Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:07:07.073Z] : [success]: Bot started
+
+[2022-10-31T23:07:07.074Z] : [info]: Robot start
+
+[2022-10-31T23:07:09.202Z] : [success]: Bot finished successfully, total execution time: 2s 127ms
+
+[2022-10-31T23:07:09.203Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:09:10.534Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:09:16.250Z] : [success]: Bot started
+
+[2022-10-31T23:09:16.251Z] : [info]: Robot start
+
+[2022-10-31T23:09:18.353Z] : [success]: Bot finished successfully, total execution time: 2s 100ms
+
+[2022-10-31T23:09:18.355Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:09:40.509Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:09:40.590Z] : [success]: Bot started
+
+[2022-10-31T23:09:40.591Z] : [info]: Robot start
+
+[2022-10-31T23:09:42.690Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-10-31T23:09:42.692Z] : [error]: Total execution time: 2s 99ms
+
+[2022-10-31T23:09:42.693Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:09:54.627Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:09:54.707Z] : [success]: Bot started
+
+[2022-10-31T23:09:54.707Z] : [info]: Robot start
+
+[2022-10-31T23:09:56.816Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-10-31T23:09:56.818Z] : [error]: Total execution time: 2s 109ms
+
+[2022-10-31T23:09:56.819Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:10:14.400Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:10:14.486Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:10:14.487Z] : [success]: Bot started
+
+[2022-10-31T23:10:14.487Z] : [info]: Robot start
+
+[2022-10-31T23:10:16.577Z] : [error]: Extract start greater than extract end
+
+[2022-10-31T23:10:16.581Z] : [error]: Total execution time: 2s 89ms
+
+[2022-10-31T23:10:16.583Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:10:42.081Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:10:42.159Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:10:42.159Z] : [success]: Bot started
+
+[2022-10-31T23:10:42.160Z] : [info]: Robot start
+
+[2022-10-31T23:10:44.236Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-10-31T23:10:44.237Z] : [error]: Total execution time: 2s 75ms
+
+[2022-10-31T23:10:44.238Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:10:55.266Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:10:55.334Z] : [success]: Bot started
+
+[2022-10-31T23:10:55.335Z] : [info]: Robot start
+
+[2022-10-31T23:10:57.439Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-10-31T23:10:57.441Z] : [error]: Total execution time: 2s 104ms
+
+[2022-10-31T23:10:57.442Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:11:11.635Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:11:11.711Z] : [success]: Bot started
+
+[2022-10-31T23:11:11.712Z] : [info]: Robot start
+
+[2022-10-31T23:11:13.830Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-10-31T23:11:13.832Z] : [error]: Total execution time: 2s 118ms
+
+[2022-10-31T23:11:13.833Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:11:30.298Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:11:30.356Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:11:30.357Z] : [success]: Bot started
+
+[2022-10-31T23:11:30.357Z] : [info]: Robot start
+
+[2022-10-31T23:11:32.409Z] : [success]: Bot finished successfully, total execution time: 2s 52ms
+
+[2022-10-31T23:11:32.410Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:17:11.531Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:17:11.617Z] : [success]: Bot started
+
+[2022-10-31T23:17:11.618Z] : [info]: Robot start
+
+[2022-10-31T23:17:13.727Z] : [success]: Bot finished successfully, total execution time: 2s 106ms
+
+[2022-10-31T23:17:13.728Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:35:09.370Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:35:11.870Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:37:00.592Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:37:00.593Z] : [success]: Bot started
+
+[2022-10-31T23:37:00.594Z] : [info]: Robot start
+
+[2022-10-31T23:37:02.711Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-10-31T23:37:02.715Z] : [error]: Total execution time: 2s 117ms
+
+[2022-10-31T23:37:02.716Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:39:43.224Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:39:43.304Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:39:43.305Z] : [success]: Bot started
+
+[2022-10-31T23:39:43.306Z] : [info]: Robot start
+
+[2022-10-31T23:39:45.399Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-10-31T23:39:45.403Z] : [error]: Total execution time: 2s 92ms
+
+[2022-10-31T23:39:45.404Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:39:54.577Z] : [success]: Robot saved successfully
+
+[2022-10-31T23:39:54.648Z] : [info]: ---------------------------------------------
+
+[2022-10-31T23:39:54.649Z] : [success]: Bot started
+
+[2022-10-31T23:39:54.649Z] : [info]: Robot start
+
+[2022-10-31T23:39:56.752Z] : [success]: Bot finished successfully, total execution time: 2s 102ms
+
+[2022-10-31T23:39:56.752Z] : [info]: ---------------------------------------------
+
+[2022-11-01T00:39:57.996Z] : [success]: Robot saved successfully
+
+[2022-11-01T00:39:58.084Z] : [info]: ---------------------------------------------
+
+[2022-11-01T00:39:58.084Z] : [success]: Bot started
+
+[2022-11-01T00:39:58.085Z] : [info]: Robot start
+
+[2022-11-01T00:40:00.236Z] : [success]: Bot finished successfully, total execution time: 2s 149ms
+
+[2022-11-01T00:40:00.239Z] : [info]: ---------------------------------------------
+
+[2022-11-01T00:40:23.582Z] : [success]: Robot saved successfully
+
+[2022-11-01T02:00:29.698Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:00:29.698Z] : [success]: Bot started
+
+[2022-11-01T02:00:29.699Z] : [info]: Robot start
+
+[2022-11-01T02:00:31.778Z] : [success]: Bot finished successfully, total execution time: 2s 76ms
+
+[2022-11-01T02:00:31.781Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:02:02.241Z] : [success]: Robot saved successfully
+
+[2022-11-01T02:02:02.313Z] : [success]: Bot started
+
+[2022-11-01T02:02:02.314Z] : [info]: Robot start
+
+[2022-11-01T02:02:04.383Z] : [success]: Bot finished successfully, total execution time: 2s 68ms
+
+[2022-11-01T02:02:04.384Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:02:31.971Z] : [success]: Bot started
+
+[2022-11-01T02:02:31.972Z] : [info]: Robot start
+
+[2022-11-01T02:02:34.057Z] : [success]: Bot finished successfully, total execution time: 2s 84ms
+
+[2022-11-01T02:02:34.058Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:03:11.899Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:03:11.900Z] : [success]: Bot started
+
+[2022-11-01T02:03:11.901Z] : [info]: Robot start
+
+[2022-11-01T02:03:14.064Z] : [success]: Bot finished successfully, total execution time: 2s 160ms
+
+[2022-11-01T02:03:14.066Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:03:39.540Z] : [success]: Bot started
+
+[2022-11-01T02:03:39.541Z] : [info]: Robot start
+
+[2022-11-01T02:03:41.620Z] : [success]: Bot finished successfully, total execution time: 2s 78ms
+
+[2022-11-01T02:03:41.621Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:04:47.312Z] : [success]: Robot saved successfully
+
+[2022-11-01T02:04:51.437Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:04:51.438Z] : [success]: Bot started
+
+[2022-11-01T02:04:51.438Z] : [info]: Robot start
+
+[2022-11-01T02:04:53.520Z] : [success]: Bot finished successfully, total execution time: 2s 81ms
+
+[2022-11-01T02:04:53.521Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:05:47.768Z] : [success]: Robot saved successfully
+
+[2022-11-01T02:05:53.641Z] : [success]: Robot saved successfully
+
+[2022-11-01T02:05:57.604Z] : [success]: Bot started
+
+[2022-11-01T02:05:57.605Z] : [info]: Robot start
+
+[2022-11-01T02:05:59.694Z] : [success]: Bot finished successfully, total execution time: 2s 88ms
+
+[2022-11-01T02:05:59.695Z] : [info]: ---------------------------------------------
+
+[2022-11-01T02:08:03.148Z] : [warn]: There is a small amount of free memory (RAM) left, 91.1% of RAM is being used (11111 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+

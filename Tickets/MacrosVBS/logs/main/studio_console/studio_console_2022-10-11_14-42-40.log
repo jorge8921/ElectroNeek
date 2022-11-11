@@ -1,0 +1,81 @@
+
+  ==========================================
+  Studio Pro version: 8.6.8
+  Started at: 11/10/2022, 14:43:42
+  ==========================================
+  
+
+[2022-10-11T17:44:32.914Z] : [success]: Robot saved successfully
+
+[2022-10-11T17:44:37.150Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:44:37.152Z] : [success]: Bot started
+
+[2022-10-11T17:44:37.154Z] : [info]: Robot start
+
+[2022-10-11T17:44:39.280Z] : [error]: Bot failed to execute the macros: the Sub or Function name you specified doesn’t exist in the script file. Correct the name of the Sub or Function you want to execute and run the bot again.
+
+[2022-10-11T17:44:39.283Z] : [error]: Total execution time: 2s 126ms
+
+[2022-10-11T17:44:39.284Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:44:51.178Z] : [success]: Robot saved successfully
+
+[2022-10-11T17:44:55.040Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:44:55.041Z] : [success]: Bot started
+
+[2022-10-11T17:44:55.042Z] : [info]: Robot start
+
+[2022-10-11T17:44:56.161Z] : [success]: Bot finished successfully, total execution time: 1s 118ms
+
+[2022-10-11T17:44:56.162Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:45:08.130Z] : [success]: Robot saved successfully
+
+[2022-10-11T17:45:14.158Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:45:14.159Z] : [success]: Bot started
+
+[2022-10-11T17:45:14.160Z] : [info]: Robot start
+
+[2022-10-11T17:45:16.260Z] : [success]: Bot finished successfully, total execution time: 2s 97ms
+
+[2022-10-11T17:45:16.262Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:46:29.845Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:46:29.846Z] : [success]: Bot started
+
+[2022-10-11T17:46:29.847Z] : [info]: Robot start
+
+[2022-10-11T17:46:31.966Z] : [success]: Bot finished successfully, total execution time: 2s 116ms
+
+[2022-10-11T17:46:31.968Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:48:00.003Z] : [success]: Robot saved successfully
+
+[2022-10-11T17:48:00.088Z] : [success]: Bot started
+
+[2022-10-11T17:48:00.089Z] : [info]: Robot start
+
+[2022-10-11T17:48:02.214Z] : [success]: Bot finished successfully, total execution time: 2s 122ms
+
+[2022-10-11T17:48:02.215Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:48:11.420Z] : [success]: Robot saved successfully
+
+[2022-10-11T17:48:11.478Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:48:11.479Z] : [success]: Bot started
+
+[2022-10-11T17:48:11.480Z] : [info]: Robot start
+
+[2022-10-11T17:48:13.575Z] : [success]: Bot finished successfully, total execution time: 2s 93ms
+
+[2022-10-11T17:48:13.577Z] : [info]: ---------------------------------------------
+
+[2022-10-11T17:48:18.786Z] : [success]: Robot saved successfully
+
+[2022-10-11T17:53:01.450Z] : [success]: Robot saved successfully
+

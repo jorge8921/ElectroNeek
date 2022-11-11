@@ -1,0 +1,358 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:17:18
+  ==========================================
+  
+
+[2022-08-20T15:18:00.987Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:18:01.070Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:18:01.070Z] : [success]: Bot started
+
+[2022-08-20T15:18:01.071Z] : [info]: Robot start
+
+[2022-08-20T15:20:20.304Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:20:20.384Z] : [success]: Bot started
+
+[2022-08-20T15:20:20.385Z] : [info]: Robot start
+
+[2022-08-20T15:20:23.452Z] : [error]: Tickets.replace is not a function
+      undefined
+
+[2022-08-20T15:20:23.458Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:21:26.328Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:21:26.380Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:21:26.381Z] : [success]: Bot started
+
+[2022-08-20T15:21:26.382Z] : [info]: Robot start
+
+[2022-08-20T15:21:29.438Z] : [error]: Tickets.replaceAll is not a function
+      undefined
+
+[2022-08-20T15:21:29.440Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:21:56.848Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:22:34.189Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:22:34.266Z] : [success]: Bot started
+
+[2022-08-20T15:22:34.266Z] : [info]: Robot start
+
+[2022-08-20T15:22:37.386Z] : [error]: Tickets.replaceAll is not a function
+      undefined
+
+[2022-08-20T15:22:37.387Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:24:37.287Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:24:37.348Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:24:37.349Z] : [success]: Bot started
+
+[2022-08-20T15:24:37.350Z] : [info]: Robot start
+
+[2022-08-20T15:24:40.447Z] : [error]: Tickets.replaceAll is not a function
+      undefined
+
+[2022-08-20T15:24:40.449Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:28:17.372Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:28:17.437Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:28:17.437Z] : [success]: Bot started
+
+[2022-08-20T15:28:17.438Z] : [info]: Robot start
+
+[2022-08-20T15:28:21.533Z] : [success]: Bot finished successfully, total execution time: 4s 92ms
+
+[2022-08-20T15:28:21.536Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:28:45.298Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:28:51.336Z] : [success]: Bot started
+
+[2022-08-20T15:28:51.336Z] : [info]: Robot start
+
+[2022-08-20T15:28:58.459Z] : [success]: Bot finished successfully, total execution time: 7s 120ms
+
+[2022-08-20T15:28:58.464Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:29:11
+  ==========================================
+  
+
+[2022-08-20T15:30:05.605Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:30:41.123Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:30:41.221Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:30:41.221Z] : [success]: Bot started
+
+[2022-08-20T15:30:41.222Z] : [info]: Robot start
+
+[2022-08-20T15:30:48.397Z] : [success]: Bot finished successfully, total execution time: 7s 174ms
+
+[2022-08-20T15:30:48.398Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:32:29
+  ==========================================
+  
+
+[2022-08-20T15:32:38.081Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:32:38.153Z] : [success]: Bot started
+
+[2022-08-20T15:32:38.154Z] : [info]: Robot start
+
+[2022-08-20T15:32:45.259Z] : [success]: Bot finished successfully, total execution time: 7s 104ms
+
+[2022-08-20T15:32:45.260Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:33:43.039Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:33:43.104Z] : [success]: Bot started
+
+[2022-08-20T15:33:43.105Z] : [info]: Robot start
+
+[2022-08-20T15:34:49.142Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:34:49.150Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:34:49.151Z] : [success]: Bot started
+
+[2022-08-20T15:34:49.151Z] : [info]: Robot start
+
+[2022-08-20T15:35:17.317Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:35:17.326Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:35:17.326Z] : [success]: Bot started
+
+[2022-08-20T15:35:17.327Z] : [info]: Robot start
+
+[2022-08-20T15:35:22.620Z] : [info]: {"Ticket#_innerText":"#8979"}
+
+[2022-08-20T15:35:22.636Z] : [info]: {"Ticket#_innerText":"#8975"}
+
+[2022-08-20T15:35:22.648Z] : [info]: {"Ticket#_innerText":"#8968"}
+
+[2022-08-20T15:35:22.662Z] : [info]: {"Ticket#_innerText":"#8967"}
+
+[2022-08-20T15:35:22.674Z] : [info]: {"Ticket#_innerText":"#8964"}
+
+[2022-08-20T15:35:22.689Z] : [info]: {"Ticket#_innerText":"#8927"}
+
+[2022-08-20T15:35:22.703Z] : [info]: {"Ticket#_innerText":"#8885"}
+
+[2022-08-20T15:35:22.716Z] : [info]: {"Ticket#_innerText":"#8864"}
+
+[2022-08-20T15:35:22.728Z] : [info]: {"Ticket#_innerText":"#8844"}
+
+[2022-08-20T15:35:22.739Z] : [info]: {"Ticket#_innerText":"#8812"}
+
+[2022-08-20T15:35:22.750Z] : [info]: {"Ticket#_innerText":"#8810"}
+
+[2022-08-20T15:35:22.762Z] : [info]: {"Ticket#_innerText":"#8760"}
+
+[2022-08-20T15:35:22.773Z] : [info]: {"Ticket#_innerText":"#8738"}
+
+[2022-08-20T15:35:22.784Z] : [info]: {"Ticket#_innerText":"#8720"}
+
+[2022-08-20T15:35:22.801Z] : [info]: {"Ticket#_innerText":"#8471"}
+
+[2022-08-20T15:35:22.817Z] : [info]: {"Ticket#_innerText":"#8229"}
+
+[2022-08-20T15:35:22.834Z] : [info]: {"Ticket#_innerText":"#8018"}
+
+[2022-08-20T15:35:22.853Z] : [info]: {"Ticket#_innerText":"#7775"}
+
+[2022-08-20T15:35:22.872Z] : [info]: {"Ticket#_innerText":"#7466"}
+
+[2022-08-20T15:35:23.522Z] : [success]: Bot finished successfully, total execution time: 6s 194ms
+
+[2022-08-20T15:35:23.523Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:36:09.644Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:36:09.652Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:36:09.653Z] : [success]: Bot started
+
+[2022-08-20T15:36:09.653Z] : [info]: Robot start
+
+[2022-08-20T15:36:53.472Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:36:53.482Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:36:53.483Z] : [success]: Bot started
+
+[2022-08-20T15:36:53.484Z] : [info]: Robot start
+
+[2022-08-20T15:37:35.875Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:37:35.883Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:37:35.884Z] : [success]: Bot started
+
+[2022-08-20T15:37:35.884Z] : [info]: Robot start
+
+[2022-08-20T15:37:41.051Z] : [info]: 8979
+
+[2022-08-20T15:37:41.082Z] : [info]: 8975
+
+[2022-08-20T15:37:41.129Z] : [info]: 8968
+
+[2022-08-20T15:37:41.160Z] : [info]: 8967
+
+[2022-08-20T15:37:41.191Z] : [info]: 8964
+
+[2022-08-20T15:37:41.239Z] : [info]: 8927
+
+[2022-08-20T15:37:41.273Z] : [info]: 8885
+
+[2022-08-20T15:37:41.313Z] : [info]: 8864
+
+[2022-08-20T15:37:41.362Z] : [info]: 8844
+
+[2022-08-20T15:37:41.409Z] : [info]: 8812
+
+[2022-08-20T15:37:41.455Z] : [info]: 8810
+
+[2022-08-20T15:37:41.505Z] : [info]: 8760
+
+[2022-08-20T15:37:41.550Z] : [info]: 8738
+
+[2022-08-20T15:37:41.582Z] : [info]: 8720
+
+[2022-08-20T15:37:41.615Z] : [info]: 8471
+
+[2022-08-20T15:37:41.678Z] : [info]: 8229
+
+[2022-08-20T15:37:41.724Z] : [info]: 8018
+
+[2022-08-20T15:37:41.771Z] : [info]: 7775
+
+[2022-08-20T15:37:41.834Z] : [info]: 7466
+
+[2022-08-20T15:37:42.132Z] : [success]: Bot finished successfully, total execution time: 6s 246ms
+
+[2022-08-20T15:37:42.133Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:50:28.701Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:50:28.716Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:50:28.717Z] : [success]: Bot started
+
+[2022-08-20T15:50:28.718Z] : [info]: Robot start
+
+[2022-08-20T15:50:46.978Z] : [success]: Bot finished successfully, total execution time: 18s 259ms
+
+[2022-08-20T15:50:46.979Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:51:14.684Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:51:14.699Z] : [success]: Bot started
+
+[2022-08-20T15:51:14.699Z] : [info]: Robot start
+
+[2022-08-20T15:51:27.935Z] : [success]: Bot finished successfully, total execution time: 13s 235ms
+
+[2022-08-20T15:51:27.936Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:52:24.715Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:52:24.727Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:52:24.728Z] : [success]: Bot started
+
+[2022-08-20T15:52:24.728Z] : [info]: Robot start
+
+[2022-08-20T15:52:37.927Z] : [success]: Bot finished successfully, total execution time: 13s 197ms
+
+[2022-08-20T15:52:37.928Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:52:51
+  ==========================================
+  
+
+[2022-08-20T15:54:57.940Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:55:03.493Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:55:03.494Z] : [success]: Bot started
+
+[2022-08-20T15:55:03.494Z] : [info]: Robot start
+
+[2022-08-20T15:55:22.816Z] : [success]: Bot finished successfully, total execution time: 19s 321ms
+
+[2022-08-20T15:55:22.818Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:56:45.092Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:56:45.110Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:56:45.111Z] : [success]: Bot started
+
+[2022-08-20T15:56:45.112Z] : [info]: Robot start
+
+[2022-08-20T15:57:08.432Z] : [success]: Bot finished successfully, total execution time: 23s 319ms
+
+[2022-08-20T15:57:08.432Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:59:37.340Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:59:37.354Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:59:37.355Z] : [success]: Bot started
+
+[2022-08-20T15:59:37.355Z] : [info]: Robot start
+
+[2022-08-20T15:59:50.716Z] : [success]: Bot started
+
+[2022-08-20T15:59:50.717Z] : [info]: Robot start
+
+[2022-08-20T16:00:09.552Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:00:09.565Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:00:09.565Z] : [success]: Bot started
+
+[2022-08-20T16:00:09.565Z] : [info]: Robot start
+
+[2022-08-20T16:00:57.692Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:00:57.708Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:00:57.708Z] : [success]: Bot started
+
+[2022-08-20T16:00:57.709Z] : [info]: Robot start
+
+[2022-08-20T16:02:26.380Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:02:26.393Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:02:26.394Z] : [success]: Bot started
+
+[2022-08-20T16:02:26.394Z] : [info]: Robot start
+
+[2022-08-20T16:13:54.954Z] : [success]: Robot saved successfully
+

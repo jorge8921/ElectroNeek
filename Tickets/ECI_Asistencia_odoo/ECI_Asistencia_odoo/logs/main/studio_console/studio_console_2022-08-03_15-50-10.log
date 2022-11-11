@@ -1,0 +1,81 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 3/8/2022 15:50:56
+  ==========================================
+  
+
+[2022-08-03T22:27:00.790Z] : [success]: Robot guardado correctamente
+
+[2022-08-03T22:27:00.864Z] : [info]: ---------------------------------------------
+
+[2022-08-03T22:27:00.864Z] : [success]: Bot iniciado
+
+[2022-08-03T22:27:00.865Z] : [info]: Robot start
+
+[2022-08-03T22:27:12.267Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'from_row', line 1, position 147.
+
+[2022-08-03T22:27:12.272Z] : [error]: Tiempo total de ejecución: 11s 401ms
+
+[2022-08-03T22:27:12.273Z] : [info]: ---------------------------------------------
+
+[2022-08-03T22:27:52.287Z] : [success]: Robot guardado correctamente
+
+[2022-08-03T22:27:52.356Z] : [success]: Bot iniciado
+
+[2022-08-03T22:27:52.361Z] : [info]: Robot start
+
+[2022-08-03T22:27:59.690Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-03T22:27:59.695Z] : [error]: Tiempo total de ejecución: 7s 329ms
+
+[2022-08-03T22:27:59.703Z] : [info]: ---------------------------------------------
+
+[2022-08-04T15:26:46.075Z] : [success]: Robot guardado correctamente
+
+[2022-08-04T15:26:46.169Z] : [success]: Bot iniciado
+
+[2022-08-04T15:26:46.170Z] : [info]: Robot start
+
+[2022-08-04T15:27:39.164Z] : [error]: Script Stopped.
+
+[2022-08-04T15:27:39.167Z] : [warn]: Tiempo total de ejecución: 52s 993ms
+
+[2022-08-04T15:27:39.169Z] : [info]: ---------------------------------------------
+
+[2022-08-04T15:27:42.177Z] : [success]: Bot iniciado
+
+[2022-08-04T15:27:42.178Z] : [info]: Robot start
+
+[2022-08-04T15:28:06.474Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-04T15:28:29.310Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 47s 122ms
+
+[2022-08-04T15:28:29.311Z] : [info]: ---------------------------------------------
+
+[2022-08-04T15:29:50.233Z] : [success]: Bot iniciado
+
+[2022-08-04T15:29:50.234Z] : [info]: Robot start
+
+[2022-08-04T15:30:08.919Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-04T15:30:14.961Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 24s 721ms
+
+[2022-08-04T15:30:14.962Z] : [info]: ---------------------------------------------
+
+[2022-08-04T15:31:23.806Z] : [success]: Robot guardado correctamente
+
+[2022-08-04T15:31:23.864Z] : [success]: Bot iniciado
+
+[2022-08-04T15:31:23.865Z] : [info]: Robot start
+
+[2022-08-04T15:31:43.562Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-08-04T15:32:42.969Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 1m 19s 101ms
+
+[2022-08-04T15:32:42.971Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:33:51.387Z] : [success]: Robot guardado correctamente
+
+[2022-08-04T21:34:05.043Z] : [error]: Cannot read properties of null (reading 'type')
+

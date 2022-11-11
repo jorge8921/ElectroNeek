@@ -1,0 +1,125 @@
+
+  ==========================================
+  Studio Pro version: 8.6.8
+  Started at: 13/10/2022, 9:57:02
+  ==========================================
+  
+
+[2022-10-13T13:03:47.220Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:03:47.326Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:03:47.327Z] : [success]: Bot started
+
+[2022-10-13T13:03:47.329Z] : [info]: Robot start
+
+[2022-10-13T13:03:48.490Z] : [success]: Bot finished successfully, total execution time: 1s 159ms
+
+[2022-10-13T13:03:48.491Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:03:53.968Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:06:15.278Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:06:15.382Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:06:15.383Z] : [success]: Bot started
+
+[2022-10-13T13:06:15.383Z] : [info]: Robot start
+
+[2022-10-13T13:06:16.268Z] : [info]: undefined
+
+[2022-10-13T13:06:16.289Z] : [info]: undefined
+
+[2022-10-13T13:06:16.507Z] : [success]: Bot finished successfully, total execution time: 1s 123ms
+
+[2022-10-13T13:06:16.508Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:06:33.278Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:06:33.369Z] : [success]: Bot started
+
+[2022-10-13T13:06:33.371Z] : [info]: Robot start
+
+[2022-10-13T13:06:34.230Z] : [info]: joan_of_arc.pdf
+
+[2022-10-13T13:06:34.261Z] : [info]: sample.pdf
+
+[2022-10-13T13:06:34.486Z] : [success]: Bot finished successfully, total execution time: 1s 112ms
+
+[2022-10-13T13:06:34.488Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:07:16.259Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:07:16.364Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:07:16.364Z] : [success]: Bot started
+
+[2022-10-13T13:07:16.365Z] : [info]: Robot start
+
+[2022-10-13T13:07:17.188Z] : [info]: undefined
+
+[2022-10-13T13:07:17.209Z] : [info]: undefined
+
+[2022-10-13T13:07:17.477Z] : [success]: Bot finished successfully, total execution time: 1s 109ms
+
+[2022-10-13T13:07:17.479Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:12:24.352Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:12:24.458Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:12:24.459Z] : [success]: Bot started
+
+[2022-10-13T13:12:24.465Z] : [info]: Robot start
+
+[2022-10-13T13:12:25.657Z] : [success]: Bot finished successfully, total execution time: 1s 191ms
+
+[2022-10-13T13:12:25.658Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:15:37.352Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:15:41.493Z] : [success]: Bot started
+
+[2022-10-13T13:15:41.494Z] : [info]: Robot start
+
+[2022-10-13T13:15:42.336Z] : [info]: undefined
+
+[2022-10-13T13:15:50.414Z] : [info]: undefined
+
+[2022-10-13T13:15:50.732Z] : [success]: Bot finished successfully, total execution time: 9s 237ms
+
+[2022-10-13T13:15:50.733Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:16:04.638Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:16:04.712Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:16:04.713Z] : [success]: Bot started
+
+[2022-10-13T13:16:04.713Z] : [info]: Robot start
+
+[2022-10-13T13:16:05.546Z] : [info]: {"name":"joan_of_arc.pdf","extension":".pdf","length":754672,"creation_time":"2022-10-13T10:01:23.316-03:00","last_access_time":"2022-10-13T10:01:36.018-03:00","last_write_time":"2022-10-13T10:01:24.088-03:00","creation_time_ms":1665666083316.1252,"last_access_time_ms":1665666096018.8203,"last_write_time_ms":1665666084088.0242,"mode":33206,"owner_uid":0}
+
+[2022-10-13T13:16:08.932Z] : [info]: {"name":"sample.pdf","extension":".pdf","length":3028,"creation_time":"2022-10-13T09:59:36.909-03:00","last_access_time":"2022-10-13T09:59:49.577-03:00","last_write_time":"2022-10-13T09:59:37.624-03:00","creation_time_ms":1665665976909.5608,"last_access_time_ms":1665665989577.298,"last_write_time_ms":1665665977624.0889,"mode":33206,"owner_uid":0}
+
+[2022-10-13T13:16:09.917Z] : [success]: Bot finished successfully, total execution time: 5s 203ms
+
+[2022-10-13T13:16:09.919Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:18:40.634Z] : [success]: Robot saved successfully
+
+[2022-10-13T13:18:47.864Z] : [info]: ---------------------------------------------
+
+[2022-10-13T13:18:47.865Z] : [success]: Bot started
+
+[2022-10-13T13:18:47.865Z] : [info]: Robot start
+
+[2022-10-13T13:18:48.727Z] : [info]: {"name":"joan_of_arc.pdf","extension":".pdf","length":754672,"creation_time":"2022-10-13T10:01:23.316-03:00","last_access_time":"2022-10-13T10:01:36.018-03:00","last_write_time":"2022-10-13T10:01:24.088-03:00","creation_time_ms":1665666083316.1252,"last_access_time_ms":1665666096018.8203,"last_write_time_ms":1665666084088.0242,"mode":33206,"owner_uid":0}
+
+[2022-10-13T13:18:52.834Z] : [info]: {"name":"sample.pdf","extension":".pdf","length":3028,"creation_time":"2022-10-13T09:59:36.909-03:00","last_access_time":"2022-10-13T09:59:49.577-03:00","last_write_time":"2022-10-13T09:59:37.624-03:00","creation_time_ms":1665665976909.5608,"last_access_time_ms":1665665989577.298,"last_write_time_ms":1665665977624.0889,"mode":33206,"owner_uid":0}
+
+[2022-10-13T13:18:53.047Z] : [success]: Bot finished successfully, total execution time: 5s 180ms
+
+[2022-10-13T13:18:53.048Z] : [info]: ---------------------------------------------
+

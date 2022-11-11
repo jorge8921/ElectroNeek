@@ -1,0 +1,74 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 11:42:22
+  ==========================================
+  
+
+[2022-08-20T15:02:27.805Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:02:27.880Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:02:27.925Z] : [success]: Bot started
+
+[2022-08-20T15:02:27.926Z] : [info]: Robot start
+
+[2022-08-20T15:03:07.361Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:03:07.440Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:03:07.442Z] : [success]: Bot started
+
+[2022-08-20T15:03:07.442Z] : [info]: Robot start
+
+[2022-08-20T15:04:12.608Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:04:12.655Z] : [success]: Bot started
+
+[2022-08-20T15:04:12.655Z] : [info]: Robot start
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:04:38
+  ==========================================
+  
+
+[2022-08-20T15:06:19.888Z] : [success]: Rel file saved successfully
+
+[2022-08-20T15:06:19.891Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:06:25.193Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:06:25.194Z] : [success]: Bot started
+
+[2022-08-20T15:06:25.195Z] : [info]: Robot start
+
+[2022-08-20T15:06:29.339Z] : [success]: Bot finished successfully, total execution time: 4s 143ms
+
+[2022-08-20T15:06:29.340Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:06:54.102Z] : [success]: Bot started
+
+[2022-08-20T15:06:54.103Z] : [info]: Robot start
+
+[2022-08-20T15:06:58.209Z] : [success]: Bot finished successfully, total execution time: 4s 103ms
+
+[2022-08-20T15:06:58.211Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:07:13.130Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:07:13.130Z] : [success]: Bot started
+
+[2022-08-20T15:07:13.131Z] : [info]: Robot start
+
+[2022-08-20T15:07:17.217Z] : [success]: Bot finished successfully, total execution time: 4s 85ms
+
+[2022-08-20T15:07:17.218Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:07:30.755Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2022-08-20T15:09:51.811Z] : [success]: Rel file saved successfully
+
+[2022-08-20T15:09:51.821Z] : [success]: Robot saved successfully
+

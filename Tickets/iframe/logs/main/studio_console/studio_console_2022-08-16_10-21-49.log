@@ -1,0 +1,60 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 16/8/2022, 10:22:05
+  ==========================================
+  
+
+[2022-08-16T13:30:42.550Z] : [success]: Robot saved successfully
+
+[2022-08-16T13:30:42.632Z] : [info]: ---------------------------------------------
+
+[2022-08-16T13:30:42.633Z] : [success]: Bot started
+
+[2022-08-16T13:30:42.633Z] : [info]: Robot start
+
+[2022-08-16T13:30:46.723Z] : [error]: Chrome is already running. Close it or remove the Load User profile property
+
+[2022-08-16T13:30:46.725Z] : [error]: Total execution time: 4s 90ms
+
+[2022-08-16T13:30:46.729Z] : [info]: ---------------------------------------------
+
+[2022-08-16T13:31:22.085Z] : [success]: Robot saved successfully
+
+[2022-08-16T13:31:28.654Z] : [info]: ---------------------------------------------
+
+[2022-08-16T13:31:28.655Z] : [success]: Bot started
+
+[2022-08-16T13:31:28.656Z] : [info]: Robot start
+
+[2022-08-16T13:31:38.818Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-16T13:31:38.821Z] : [error]: Total execution time: 10s 162ms
+
+[2022-08-16T13:31:38.822Z] : [info]: ---------------------------------------------
+
+[2022-08-16T13:31:49.364Z] : [success]: Robot saved successfully
+
+[2022-08-16T13:31:49.458Z] : [info]: ---------------------------------------------
+
+[2022-08-16T13:31:49.458Z] : [success]: Bot started
+
+[2022-08-16T13:31:49.459Z] : [info]: Robot start
+
+[2022-08-16T13:32:01.674Z] : [success]: Bot finished successfully, total execution time: 12s 214ms
+
+[2022-08-16T13:32:01.675Z] : [info]: ---------------------------------------------
+
+[2022-08-16T13:32:24.665Z] : [success]: Robot saved successfully
+
+[2022-08-16T13:32:34.938Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 16/8/2022, 11:20:52
+  ==========================================
+  
+
+[2022-08-16T14:20:59.925Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,176 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 12/9/2022, 19:21:58
+  ==========================================
+  
+
+[2022-09-12T22:23:56.129Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:23:56.277Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:23:56.278Z] : [success]: Bot started
+
+[2022-09-12T22:23:56.278Z] : [info]: Robot start
+
+[2022-09-12T22:24:00.496Z] : [success]: Bot finished successfully, total execution time: 4s 217ms
+
+[2022-09-12T22:24:00.498Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:34:21.910Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:34:26.743Z] : [success]: Bot started
+
+[2022-09-12T22:34:26.744Z] : [info]: Robot start
+
+[2022-09-12T22:34:29.960Z] : [error]: Saldo is not defined
+
+[2022-09-12T22:34:29.962Z] : [error]: Total execution time: 3s 216ms
+
+[2022-09-12T22:34:29.963Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:34:50.820Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:34:50.831Z] : [success]: Bot started
+
+[2022-09-12T22:34:50.831Z] : [info]: Robot start
+
+[2022-09-12T22:35:02.129Z] : [error]: Script Stopped.
+
+[2022-09-12T22:35:02.131Z] : [warn]: Total execution time: 11s 298ms
+
+[2022-09-12T22:35:02.132Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:35:35.544Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:35:59.100Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:35:59.101Z] : [success]: Bot started
+
+[2022-09-12T22:35:59.101Z] : [info]: Robot start
+
+[2022-09-12T22:36:18.555Z] : [success]: Bot finished successfully, total execution time: 19s 453ms
+
+[2022-09-12T22:36:18.556Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:41:02.476Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:41:42.771Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:41:58.270Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:41:58.271Z] : [success]: Bot started
+
+[2022-09-12T22:41:58.272Z] : [info]: Robot start
+
+[2022-09-12T22:42:00.427Z] : [error]: Selectors: "El proceso no puede obtener acceso al archivo 'C:\\Users\\Jorge Noguera\\Documents\\Tickets\\9241\\data.xlsx' porque está siendo utilizado en otro proceso."
+
+
+[2022-09-12T22:42:00.428Z] : [error]: Total execution time: 2s 154ms
+
+[2022-09-12T22:42:00.429Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:42:11.790Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:42:11.790Z] : [success]: Bot started
+
+[2022-09-12T22:42:11.791Z] : [info]: Robot start
+
+[2022-09-12T22:43:09.788Z] : [success]: Bot finished successfully, total execution time: 57s 996ms
+
+[2022-09-12T22:43:09.790Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:43:38.652Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:43:45.418Z] : [success]: Bot started
+
+[2022-09-12T22:43:45.419Z] : [info]: Robot start
+
+[2022-09-12T22:44:54.524Z] : [success]: Bot finished successfully, total execution time: 1m 9s 103ms
+
+[2022-09-12T22:44:54.525Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:45:09.932Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:45:13.916Z] : [success]: Bot started
+
+[2022-09-12T22:45:13.917Z] : [info]: Robot start
+
+[2022-09-12T22:46:08.781Z] : [success]: Bot finished successfully, total execution time: 54s 863ms
+
+[2022-09-12T22:46:08.782Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:46:46.916Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:46:54.858Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:46:54.874Z] : [success]: Bot started
+
+[2022-09-12T22:46:54.875Z] : [info]: Robot start
+
+[2022-09-12T22:47:03.146Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-09-12T22:47:03.148Z] : [error]: Total execution time: 8s 271ms
+
+[2022-09-12T22:47:03.149Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:47:09.212Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:49:01.555Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:49:17.781Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:49:17.781Z] : [success]: Bot started
+
+[2022-09-12T22:49:17.782Z] : [info]: Robot start
+
+[2022-09-12T22:49:19.985Z] : [success]: Bot finished successfully, total execution time: 2s 202ms
+
+[2022-09-12T22:49:19.986Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:49:36.023Z] : [success]: Bot started
+
+[2022-09-12T22:49:36.024Z] : [info]: Robot start
+
+[2022-09-12T22:49:38.253Z] : [success]: Bot finished successfully, total execution time: 2s 228ms
+
+[2022-09-12T22:49:38.254Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:49:44.642Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:49:44.657Z] : [success]: Bot started
+
+[2022-09-12T22:49:44.657Z] : [info]: Robot start
+
+[2022-09-12T22:49:50.930Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-09-12T22:49:50.931Z] : [error]: Total execution time: 6s 272ms
+
+[2022-09-12T22:49:50.932Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:50:52.561Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:50:52.593Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:50:52.593Z] : [success]: Bot started
+
+[2022-09-12T22:50:52.594Z] : [info]: Robot start
+
+[2022-09-12T22:51:14.145Z] : [success]: Bot finished successfully, total execution time: 21s 550ms
+
+[2022-09-12T22:51:14.146Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:51:21.131Z] : [success]: Robot saved successfully
+
+[2022-09-12T22:51:25.609Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:51:25.609Z] : [success]: Bot started
+
+[2022-09-12T22:51:25.610Z] : [info]: Robot start
+
+[2022-09-12T22:52:36.663Z] : [success]: Bot finished successfully, total execution time: 1m 11s 51ms
+
+[2022-09-12T22:52:36.664Z] : [info]: ---------------------------------------------
+
+[2022-09-12T22:56:10.628Z] : [success]: Robot saved successfully
+

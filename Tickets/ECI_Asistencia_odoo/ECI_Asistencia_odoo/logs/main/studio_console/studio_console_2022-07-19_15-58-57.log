@@ -1,0 +1,445 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 19/7/2022 16:01:30
+  ==========================================
+  
+
+[2022-07-19T22:05:53.564Z] : [success]: Robot guardado correctamente
+
+[2022-07-19T22:05:53.701Z] : [info]: ---------------------------------------------
+
+[2022-07-19T22:05:53.702Z] : [success]: Bot iniciado
+
+[2022-07-19T22:05:53.702Z] : [info]: Robot start
+
+[2022-07-19T22:06:02.220Z] : [error]: INVALID_URL
+
+[2022-07-19T22:06:02.223Z] : [error]: Tiempo total de ejecución: 8s 517ms
+
+[2022-07-19T22:06:02.224Z] : [info]: ---------------------------------------------
+
+[2022-07-19T22:08:21.463Z] : [success]: Robot guardado correctamente
+
+[2022-07-19T22:08:21.527Z] : [success]: Bot iniciado
+
+[2022-07-19T22:08:21.528Z] : [info]: Robot start
+
+[2022-07-19T22:08:59.408Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-19T22:08:59.411Z] : [error]: Tiempo total de ejecución: 37s 880ms
+
+[2022-07-19T22:08:59.412Z] : [info]: ---------------------------------------------
+
+[2022-07-19T22:13:09.803Z] : [success]: Robot guardado correctamente
+
+[2022-07-19T22:13:09.871Z] : [success]: Bot iniciado
+
+[2022-07-19T22:13:09.871Z] : [info]: Robot start
+
+[2022-07-19T22:14:00.415Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 50s 543ms
+
+[2022-07-19T22:14:00.416Z] : [info]: ---------------------------------------------
+
+[2022-07-19T22:18:27.540Z] : [success]: Robot guardado correctamente
+
+[2022-07-19T22:18:30.414Z] : [success]: Robot guardado correctamente
+
+[2022-07-19T22:20:43.069Z] : [success]: Robot guardado correctamente
+
+[2022-07-19T22:20:46.104Z] : [success]: Bot iniciado
+
+[2022-07-19T22:20:46.105Z] : [info]: Robot start
+
+[2022-07-19T22:20:54.804Z] : [error]: Script Stopped.
+
+[2022-07-19T22:20:54.811Z] : [warn]: Tiempo total de ejecución: 8s 698ms
+
+[2022-07-19T22:20:54.813Z] : [info]: ---------------------------------------------
+
+[2022-07-19T22:21:54.793Z] : [success]: Robot guardado correctamente
+
+[2022-07-19T22:21:54.847Z] : [info]: ---------------------------------------------
+
+[2022-07-19T22:21:54.848Z] : [success]: Bot iniciado
+
+[2022-07-19T22:21:54.849Z] : [info]: Robot start
+
+[2022-07-19T22:22:50.433Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-19T22:22:50.437Z] : [error]: Tiempo total de ejecución: 55s 583ms
+
+[2022-07-19T22:22:50.439Z] : [info]: ---------------------------------------------
+
+[2022-07-20T05:46:08.825Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T05:46:08.885Z] : [success]: Bot iniciado
+
+[2022-07-20T05:46:08.885Z] : [info]: Robot start
+
+[2022-07-20T05:47:07.340Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 58s 448ms
+
+[2022-07-20T05:47:07.342Z] : [info]: ---------------------------------------------
+
+[2022-07-20T05:51:00.005Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T05:51:12.282Z] : [success]: Bot iniciado
+
+[2022-07-20T05:51:12.283Z] : [info]: Robot start
+
+[2022-07-20T05:52:40.354Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 1m 28s 67ms
+
+[2022-07-20T05:52:40.355Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:23:06.084Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:23:08.963Z] : [success]: Bot iniciado
+
+[2022-07-20T06:23:08.964Z] : [info]: Robot start
+
+[2022-07-20T06:25:02.337Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 1m 53s 370ms
+
+[2022-07-20T06:25:02.339Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:35:55.014Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:35:55.061Z] : [success]: Bot iniciado
+
+[2022-07-20T06:35:55.062Z] : [info]: Robot start
+
+[2022-07-20T06:37:56.327Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 2m 1s 264ms
+
+[2022-07-20T06:37:56.329Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:39:20.651Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:39:20.688Z] : [success]: Bot iniciado
+
+[2022-07-20T06:39:20.690Z] : [info]: Robot start
+
+[2022-07-20T06:41:21.319Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 2m 627ms
+
+[2022-07-20T06:41:21.320Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:43:46.565Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:44:00.398Z] : [success]: Bot iniciado
+
+[2022-07-20T06:44:00.400Z] : [info]: Robot start
+
+[2022-07-20T06:45:51.331Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 1m 50s 928ms
+
+[2022-07-20T06:45:51.334Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:46:35.300Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:46:37.810Z] : [success]: Bot iniciado
+
+[2022-07-20T06:46:37.811Z] : [info]: Robot start
+
+[2022-07-20T06:47:24.347Z] : [error]: Delay been disposed
+
+[2022-07-20T06:47:24.359Z] : [error]: Tiempo total de ejecución: 46s 535ms
+
+[2022-07-20T06:47:24.362Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:47:40.748Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:52:19.021Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:52:19.070Z] : [success]: Bot iniciado
+
+[2022-07-20T06:52:19.071Z] : [info]: Robot start
+
+[2022-07-20T06:52:26.809Z] : [error]: INVALID_URL
+
+[2022-07-20T06:52:26.813Z] : [error]: Tiempo total de ejecución: 7s 730ms
+
+[2022-07-20T06:52:26.814Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:52:39.006Z] : [success]: Bot iniciado
+
+[2022-07-20T06:52:39.006Z] : [info]: Robot start
+
+[2022-07-20T06:52:43.122Z] : [error]: INVALID_URL
+
+[2022-07-20T06:52:43.126Z] : [error]: Tiempo total de ejecución: 4s 116ms
+
+[2022-07-20T06:52:43.127Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:53:30.777Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:53:33.308Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:53:33.309Z] : [success]: Bot iniciado
+
+[2022-07-20T06:53:33.310Z] : [info]: Robot start
+
+[2022-07-20T06:54:06.322Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T06:54:06.325Z] : [error]: Tiempo total de ejecución: 33s 12ms
+
+[2022-07-20T06:54:06.326Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:56:32.632Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:56:35.576Z] : [success]: Bot iniciado
+
+[2022-07-20T06:56:35.576Z] : [info]: Robot start
+
+[2022-07-20T06:58:53.346Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 2m 17s 766ms
+
+[2022-07-20T06:58:53.348Z] : [info]: ---------------------------------------------
+
+[2022-07-20T06:59:48.275Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T06:59:48.315Z] : [success]: Bot iniciado
+
+[2022-07-20T06:59:48.316Z] : [info]: Robot start
+
+[2022-07-20T07:01:52.335Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 2m 4s 16ms
+
+[2022-07-20T07:01:52.336Z] : [info]: ---------------------------------------------
+
+[2022-07-20T07:25:14.338Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T07:25:14.400Z] : [success]: Bot iniciado
+
+[2022-07-20T07:25:14.401Z] : [info]: Robot start
+
+[2022-07-20T07:27:15.397Z] : [error]: Script Stopped.
+
+[2022-07-20T07:27:15.405Z] : [warn]: Tiempo total de ejecución: 2m 995ms
+
+[2022-07-20T07:27:15.407Z] : [info]: ---------------------------------------------
+
+[2022-07-20T07:31:02.177Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T07:31:05.529Z] : [success]: Bot iniciado
+
+[2022-07-20T07:31:05.530Z] : [info]: Robot start
+
+[2022-07-20T07:33:22.363Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 2m 16s 826ms
+
+[2022-07-20T07:33:22.365Z] : [info]: ---------------------------------------------
+
+[2022-07-20T07:35:48.602Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T07:36:15.578Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T07:36:18.821Z] : [success]: Bot iniciado
+
+[2022-07-20T07:36:18.822Z] : [info]: Robot start
+
+[2022-07-20T07:36:57.404Z] : [error]: Delay been disposed
+
+[2022-07-20T07:36:57.409Z] : [error]: Tiempo total de ejecución: 38s 580ms
+
+[2022-07-20T07:36:57.410Z] : [info]: ---------------------------------------------
+
+[2022-07-20T07:39:06.389Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T07:44:42.453Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T18:58:07.814Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T18:58:07.874Z] : [info]: ---------------------------------------------
+
+[2022-07-20T18:58:07.875Z] : [success]: Bot iniciado
+
+[2022-07-20T18:58:07.875Z] : [info]: Robot start
+
+[2022-07-20T18:59:18.196Z] : [error]: Script Stopped.
+
+[2022-07-20T18:59:18.202Z] : [warn]: Tiempo total de ejecución: 1m 10s 320ms
+
+[2022-07-20T18:59:18.203Z] : [info]: ---------------------------------------------
+
+[2022-07-20T20:48:23.100Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T20:48:31.180Z] : [success]: Bot iniciado
+
+[2022-07-20T20:48:31.182Z] : [info]: Robot start
+
+[2022-07-20T20:49:45.452Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T20:49:45.455Z] : [error]: Tiempo total de ejecución: 1m 14s 270ms
+
+[2022-07-20T20:49:45.456Z] : [info]: ---------------------------------------------
+
+[2022-07-20T20:51:46.292Z] : [success]: Bot iniciado
+
+[2022-07-20T20:51:46.293Z] : [info]: Robot start
+
+[2022-07-20T20:54:00.187Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 2m 13s 891ms
+
+[2022-07-20T20:54:00.189Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:07:54.039Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T21:07:54.197Z] : [success]: Bot iniciado
+
+[2022-07-20T21:07:54.198Z] : [info]: Robot start
+
+[2022-07-20T21:09:54.207Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:09:54.210Z] : [error]: Tiempo total de ejecución: 1m 59s 999ms
+
+[2022-07-20T21:09:54.212Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:20:01.408Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T21:20:01.485Z] : [success]: Bot iniciado
+
+[2022-07-20T21:20:01.486Z] : [info]: Robot start
+
+[2022-07-20T21:20:40.166Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:20:40.169Z] : [error]: Tiempo total de ejecución: 38s 680ms
+
+[2022-07-20T21:20:40.172Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:21:56.228Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T21:21:56.280Z] : [success]: Bot iniciado
+
+[2022-07-20T21:21:56.281Z] : [info]: Robot start
+
+[2022-07-20T21:22:11.166Z] : [error]: ENOENT: no such file or directory, stat 'D:\Users\kelly\AppData\Local\Google\Chrome\User Data\Local State'
+
+[2022-07-20T21:22:11.169Z] : [error]: Tiempo total de ejecución: 14s 884ms
+
+[2022-07-20T21:22:11.170Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:22:59.505Z] : [success]: Bot iniciado
+
+[2022-07-20T21:22:59.506Z] : [info]: Robot start
+
+[2022-07-20T21:24:51.189Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:24:51.192Z] : [error]: Tiempo total de ejecución: 1m 51s 683ms
+
+[2022-07-20T21:24:51.193Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:28:25.792Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T21:28:25.883Z] : [success]: Bot iniciado
+
+[2022-07-20T21:28:25.885Z] : [info]: Robot start
+
+[2022-07-20T21:29:51.993Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:29:51.997Z] : [error]: Tiempo total de ejecución: 1m 26s 108ms
+
+[2022-07-20T21:29:51.998Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:30:35.267Z] : [success]: Bot iniciado
+
+[2022-07-20T21:30:35.269Z] : [info]: Robot start
+
+[2022-07-20T21:32:27.192Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:32:27.198Z] : [error]: Tiempo total de ejecución: 1m 51s 922ms
+
+[2022-07-20T21:32:27.200Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:45:10.114Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T21:45:10.167Z] : [success]: Bot iniciado
+
+[2022-07-20T21:45:10.168Z] : [info]: Robot start
+
+[2022-07-20T21:46:37.249Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:46:37.265Z] : [error]: Tiempo total de ejecución: 1m 27s 78ms
+
+[2022-07-20T21:46:37.270Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:51:21.515Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T21:51:35.118Z] : [success]: Bot iniciado
+
+[2022-07-20T21:51:35.119Z] : [info]: Robot start
+
+[2022-07-20T21:52:17.181Z] : [error]: Delay been disposed
+
+[2022-07-20T21:52:17.186Z] : [error]: Tiempo total de ejecución: 42s 61ms
+
+[2022-07-20T21:52:17.187Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:54:13.556Z] : [success]: Bot iniciado
+
+[2022-07-20T21:54:13.557Z] : [info]: Robot start
+
+[2022-07-20T21:54:51.174Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:54:51.176Z] : [error]: Tiempo total de ejecución: 37s 616ms
+
+[2022-07-20T21:54:51.177Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:55:05.359Z] : [success]: Bot iniciado
+
+[2022-07-20T21:55:05.360Z] : [info]: Robot start
+
+[2022-07-20T21:55:43.200Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:55:43.204Z] : [error]: Tiempo total de ejecución: 37s 839ms
+
+[2022-07-20T21:55:43.205Z] : [info]: ---------------------------------------------
+
+[2022-07-20T21:56:38.978Z] : [success]: Bot iniciado
+
+[2022-07-20T21:56:38.980Z] : [info]: Robot start
+
+[2022-07-20T21:57:17.166Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T21:57:17.172Z] : [error]: Tiempo total de ejecución: 38s 186ms
+
+[2022-07-20T21:57:17.173Z] : [info]: ---------------------------------------------
+
+[2022-07-20T22:00:37.915Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T22:00:41.462Z] : [success]: Bot iniciado
+
+[2022-07-20T22:00:41.462Z] : [info]: Robot start
+
+[2022-07-20T22:01:19.180Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T22:01:19.184Z] : [error]: Tiempo total de ejecución: 37s 718ms
+
+[2022-07-20T22:01:19.187Z] : [info]: ---------------------------------------------
+
+[2022-07-20T22:06:09.146Z] : [success]: Bot iniciado
+
+[2022-07-20T22:06:09.147Z] : [info]: Robot start
+
+[2022-07-20T22:11:44.291Z] : [error]: Script Stopped.
+
+[2022-07-20T22:11:44.296Z] : [warn]: Tiempo total de ejecución: 5m 35s 142ms
+
+[2022-07-20T22:11:44.297Z] : [info]: ---------------------------------------------
+
+[2022-07-20T22:12:29.948Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T22:12:35.568Z] : [success]: Bot iniciado
+
+[2022-07-20T22:12:35.569Z] : [info]: Robot start
+
+[2022-07-20T22:13:14.205Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-07-20T22:13:14.208Z] : [error]: Tiempo total de ejecución: 38s 635ms
+
+[2022-07-20T22:13:14.210Z] : [info]: ---------------------------------------------
+
+[2022-07-20T22:14:24.676Z] : [success]: Robot guardado correctamente
+
+[2022-07-20T22:14:31.931Z] : [success]: Bot iniciado
+
+[2022-07-20T22:14:31.932Z] : [info]: Robot start
+
+[2022-07-20T22:17:02.334Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 2m 30s 397ms
+
+[2022-07-20T22:17:02.336Z] : [info]: ---------------------------------------------
+
+[2022-07-20T22:17:54.135Z] : [success]: Robot guardado correctamente
+

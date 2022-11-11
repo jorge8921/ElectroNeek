@@ -1,0 +1,213 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 27/9/2022, 13:49:25
+  ==========================================
+  
+
+[2022-09-27T16:49:29.689Z] : [success]: Robot saved successfully
+
+[2022-09-27T16:49:29.824Z] : [info]: ---------------------------------------------
+
+[2022-09-27T16:49:29.825Z] : [success]: Bot started
+
+[2022-09-27T16:49:29.826Z] : [info]: Robot start
+
+[2022-09-27T16:49:33.996Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-09-27T16:49:34.000Z] : [error]: Total execution time: 4s 170ms
+
+[2022-09-27T16:49:34.001Z] : [info]: ---------------------------------------------
+
+[2022-09-27T16:50:21.680Z] : [success]: Robot saved successfully
+
+[2022-09-27T16:50:25.532Z] : [info]: ---------------------------------------------
+
+[2022-09-27T16:50:25.534Z] : [success]: Bot started
+
+[2022-09-27T16:50:25.537Z] : [info]: Robot start
+
+[2022-09-27T16:50:28.658Z] : [error]: Cannot read properties of undefined (reading 'push')
+
+[2022-09-27T16:50:28.661Z] : [error]: Total execution time: 3s 120ms
+
+[2022-09-27T16:50:28.662Z] : [info]: ---------------------------------------------
+
+[2022-09-27T16:50:34.983Z] : [success]: Robot saved successfully
+
+[2022-09-27T16:50:39.075Z] : [success]: Bot started
+
+[2022-09-27T16:50:39.076Z] : [info]: Robot start
+
+[2022-09-27T16:50:41.290Z] : [error]: Cannot read properties of undefined (reading 'push')
+
+[2022-09-27T16:50:41.295Z] : [error]: Total execution time: 2s 212ms
+
+[2022-09-27T16:50:41.296Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:28:32.878Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:28:33.001Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:28:33.002Z] : [success]: Bot started
+
+[2022-09-27T18:28:33.004Z] : [info]: Robot start
+
+[2022-09-27T18:28:34.255Z] : [info]: Dólar de N.A.
+
+[2022-09-27T18:28:35.111Z] : [success]: Bot finished successfully, total execution time: 2s 106ms
+
+[2022-09-27T18:28:35.112Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:31:43.643Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:31:47.953Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:31:47.954Z] : [success]: Bot started
+
+[2022-09-27T18:31:47.955Z] : [info]: Robot start
+
+[2022-09-27T18:31:49.137Z] : [info]: Moneda: MONEDA
+ Compra: COMPRA (S/)
+ Venta: MONEDA
+
+[2022-09-27T18:31:49.153Z] : [info]: Moneda: Dólar de N.A.
+ Compra: 3.928
+ Venta: Dólar de N.A.
+
+[2022-09-27T18:31:49.168Z] : [info]: Moneda: Dólar Australiano
+ Compra: 2.365
+ Venta: Dólar Australiano
+
+[2022-09-27T18:31:49.198Z] : [info]: Moneda: Dólar Canadiense
+ Compra: 2.478
+ Venta: Dólar Canadiense
+
+[2022-09-27T18:31:49.212Z] : [info]: Moneda: Peso Chileno
+ Compra: 0.003
+ Venta: Peso Chileno
+
+[2022-09-27T18:31:49.229Z] : [info]: Moneda: Libra Esterlina
+ Compra: 3.786
+ Venta: Libra Esterlina
+
+[2022-09-27T18:31:49.267Z] : [info]: Moneda: Yen Japonés
+ Compra:  
+ Venta: Yen Japonés
+
+[2022-09-27T18:31:49.282Z] : [info]: Moneda: Peso Mexicano
+ Compra: 0.159
+ Venta: Peso Mexicano
+
+[2022-09-27T18:31:49.307Z] : [info]: Moneda: Franco Suizo
+ Compra: 3.350
+ Venta: Franco Suizo
+
+[2022-09-27T18:31:49.329Z] : [info]: Moneda: Euro
+ Compra: 3.602
+ Venta: Euro
+
+[2022-09-27T18:31:50.071Z] : [success]: Bot finished successfully, total execution time: 2s 115ms
+
+[2022-09-27T18:31:50.072Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:32:08.982Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:32:12.360Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:32:12.361Z] : [success]: Bot started
+
+[2022-09-27T18:32:12.362Z] : [info]: Robot start
+
+[2022-09-27T18:32:13.470Z] : [info]: Moneda: Dólar de N.A.
+ Compra: 3.928
+ Venta: Dólar de N.A.
+
+[2022-09-27T18:32:13.494Z] : [info]: Moneda: Dólar Australiano
+ Compra: 2.365
+ Venta: Dólar Australiano
+
+[2022-09-27T18:32:13.542Z] : [info]: Moneda: Dólar Canadiense
+ Compra: 2.478
+ Venta: Dólar Canadiense
+
+[2022-09-27T18:32:13.561Z] : [info]: Moneda: Peso Chileno
+ Compra: 0.003
+ Venta: Peso Chileno
+
+[2022-09-27T18:32:13.575Z] : [info]: Moneda: Libra Esterlina
+ Compra: 3.786
+ Venta: Libra Esterlina
+
+[2022-09-27T18:32:13.603Z] : [info]: Moneda: Yen Japonés
+ Compra:  
+ Venta: Yen Japonés
+
+[2022-09-27T18:32:13.649Z] : [info]: Moneda: Peso Mexicano
+ Compra: 0.159
+ Venta: Peso Mexicano
+
+[2022-09-27T18:32:13.680Z] : [info]: Moneda: Franco Suizo
+ Compra: 3.350
+ Venta: Franco Suizo
+
+[2022-09-27T18:32:13.705Z] : [info]: Moneda: Euro
+ Compra: 3.602
+ Venta: Euro
+
+[2022-09-27T18:32:14.470Z] : [success]: Bot finished successfully, total execution time: 2s 106ms
+
+[2022-09-27T18:32:14.471Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:32:34.267Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:32:39.726Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:32:39.726Z] : [success]: Bot started
+
+[2022-09-27T18:32:39.728Z] : [info]: Robot start
+
+[2022-09-27T18:32:40.878Z] : [info]: Moneda: Dólar de N.A.
+ Compra: 3.928
+ Venta: 3.938
+
+[2022-09-27T18:32:40.894Z] : [info]: Moneda: Dólar Australiano
+ Compra: 2.365
+ Venta:  
+
+[2022-09-27T18:32:40.925Z] : [info]: Moneda: Dólar Canadiense
+ Compra: 2.478
+ Venta: 3.460
+
+[2022-09-27T18:32:40.938Z] : [info]: Moneda: Peso Chileno
+ Compra: 0.003
+ Venta:  
+
+[2022-09-27T18:32:40.973Z] : [info]: Moneda: Libra Esterlina
+ Compra: 3.786
+ Venta: 5.105
+
+[2022-09-27T18:32:41.004Z] : [info]: Moneda: Yen Japonés
+ Compra:  
+ Venta: 0.033
+
+[2022-09-27T18:32:41.020Z] : [info]: Moneda: Peso Mexicano
+ Compra: 0.159
+ Venta: 0.241
+
+[2022-09-27T18:32:41.053Z] : [info]: Moneda: Franco Suizo
+ Compra: 3.350
+ Venta: 4.793
+
+[2022-09-27T18:32:41.083Z] : [info]: Moneda: Euro
+ Compra: 3.602
+ Venta: 4.301
+
+[2022-09-27T18:32:41.852Z] : [success]: Bot finished successfully, total execution time: 2s 121ms
+
+[2022-09-27T18:32:41.855Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:34:16.826Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:34:23.553Z] : [success]: Robot saved successfully
+

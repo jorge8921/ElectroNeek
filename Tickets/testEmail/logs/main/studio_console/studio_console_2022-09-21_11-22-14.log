@@ -1,0 +1,284 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 21/9/2022, 13:17:11
+  ==========================================
+  
+
+[2022-09-21T16:17:33.091Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:17:50.784Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 21/9/2022, 13:18:06
+  ==========================================
+  
+
+[2022-09-21T16:18:16.734Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:18:23.641Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:20:21.138Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:21:58.309Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:22:46.347Z] : [success]: Bot started
+
+[2022-09-21T16:22:46.348Z] : [info]: Robot start
+
+[2022-09-21T16:22:49.889Z] : [success]: Bot finished successfully, total execution time: 3s 540ms
+
+[2022-09-21T16:22:49.890Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:23:46.042Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:30:38.052Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:30:43.916Z] : [success]: Bot started
+
+[2022-09-21T16:30:43.917Z] : [info]: Robot start
+
+[2022-09-21T16:30:47.408Z] : [success]: Bot finished successfully, total execution time: 3s 489ms
+
+[2022-09-21T16:30:47.409Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:33:39.770Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:33:43.923Z] : [success]: Bot started
+
+[2022-09-21T16:33:43.924Z] : [info]: Robot start
+
+[2022-09-21T16:33:47.380Z] : [error]: Access denied to require 'fs'
+
+[2022-09-21T16:33:47.385Z] : [error]: Total execution time: 3s 455ms
+
+[2022-09-21T16:33:47.387Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:36:11.111Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:36:17.348Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:36:17.348Z] : [success]: Bot started
+
+[2022-09-21T16:36:17.349Z] : [info]: Robot start
+
+[2022-09-21T16:36:20.843Z] : [error]: Access denied to require 'fs'
+
+[2022-09-21T16:36:20.848Z] : [error]: Total execution time: 3s 491ms
+
+[2022-09-21T16:36:20.850Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:36:38.869Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:36:39.008Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:36:39.008Z] : [success]: Bot started
+
+[2022-09-21T16:36:39.009Z] : [info]: Robot start
+
+[2022-09-21T16:36:42.471Z] : [error]: existsSync is not defined
+
+[2022-09-21T16:36:42.476Z] : [error]: Total execution time: 3s 461ms
+
+[2022-09-21T16:36:42.478Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:38:39.475Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:38:44.633Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:38:44.633Z] : [success]: Bot started
+
+[2022-09-21T16:38:44.634Z] : [info]: Robot start
+
+[2022-09-21T16:38:48.201Z] : [error]: Access denied to require 'fs'
+
+[2022-09-21T16:38:48.203Z] : [error]: Total execution time: 3s 566ms
+
+[2022-09-21T16:38:48.204Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:41:35.173Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:41:35.320Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:41:35.320Z] : [success]: Bot started
+
+[2022-09-21T16:41:35.321Z] : [info]: Robot start
+
+[2022-09-21T16:41:38.779Z] : [error]: Access denied to require 'fs'
+
+[2022-09-21T16:41:38.782Z] : [error]: Total execution time: 3s 456ms
+
+[2022-09-21T16:41:38.782Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:45:11.111Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:45:25.810Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:45:25.811Z] : [success]: Bot started
+
+[2022-09-21T16:45:25.811Z] : [info]: Robot start
+
+[2022-09-21T16:45:29.303Z] : [success]: Bot finished successfully, total execution time: 3s 489ms
+
+[2022-09-21T16:45:29.305Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 21/9/2022, 13:46:09
+  ==========================================
+  
+
+[2022-09-21T16:46:48.810Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:46:52.633Z] : [success]: Bot started
+
+[2022-09-21T16:46:52.634Z] : [info]: Robot start
+
+[2022-09-21T16:46:56.036Z] : [success]: Bot finished successfully, total execution time: 3s 401ms
+
+[2022-09-21T16:46:56.037Z] : [info]: ---------------------------------------------
+
+[2022-09-21T16:47:47.918Z] : [success]: Robot saved successfully
+
+[2022-09-21T16:47:52.094Z] : [success]: Bot started
+
+[2022-09-21T16:47:52.094Z] : [info]: Robot start
+
+[2022-09-21T16:47:55.493Z] : [success]: Bot finished successfully, total execution time: 3s 397ms
+
+[2022-09-21T16:47:55.494Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:04:49.780Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:04:56.896Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:04:56.897Z] : [success]: Bot started
+
+[2022-09-21T17:04:56.898Z] : [info]: Robot start
+
+[2022-09-21T17:05:00.330Z] : [error]: Unexpected token ')'
+
+[2022-09-21T17:05:00.331Z] : [error]: Total execution time: 3s 430ms
+
+[2022-09-21T17:05:00.332Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:05:24.618Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:05:27.752Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:05:27.753Z] : [success]: Bot started
+
+[2022-09-21T17:05:27.753Z] : [info]: Robot start
+
+[2022-09-21T17:05:31.184Z] : [error]: Unexpected token ')'
+
+[2022-09-21T17:05:31.185Z] : [error]: Total execution time: 3s 430ms
+
+[2022-09-21T17:05:31.186Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:05:51.676Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:05:51.847Z] : [success]: Bot started
+
+[2022-09-21T17:05:51.848Z] : [info]: Robot start
+
+[2022-09-21T17:05:55.333Z] : [error]: Unexpected token ')'
+
+[2022-09-21T17:05:55.336Z] : [error]: Total execution time: 3s 485ms
+
+[2022-09-21T17:05:55.336Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:06:37.602Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:06:41.321Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:06:41.322Z] : [success]: Bot started
+
+[2022-09-21T17:06:41.322Z] : [info]: Robot start
+
+[2022-09-21T17:06:44.876Z] : [error]: Unexpected token ')'
+
+[2022-09-21T17:06:44.877Z] : [error]: Total execution time: 3s 553ms
+
+[2022-09-21T17:06:44.878Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:07:31.267Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:07:34.665Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:07:34.665Z] : [success]: Bot started
+
+[2022-09-21T17:07:34.666Z] : [info]: Robot start
+
+[2022-09-21T17:07:38.103Z] : [success]: Bot finished successfully, total execution time: 3s 436ms
+
+[2022-09-21T17:07:38.104Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:09:32.775Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:09:36.612Z] : [success]: Bot started
+
+[2022-09-21T17:09:36.613Z] : [info]: Robot start
+
+[2022-09-21T17:09:40.173Z] : [success]: Bot finished successfully, total execution time: 3s 559ms
+
+[2022-09-21T17:09:40.175Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:12:20.211Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:12:27.368Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:12:27.369Z] : [success]: Bot started
+
+[2022-09-21T17:12:27.369Z] : [info]: Robot start
+
+[2022-09-21T17:12:30.879Z] : [success]: Bot finished successfully, total execution time: 3s 509ms
+
+[2022-09-21T17:12:30.880Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:14:40.730Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:15:28.963Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:27:18.544Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:28:51.339Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:29:55.449Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:30:05.338Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:30:21.416Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:31:03.510Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:31:47.238Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:32:13.634Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 21/9/2022, 14:32:53
+  ==========================================
+  
+
+[2022-09-21T17:32:58.455Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:33:20.585Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:33:20.586Z] : [success]: Bot started
+
+[2022-09-21T17:33:20.587Z] : [info]: Robot start
+
+[2022-09-21T17:34:19.569Z] : [success]: Bot finished successfully, total execution time: 58s 981ms
+
+[2022-09-21T17:34:19.570Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:34:53.958Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:35:54.655Z] : [success]: Robot saved successfully
+

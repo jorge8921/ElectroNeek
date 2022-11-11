@@ -1,0 +1,145 @@
+
+  ==========================================
+  Studio Pro version: 8.6.10
+  Started at: 11/11/2022, 10:26:41
+  ==========================================
+  
+
+[2022-11-11T13:27:33.008Z] : [success]: Robot saved successfully
+
+[2022-11-11T13:27:37.962Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:27:37.962Z] : [success]: Bot started
+
+[2022-11-11T13:27:37.963Z] : [info]: Robot start
+
+[2022-11-11T13:27:40.125Z] : [success]: Bot finished successfully, total execution time: 2s 160ms
+
+[2022-11-11T13:27:40.125Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:31:08.765Z] : [success]: Robot saved successfully
+
+[2022-11-11T13:31:08.943Z] : [success]: Bot started
+
+[2022-11-11T13:31:08.944Z] : [info]: Robot start
+
+[2022-11-11T13:33:11.742Z] : [error]: ocr api error
+
+[2022-11-11T13:33:11.744Z] : [error]: Total execution time: 2m 2s 797ms
+
+[2022-11-11T13:33:11.744Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:35:48.131Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.145Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.163Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.182Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.201Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.219Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.240Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.260Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.278Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.298Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.317Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.538Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.557Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.574Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.592Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.610Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.631Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.650Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.668Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.688Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.708Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.729Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.749Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.804Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.827Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:35:48.846Z] : [error]: Cannot read properties of undefined (reading 'x')
+
+[2022-11-11T13:37:00.831Z] : [success]: Robot saved successfully
+
+[2022-11-11T13:37:01.170Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:37:01.171Z] : [success]: Bot started
+
+[2022-11-11T13:37:01.172Z] : [info]: Robot start
+
+[2022-11-11T13:37:02.332Z] : [error]: Path is not defined
+
+[2022-11-11T13:37:02.334Z] : [error]: Total execution time: 1s 160ms
+
+[2022-11-11T13:37:02.335Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:37:16.355Z] : [success]: Robot saved successfully
+
+[2022-11-11T13:37:16.485Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:37:16.485Z] : [success]: Bot started
+
+[2022-11-11T13:37:16.486Z] : [info]: Robot start
+
+[2022-11-11T13:37:25.657Z] : [error]: Invalid OCR filePath provided
+
+[2022-11-11T13:37:25.659Z] : [error]: Total execution time: 9s 171ms
+
+[2022-11-11T13:37:25.660Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:38:14.200Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:38:14.201Z] : [success]: Bot started
+
+[2022-11-11T13:38:14.202Z] : [info]: Robot start
+
+[2022-11-11T13:38:24.367Z] : [error]: Invalid OCR filePath provided
+
+[2022-11-11T13:38:24.369Z] : [error]: Total execution time: 10s 164ms
+
+[2022-11-11T13:38:24.370Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:38:42.137Z] : [success]: Robot saved successfully
+
+[2022-11-11T13:38:42.286Z] : [info]: ---------------------------------------------
+
+[2022-11-11T13:38:42.286Z] : [success]: Bot started
+
+[2022-11-11T13:38:42.287Z] : [info]: Robot start
+
+[2022-11-11T13:38:52.436Z] : [success]: Bot finished successfully, total execution time: 10s 147ms
+
+[2022-11-11T13:38:52.437Z] : [info]: ---------------------------------------------
+
+[2022-11-11T14:35:05.655Z] : [success]: Robot saved successfully
+
+[2022-11-11T14:35:12.694Z] : [success]: Bot started
+
+[2022-11-11T14:35:12.695Z] : [info]: Robot start
+
+[2022-11-11T14:38:14.760Z] : [success]: Bot finished successfully, total execution time: 3m 2s 62ms
+
+[2022-11-11T14:38:14.761Z] : [info]: ---------------------------------------------
+

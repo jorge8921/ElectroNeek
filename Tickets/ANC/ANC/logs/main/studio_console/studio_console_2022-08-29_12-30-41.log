@@ -1,0 +1,27 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 29/8/2022 17:18:26
+  ==========================================
+  
+
+[2022-08-29T23:18:48.278Z] : [success]: Robot guardado correctamente
+
+[2022-08-29T23:18:48.304Z] : [info]: ---------------------------------------------
+
+[2022-08-29T23:18:48.305Z] : [success]: Bot iniciado
+
+[2022-08-29T23:18:48.308Z] : [info]: Robot start
+
+[2022-08-29T23:26:16.155Z] : [error]: Unknown Error: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/execute","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/execute: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2022-08-29T23:26:16.162Z] : [info]: ---------------------------------------------
+
+[2022-08-29T23:26:16.971Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/variables?name=password","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/variables?name=password: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2022-08-29T23:27:39.678Z] : [success]: Robot guardado correctamente
+
+[2022-08-29T23:27:46.349Z] : [success]: Robot guardado correctamente
+
+[2022-08-29T23:27:51.124Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/variables","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/variables: 0 Unknown Error","error":{"isTrusted":true}}
+

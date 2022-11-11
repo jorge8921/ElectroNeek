@@ -1,0 +1,144 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:38:34
+  ==========================================
+  
+
+[2022-08-20T15:48:13.305Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:50:11.061Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:52:16.052Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:52:59
+  ==========================================
+  
+
+[2022-08-20T16:01:14.949Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T16:01:14.952Z] : [error]: Total execution time: 17s 240ms
+
+[2022-08-20T16:01:14.953Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:02:14.242Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:02:42.620Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T16:02:42.622Z] : [error]: Total execution time: 16s 226ms
+
+[2022-08-20T16:02:42.623Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:03:23.126Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:03:27.461Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:03:27.461Z] : [success]: Bot started
+
+[2022-08-20T16:03:27.462Z] : [info]: Robot start
+
+[2022-08-20T16:03:32.706Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T16:03:32.707Z] : [error]: Total execution time: 5s 244ms
+
+[2022-08-20T16:03:32.708Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:03:55.535Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:03:55.548Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:03:55.549Z] : [success]: Bot started
+
+[2022-08-20T16:03:55.550Z] : [info]: Robot start
+
+[2022-08-20T16:04:00.789Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T16:04:00.791Z] : [error]: Total execution time: 5s 239ms
+
+[2022-08-20T16:04:00.791Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:04:23.921Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:04:23.928Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:04:23.928Z] : [success]: Bot started
+
+[2022-08-20T16:04:23.929Z] : [info]: Robot start
+
+[2022-08-20T16:04:29.212Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T16:04:29.214Z] : [error]: Total execution time: 5s 283ms
+
+[2022-08-20T16:04:29.215Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:05:43.432Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2022-08-20T16:05:46.323Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2022-08-20T16:06:41.270Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:06:53.093Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:06:53.094Z] : [success]: Bot started
+
+[2022-08-20T16:06:53.095Z] : [info]: Robot start
+
+[2022-08-20T16:06:57.258Z] : [success]: Bot finished successfully, total execution time: 4s 162ms
+
+[2022-08-20T16:06:57.259Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:09:14.313Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:09:14.334Z] : [success]: Bot started
+
+[2022-08-20T16:09:14.334Z] : [info]: Robot start
+
+[2022-08-20T16:09:18.600Z] : [success]: Bot finished successfully, total execution time: 4s 265ms
+
+[2022-08-20T16:09:18.601Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:09:36.026Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2022-08-20T16:09:51.461Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:10:12.057Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:10:12.057Z] : [success]: Bot started
+
+[2022-08-20T16:10:12.058Z] : [info]: Robot start
+
+[2022-08-20T16:10:16.251Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T16:10:16.252Z] : [error]: Total execution time: 4s 192ms
+
+[2022-08-20T16:10:16.253Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:12:14.416Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:12:14.431Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:12:14.431Z] : [success]: Bot started
+
+[2022-08-20T16:12:14.432Z] : [info]: Robot start
+
+[2022-08-20T16:12:19.680Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T16:12:19.682Z] : [error]: Total execution time: 5s 248ms
+
+[2022-08-20T16:12:19.683Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:12:40.915Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:12:40.931Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:12:40.931Z] : [success]: Bot started
+
+[2022-08-20T16:12:40.932Z] : [info]: Robot start
+
+[2022-08-20T16:12:44.159Z] : [success]: Bot finished successfully, total execution time: 3s 226ms
+
+[2022-08-20T16:12:44.161Z] : [info]: ---------------------------------------------
+

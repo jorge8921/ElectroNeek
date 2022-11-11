@@ -1,0 +1,91 @@
+[2022-08-02T21:41:35.305Z] : [success]: Bot started
+
+[2022-08-02T21:41:35.306Z] : [info]: Robot start
+
+[2022-08-02T21:41:39.452Z] : [success]: Bot finished successfully, total execution time: 4s 145ms
+
+[2022-08-02T21:41:39.453Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:42:14.459Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:42:14.459Z] : [success]: Bot started
+
+[2022-08-02T21:42:14.460Z] : [info]: Robot start
+
+[2022-08-02T21:42:18.673Z] : [success]: Bot finished successfully, total execution time: 4s 212ms
+
+[2022-08-02T21:42:18.675Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:42:42.267Z] : [success]: Bot started
+
+[2022-08-02T21:42:42.268Z] : [info]: Robot start
+
+[2022-08-02T21:42:46.468Z] : [success]: Bot finished successfully, total execution time: 4s 199ms
+
+[2022-08-02T21:42:46.469Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 2/8/2022, 18:43:02
+  ==========================================
+  
+
+[2022-08-02T21:43:07.047Z] : [success]: Bot started
+
+[2022-08-02T21:43:07.048Z] : [info]: Robot start
+
+[2022-08-02T21:43:13.254Z] : [success]: Bot finished successfully, total execution time: 6s 205ms
+
+[2022-08-02T21:43:13.255Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:43:22.257Z] : [success]: Robot saved successfully
+
+[2022-08-02T21:43:30.472Z] : [success]: Robot saved successfully
+
+[2022-08-02T21:43:42.907Z] : [success]: Bot started
+
+[2022-08-02T21:43:42.908Z] : [info]: Robot start
+
+[2022-08-02T21:43:49.124Z] : [success]: Bot finished successfully, total execution time: 6s 215ms
+
+[2022-08-02T21:43:49.125Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:44:32.328Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:44:32.329Z] : [success]: Bot started
+
+[2022-08-02T21:44:32.329Z] : [info]: Robot start
+
+[2022-08-02T21:45:07.026Z] : [success]: Bot finished successfully, total execution time: 34s 696ms
+
+[2022-08-02T21:45:07.027Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:45:36.278Z] : [success]: Bot started
+
+[2022-08-02T21:45:36.279Z] : [info]: Robot start
+
+[2022-08-02T21:45:41.420Z] : [success]: Bot finished successfully, total execution time: 5s 138ms
+
+[2022-08-02T21:45:41.423Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:47:04.003Z] : [success]: Robot saved successfully
+
+[2022-08-02T21:47:04.011Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:47:04.011Z] : [success]: Bot started
+
+[2022-08-02T21:47:04.012Z] : [info]: Robot start
+
+[2022-08-02T21:47:08.062Z] : [info]: test
+
+[2022-08-02T21:47:08.162Z] : [success]: Bot finished successfully, total execution time: 4s 150ms
+
+[2022-08-02T21:47:08.163Z] : [info]: ---------------------------------------------
+
+[2022-08-02T21:47:17.902Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-02T21:47:17.903Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-02T21:47:17.904Z] : [error]: Cannot read properties of null (reading 'type')
+

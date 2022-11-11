@@ -1,0 +1,4 @@
+[2022-08-05T14:55:50.663Z] : [success]: Robot saved successfully
+
+[2022-08-05T14:56:01.631Z] : [error]: ENOENT: no such file or directory, copyfile 'C:\Users\jorge.castro_tres60\Documents\RPA\FIORI Creación de Aviso y OT\Bot Fiori\screenshots\picker-1655135652073.png' -> 'C:\Users\jorge.castro_tres60\Documents\RPA\FIORI Creación de Aviso y OT\Bot Fiori\screenshots\picker-1655135652073.png'
+

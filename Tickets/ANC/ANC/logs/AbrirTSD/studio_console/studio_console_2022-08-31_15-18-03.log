@@ -1,0 +1,154 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 31/8/2022 15:18:25
+  ==========================================
+  
+
+[2022-08-31T21:19:12.245Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:19:12.268Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:19:12.269Z] : [success]: Bot iniciado
+
+[2022-08-31T21:19:12.269Z] : [info]: Robot start
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 31/8/2022 15:19:12
+  ==========================================
+  
+
+[2022-08-31T21:19:54.431Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 42s 157ms
+
+[2022-08-31T21:19:54.433Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:24:23.797Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:24:47.037Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:24:51.123Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:25:19.229Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:25:19.262Z] : [success]: Bot iniciado
+
+[2022-08-31T21:25:19.263Z] : [info]: Robot start
+
+[2022-08-31T21:25:21.689Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-08-31T21:25:21.691Z] : [error]: Tiempo total de ejecución: 2s 425ms
+
+[2022-08-31T21:25:21.692Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:26:14.236Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:26:14.265Z] : [success]: Bot iniciado
+
+[2022-08-31T21:26:14.266Z] : [info]: Robot start
+
+[2022-08-31T21:29:30.963Z] : [error]: Script Stopped.
+
+[2022-08-31T21:29:30.966Z] : [warn]: Tiempo total de ejecución: 3m 16s 697ms
+
+[2022-08-31T21:29:30.967Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:29:48.949Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:29:48.983Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:29:48.983Z] : [success]: Bot iniciado
+
+[2022-08-31T21:29:48.984Z] : [info]: Robot start
+
+[2022-08-31T21:29:55.488Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-08-31T21:29:55.492Z] : [error]: Tiempo total de ejecución: 6s 504ms
+
+[2022-08-31T21:29:55.493Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:30:41.270Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:30:41.310Z] : [success]: Bot iniciado
+
+[2022-08-31T21:30:41.311Z] : [info]: Robot start
+
+[2022-08-31T21:30:48.889Z] : [error]: No se ha encontrado ningún elemento de acuerdo con su selección. Puede ocurrir por un selector erróneo o porque el elemento tarda más en aparecer en la pantalla. Pruebe a modificar el selector o a aumentar el tiempo de espera del elemento y vuelva a ejecutar el bot
+
+[2022-08-31T21:30:48.892Z] : [error]: Tiempo total de ejecución: 7s 578ms
+
+[2022-08-31T21:30:48.892Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:30:53.424Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:31:01.522Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:31:01.523Z] : [success]: Bot iniciado
+
+[2022-08-31T21:31:01.524Z] : [info]: Robot start
+
+[2022-08-31T21:32:38.034Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 1m 36s 508ms
+
+[2022-08-31T21:32:38.035Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:36:14.060Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:36:14.097Z] : [success]: Bot iniciado
+
+[2022-08-31T21:36:14.098Z] : [info]: Robot start
+
+[2022-08-31T21:40:34.844Z] : [error]: Script stopped.
+
+[2022-08-31T21:40:34.846Z] : [error]: Tiempo total de ejecución: 4m 20s 745ms
+
+[2022-08-31T21:40:34.847Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:43:01.872Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:43:01.894Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:43:01.894Z] : [success]: Bot iniciado
+
+[2022-08-31T21:43:01.895Z] : [info]: Robot start
+
+[2022-08-31T21:43:12.427Z] : [error]: [object Object]
+
+[2022-08-31T21:43:12.429Z] : [error]: Tiempo total de ejecución: 10s 531ms
+
+[2022-08-31T21:43:12.430Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:44:26.103Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:44:30.935Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:44:30.936Z] : [success]: Bot iniciado
+
+[2022-08-31T21:44:30.937Z] : [info]: Robot start
+
+[2022-08-31T21:44:41.388Z] : [error]: [object Object]
+
+[2022-08-31T21:44:41.391Z] : [error]: Tiempo total de ejecución: 10s 451ms
+
+[2022-08-31T21:44:41.391Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:46:22.410Z] : [success]: Robot guardado correctamente
+
+[2022-08-31T21:46:22.435Z] : [info]: ---------------------------------------------
+
+[2022-08-31T21:46:22.436Z] : [success]: Bot iniciado
+
+[2022-08-31T21:46:22.436Z] : [info]: Robot start
+
+[2022-08-31T21:46:43.107Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 20s 670ms
+
+[2022-08-31T21:46:43.108Z] : [info]: ---------------------------------------------
+
+[2022-09-01T01:53:37.276Z] : [info]: Internet connection // error
+
+[2022-09-01T01:53:56.231Z] : [success]: Se restablece la conexión con nuestro servidor de licencias
+
+[2022-09-01T03:17:55.043Z] : [info]: Internet connection // error
+
+[2022-09-01T03:18:40.108Z] : [success]: Se restablece la conexión con nuestro servidor de licencias
+

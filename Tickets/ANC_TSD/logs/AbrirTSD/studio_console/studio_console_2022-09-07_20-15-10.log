@@ -1,0 +1,124 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 7/9/2022, 20:15:13
+  ==========================================
+  
+
+[2022-09-07T23:17:02.525Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:17:02.769Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:17:02.829Z] : [success]: Bot started
+
+[2022-09-07T23:17:02.830Z] : [info]: Robot start
+
+[2022-09-07T23:17:09.384Z] : [success]: Bot finished successfully, total execution time: 6s 553ms
+
+[2022-09-07T23:17:09.386Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:18:40.383Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:18:40.605Z] : [success]: Bot started
+
+[2022-09-07T23:18:40.606Z] : [info]: Robot start
+
+[2022-09-07T23:18:44.401Z] : [success]: Bot finished successfully, total execution time: 3s 794ms
+
+[2022-09-07T23:18:44.402Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:20:11.474Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:20:11.708Z] : [success]: Bot started
+
+[2022-09-07T23:20:11.709Z] : [info]: Robot start
+
+[2022-09-07T23:20:33.102Z] : [success]: Bot finished successfully, total execution time: 21s 391ms
+
+[2022-09-07T23:20:33.103Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:22:21.439Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:22:21.673Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:22:21.673Z] : [success]: Bot started
+
+[2022-09-07T23:22:21.674Z] : [info]: Robot start
+
+[2022-09-07T23:22:23.887Z] : [info]: 49011
+
+[2022-09-07T23:22:24.815Z] : [success]: Bot finished successfully, total execution time: 3s 140ms
+
+[2022-09-07T23:22:24.817Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:23:08.308Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:23:08.699Z] : [success]: Bot started
+
+[2022-09-07T23:23:08.700Z] : [info]: Robot start
+
+[2022-09-07T23:23:13.917Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-09-07T23:23:13.920Z] : [error]: Total execution time: 5s 217ms
+
+[2022-09-07T23:23:13.921Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:23:22.650Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:23:22.881Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:23:22.881Z] : [success]: Bot started
+
+[2022-09-07T23:23:22.882Z] : [info]: Robot start
+
+[2022-09-07T23:25:25.730Z] : [error]: DireccionPrincipal is not defined
+      undefined
+
+[2022-09-07T23:25:25.732Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:29:48.383Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:30:00.383Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:33:20.672Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:40:43.329Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:43:02.279Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:54:00.505Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:54:06.503Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:54:06.505Z] : [success]: Bot started
+
+[2022-09-07T23:54:06.506Z] : [info]: Robot start
+
+[2022-09-07T23:54:46.467Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:54:53.344Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:54:53.345Z] : [success]: Bot started
+
+[2022-09-07T23:54:53.346Z] : [info]: Robot start
+
+[2022-09-07T23:59:09.307Z] : [success]: Robot saved successfully
+
+[2022-09-07T23:59:22.700Z] : [info]: ---------------------------------------------
+
+[2022-09-07T23:59:22.700Z] : [success]: Bot started
+
+[2022-09-07T23:59:22.701Z] : [info]: Robot start
+
+[2022-09-08T00:02:17.822Z] : [error]: Script Stopped.
+
+[2022-09-08T00:02:17.825Z] : [info]: ---------------------------------------------
+
+[2022-09-08T00:04:27.350Z] : [success]: Robot saved successfully
+
+[2022-09-08T00:04:27.600Z] : [info]: ---------------------------------------------
+
+[2022-09-08T00:04:27.601Z] : [success]: Bot started
+
+[2022-09-08T00:04:27.601Z] : [info]: Robot start
+

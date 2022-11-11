@@ -1,0 +1,11 @@
+[2022-08-26T00:35:43.974Z] : [warn]: Ha abierto un archivo que contenía elementos de la UI con los que interactuar. Pero Studio Pro no puede encontrar los elementos. Esto sucede porque el archivo .neek no puede encontrar el archivo .elm asociado al flujo de trabajo. Coloque el archivo .elm en la carpeta de elementos correspondiente en la misma carpeta donde se encuentra el flujo de trabajo o vuelva a seleccionar los elementos manualmente. Reabrir el flujo de trabajo
+
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 25/8/2022 18:35:44
+  ==========================================
+  
+
+[2022-08-26T00:39:34.435Z] : [success]: Robot guardado correctamente
+

@@ -1,0 +1,105 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 4/8/2022, 15:43:54
+  ==========================================
+  
+
+[2022-08-04T18:48:20.574Z] : [success]: Robot saved successfully
+
+[2022-08-04T18:48:25.917Z] : [info]: ---------------------------------------------
+
+[2022-08-04T18:48:25.918Z] : [success]: Bot started
+
+[2022-08-04T18:48:25.918Z] : [info]: Robot start
+
+[2022-08-04T18:48:55.082Z] : [error]: El sistema no puede encontrar el archivo especificado
+
+[2022-08-04T18:48:55.084Z] : [error]: Total execution time: 29s 164ms
+
+[2022-08-04T18:48:55.087Z] : [info]: ---------------------------------------------
+
+[2022-08-04T18:51:55.881Z] : [success]: Robot saved successfully
+
+[2022-08-04T18:51:55.984Z] : [success]: Bot started
+
+[2022-08-04T18:51:55.984Z] : [info]: Robot start
+
+[2022-08-04T18:51:59.092Z] : [error]: El sistema no puede encontrar el archivo especificado
+
+[2022-08-04T18:51:59.097Z] : [error]: Total execution time: 3s 107ms
+
+[2022-08-04T18:51:59.099Z] : [info]: ---------------------------------------------
+
+[2022-08-04T18:56:09.326Z] : [success]: Robot saved successfully
+
+[2022-08-04T18:56:09.442Z] : [info]: ---------------------------------------------
+
+[2022-08-04T18:56:09.443Z] : [success]: Bot started
+
+[2022-08-04T18:56:09.443Z] : [info]: Robot start
+
+[2022-08-04T18:56:12.535Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T18:56:12.537Z] : [error]: Total execution time: 3s 92ms
+
+[2022-08-04T18:56:12.538Z] : [info]: ---------------------------------------------
+
+[2022-08-04T18:58:03.446Z] : [success]: Bot started
+
+[2022-08-04T18:58:03.447Z] : [info]: Robot start
+
+[2022-08-04T18:58:05.605Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T18:58:05.610Z] : [error]: Total execution time: 2s 158ms
+
+[2022-08-04T18:58:05.612Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:09:36.766Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:09:36.767Z] : [success]: Bot started
+
+[2022-08-04T19:09:36.768Z] : [info]: Robot start
+
+[2022-08-04T19:09:39.863Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:09:39.866Z] : [error]: Total execution time: 3s 95ms
+
+[2022-08-04T19:09:39.867Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:15:08.139Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:15:08.141Z] : [success]: Bot started
+
+[2022-08-04T19:15:08.142Z] : [info]: Robot start
+
+[2022-08-04T19:15:15.295Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:15:15.301Z] : [error]: Total execution time: 7s 152ms
+
+[2022-08-04T19:15:15.303Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:18:05.098Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:18:05.246Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:18:05.247Z] : [success]: Bot started
+
+[2022-08-04T19:18:05.248Z] : [info]: Robot start
+
+[2022-08-04T19:18:07.345Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:18:07.347Z] : [error]: Total execution time: 2s 97ms
+
+[2022-08-04T19:18:07.347Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:18:12.618Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T19:18:12.620Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T19:18:12.621Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T19:18:12.622Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-04T19:18:12.623Z] : [error]: Cannot read properties of null (reading 'type')
+

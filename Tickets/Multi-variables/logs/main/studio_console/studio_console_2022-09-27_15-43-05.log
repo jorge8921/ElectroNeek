@@ -1,0 +1,63 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 27/9/2022, 15:47:12
+  ==========================================
+  
+
+[2022-09-27T18:53:03.410Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:53:03.518Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:53:03.519Z] : [success]: Bot started
+
+[2022-09-27T18:53:03.519Z] : [info]: Robot start
+
+[2022-09-27T18:53:04.264Z] : [info]: ""
+
+[2022-09-27T18:53:04.610Z] : [success]: Bot finished successfully, total execution time: 1s 90ms
+
+[2022-09-27T18:53:04.616Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:53:15.907Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:54:59.938Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:55:00.015Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:55:00.016Z] : [success]: Bot started
+
+[2022-09-27T18:55:00.017Z] : [info]: Robot start
+
+[2022-09-27T18:55:00.924Z] : [info]: test
+
+[2022-09-27T18:55:02.164Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Multi-variables\test.py", line 1, in <module>
+    jsVariable2 = jsVariable
+NameError: name 'jsVariable' is not defined
+
+
+[2022-09-27T18:55:02.166Z] : [error]: Total execution time: 2s 147ms
+
+[2022-09-27T18:55:02.167Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:55:56.123Z] : [success]: Robot saved successfully
+
+[2022-09-27T18:55:56.210Z] : [info]: ---------------------------------------------
+
+[2022-09-27T18:55:56.210Z] : [success]: Bot started
+
+[2022-09-27T18:55:56.212Z] : [info]: Robot start
+
+[2022-09-27T18:55:56.937Z] : [info]: test
+
+[2022-09-27T18:55:58.327Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\Multi-variables\test.py", line 1, in <module>
+    jsVariable2 = jsVariable
+NameError: name 'jsVariable' is not defined
+
+
+[2022-09-27T18:55:58.328Z] : [error]: Total execution time: 2s 114ms
+
+[2022-09-27T18:55:58.329Z] : [info]: ---------------------------------------------
+

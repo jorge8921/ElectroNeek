@@ -1,0 +1,459 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 15:55:28
+  ==========================================
+  
+
+[2022-08-20T18:56:37.317Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2022-08-20T18:56:41.538Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2022-08-20T18:57:49.343Z] : [success]: Rel file saved successfully
+
+[2022-08-20T18:57:49.358Z] : [success]: Robot saved successfully
+
+[2022-08-20T18:57:49.381Z] : [info]: ---------------------------------------------
+
+[2022-08-20T18:57:49.383Z] : [success]: Bot started
+
+[2022-08-20T18:57:49.384Z] : [info]: Robot start
+
+[2022-08-20T18:57:52.696Z] : [success]: Bot finished successfully, total execution time: 3s 311ms
+
+[2022-08-20T18:57:52.697Z] : [info]: ---------------------------------------------
+
+[2022-08-20T18:58:24.841Z] : [success]: Rel file saved successfully
+
+[2022-08-20T18:58:24.860Z] : [success]: Robot saved successfully
+
+[2022-08-20T18:58:24.868Z] : [success]: Bot started
+
+[2022-08-20T18:58:24.868Z] : [info]: Robot start
+
+[2022-08-20T18:58:27.040Z] : [success]: Bot finished successfully, total execution time: 2s 171ms
+
+[2022-08-20T18:58:27.041Z] : [info]: ---------------------------------------------
+
+[2022-08-20T18:59:51.638Z] : [success]: Rel file saved successfully
+
+[2022-08-20T18:59:51.657Z] : [success]: Robot saved successfully
+
+[2022-08-20T18:59:58.699Z] : [info]: ---------------------------------------------
+
+[2022-08-20T18:59:58.699Z] : [success]: Bot started
+
+[2022-08-20T18:59:58.700Z] : [info]: Robot start
+
+[2022-08-20T19:00:08.030Z] : [error]: Script Stopped.
+
+[2022-08-20T19:00:08.032Z] : [warn]: Total execution time: 9s 329ms
+
+[2022-08-20T19:00:08.033Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:00:38.245Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:00:38.264Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:00:38.276Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:00:38.276Z] : [success]: Bot started
+
+[2022-08-20T19:00:38.277Z] : [info]: Robot start
+
+[2022-08-20T19:00:57.775Z] : [error]: Script Stopped.
+
+[2022-08-20T19:00:57.777Z] : [warn]: Total execution time: 19s 498ms
+
+[2022-08-20T19:00:57.778Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:01:21.718Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:01:21.736Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:01:28.232Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:01:28.233Z] : [success]: Bot started
+
+[2022-08-20T19:01:28.234Z] : [info]: Robot start
+
+[2022-08-20T19:02:31.266Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-08-20T19:02:31.268Z] : [error]: Total execution time: 1m 3s 32ms
+
+[2022-08-20T19:02:31.269Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:09:53.666Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2022-08-20T19:11:15.362Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:11:15.383Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:11:15.394Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:11:15.395Z] : [success]: Bot started
+
+[2022-08-20T19:11:15.395Z] : [info]: Robot start
+
+[2022-08-20T19:11:21.744Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2022-08-20T19:11:21.746Z] : [error]: Total execution time: 6s 348ms
+
+[2022-08-20T19:11:21.747Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:11:47.828Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:11:47.847Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:11:54.473Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:11:54.474Z] : [success]: Bot started
+
+[2022-08-20T19:11:54.474Z] : [info]: Robot start
+
+[2022-08-20T19:12:00.692Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2022-08-20T19:12:00.694Z] : [error]: Total execution time: 6s 218ms
+
+[2022-08-20T19:12:00.695Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:12:16.926Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:12:16.949Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:12:16.958Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:12:16.958Z] : [success]: Bot started
+
+[2022-08-20T19:12:16.959Z] : [info]: Robot start
+
+[2022-08-20T19:12:23.204Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-08-20T19:12:23.206Z] : [error]: Total execution time: 6s 245ms
+
+[2022-08-20T19:12:23.207Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:12:35.417Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:12:35.438Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:12:35.447Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:12:35.448Z] : [success]: Bot started
+
+[2022-08-20T19:12:35.448Z] : [info]: Robot start
+
+[2022-08-20T19:13:40.169Z] : [success]: Bot finished successfully, total execution time: 1m 4s 719ms
+
+[2022-08-20T19:13:40.171Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:18:54.772Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:18:54.792Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:18:59.288Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:18:59.289Z] : [success]: Bot started
+
+[2022-08-20T19:18:59.289Z] : [info]: Robot start
+
+[2022-08-20T19:19:57.998Z] : [success]: Bot finished successfully, total execution time: 58s 707ms
+
+[2022-08-20T19:19:57.999Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:21:17.742Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:21:17.762Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:21:17.774Z] : [success]: Bot started
+
+[2022-08-20T19:21:17.775Z] : [info]: Robot start
+
+[2022-08-20T19:21:21.071Z] : [success]: Bot finished successfully, total execution time: 3s 295ms
+
+[2022-08-20T19:21:21.072Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:21:48.800Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:21:48.821Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:21:53.901Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:21:53.902Z] : [success]: Bot started
+
+[2022-08-20T19:21:53.902Z] : [info]: Robot start
+
+[2022-08-20T19:21:56.102Z] : [success]: Bot finished successfully, total execution time: 2s 198ms
+
+[2022-08-20T19:21:56.105Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:24:21.729Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:24:21.750Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:24:21.760Z] : [success]: Bot started
+
+[2022-08-20T19:24:21.761Z] : [info]: Robot start
+
+[2022-08-20T19:25:28.762Z] : [success]: Bot finished successfully, total execution time: 1m 7s
+
+[2022-08-20T19:25:28.764Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:26:06.781Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:26:06.802Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:26:06.815Z] : [success]: Bot started
+
+[2022-08-20T19:26:06.815Z] : [info]: Robot start
+
+[2022-08-20T19:26:09.113Z] : [success]: Bot finished successfully, total execution time: 2s 295ms
+
+[2022-08-20T19:26:09.116Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:29:51.100Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:29:51.119Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:30:31.827Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:30:31.846Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:30:31.859Z] : [success]: Bot started
+
+[2022-08-20T19:30:31.860Z] : [info]: Robot start
+
+[2022-08-20T19:30:41.297Z] : [success]: Bot finished successfully, total execution time: 9s 436ms
+
+[2022-08-20T19:30:41.298Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:33:25.841Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:33:25.861Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:33:25.875Z] : [success]: Bot started
+
+[2022-08-20T19:33:25.876Z] : [info]: Robot start
+
+[2022-08-20T19:33:28.192Z] : [success]: Bot finished successfully, total execution time: 2s 313ms
+
+[2022-08-20T19:33:28.194Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:35:11.645Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:35:11.665Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:35:11.681Z] : [success]: Bot started
+
+[2022-08-20T19:35:11.682Z] : [info]: Robot start
+
+[2022-08-20T19:35:13.951Z] : [success]: Bot finished successfully, total execution time: 2s 268ms
+
+[2022-08-20T19:35:13.952Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:35:34.487Z] : [success]: Bot started
+
+[2022-08-20T19:35:34.487Z] : [info]: Robot start
+
+[2022-08-20T19:35:36.749Z] : [success]: Bot finished successfully, total execution time: 2s 260ms
+
+[2022-08-20T19:35:36.750Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:36:00.075Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:36:00.095Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:36:00.105Z] : [success]: Bot started
+
+[2022-08-20T19:36:00.106Z] : [info]: Robot start
+
+[2022-08-20T19:36:02.438Z] : [success]: Bot finished successfully, total execution time: 2s 328ms
+
+[2022-08-20T19:36:02.441Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:36:20.343Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:36:20.364Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:36:20.375Z] : [success]: Bot started
+
+[2022-08-20T19:36:20.376Z] : [info]: Robot start
+
+[2022-08-20T19:36:22.630Z] : [error]: file_content.ReplaceAll is not a function
+      undefined
+
+[2022-08-20T19:36:22.631Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:36:36.515Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:36:36.536Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:36:36.548Z] : [success]: Bot started
+
+[2022-08-20T19:36:36.549Z] : [info]: Robot start
+
+[2022-08-20T19:36:38.847Z] : [success]: Bot finished successfully, total execution time: 2s 296ms
+
+[2022-08-20T19:36:38.849Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:36:50.793Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:36:50.814Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:36:50.824Z] : [success]: Bot started
+
+[2022-08-20T19:36:50.824Z] : [info]: Robot start
+
+[2022-08-20T19:36:53.119Z] : [success]: Bot finished successfully, total execution time: 2s 293ms
+
+[2022-08-20T19:36:53.120Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:42:10.047Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:42:10.067Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:42:10.081Z] : [success]: Bot started
+
+[2022-08-20T19:42:10.082Z] : [info]: Robot start
+
+[2022-08-20T19:42:12.511Z] : [success]: Bot finished successfully, total execution time: 2s 429ms
+
+[2022-08-20T19:42:12.512Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:44:57.563Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:44:57.594Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:44:57.603Z] : [success]: Bot started
+
+[2022-08-20T19:44:57.603Z] : [info]: Robot start
+
+[2022-08-20T19:45:00.915Z] : [error]: Selectors: Error converting value "8979" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '[0]', line 1, position 7.
+
+
+[2022-08-20T19:45:00.917Z] : [error]: Total execution time: 3s 311ms
+
+[2022-08-20T19:45:00.918Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:46:49.481Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:46:49.503Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:46:49.514Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:46:49.514Z] : [success]: Bot started
+
+[2022-08-20T19:46:49.515Z] : [info]: Robot start
+
+[2022-08-20T19:46:52.821Z] : [error]: Selectors: Zip exception.Unable to read value at the specified position - end of stream was reached.
+
+
+[2022-08-20T19:46:52.824Z] : [error]: Total execution time: 3s 304ms
+
+[2022-08-20T19:46:52.826Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:49:37.192Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:49:37.211Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:49:42.467Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:49:42.468Z] : [success]: Bot started
+
+[2022-08-20T19:49:42.468Z] : [info]: Robot start
+
+[2022-08-20T19:49:44.653Z] : [error]: Selectors: "Error converting value \"Ticket Number\" to type 'System.Collections.Generic.IDictionary`2[System.String,System.Collections.Generic.IDictionary`2[System.String,System.String][]]'. Path '', line 1, position 15."
+
+
+[2022-08-20T19:49:44.655Z] : [error]: Total execution time: 2s 184ms
+
+[2022-08-20T19:49:44.656Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:52:01.356Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:52:01.378Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:52:01.389Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:52:01.389Z] : [success]: Bot started
+
+[2022-08-20T19:52:01.390Z] : [info]: Robot start
+
+[2022-08-20T19:52:04.575Z] : [error]: Selectors: Zip exception.Unable to read value at the specified position - end of stream was reached.
+
+
+[2022-08-20T19:52:04.581Z] : [error]: Total execution time: 3s 182ms
+
+[2022-08-20T19:52:04.583Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:55:14.876Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:55:14.895Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:55:22.089Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:55:22.090Z] : [success]: Bot started
+
+[2022-08-20T19:55:22.090Z] : [info]: Robot start
+
+[2022-08-20T19:55:25.305Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-08-20T19:55:25.307Z] : [error]: Total execution time: 3s 215ms
+
+[2022-08-20T19:55:25.308Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:55:40.101Z] : [success]: Bot started
+
+[2022-08-20T19:55:40.102Z] : [info]: Robot start
+
+[2022-08-20T19:55:43.202Z] : [error]: Selectors: "Excel no puede abrir el archivo 'ticketsNumber.xlsx' porque el formato o la extensión no son válidos. Compruebe que el archivo no se ha dañado y que la extensión y el formato del archivo coinciden."
+
+
+[2022-08-20T19:55:43.204Z] : [error]: Total execution time: 3s 100ms
+
+[2022-08-20T19:55:43.205Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:56:34.996Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:56:35.015Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:56:35.113Z] : [success]: Bot started
+
+[2022-08-20T19:56:35.114Z] : [info]: Robot start
+
+[2022-08-20T19:56:38.219Z] : [error]: Selectors: "Excel no puede abrir el archivo 'ticketsNumber.xlsx' porque el formato o la extensión no son válidos. Compruebe que el archivo no se ha dañado y que la extensión y el formato del archivo coinciden."
+
+
+[2022-08-20T19:56:38.222Z] : [error]: Total execution time: 3s 105ms
+
+[2022-08-20T19:56:38.223Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:56:51.633Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:56:51.633Z] : [success]: Bot started
+
+[2022-08-20T19:56:51.634Z] : [info]: Robot start
+
+[2022-08-20T19:57:13.902Z] : [success]: Bot finished successfully, total execution time: 22s 267ms
+
+[2022-08-20T19:57:13.903Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:57:35.429Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:57:35.450Z] : [success]: Robot saved successfully
+
+[2022-08-20T19:57:42.185Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:57:42.186Z] : [success]: Bot started
+
+[2022-08-20T19:57:42.187Z] : [info]: Robot start
+
+[2022-08-20T19:58:04.402Z] : [success]: Bot finished successfully, total execution time: 22s 214ms
+
+[2022-08-20T19:58:04.403Z] : [info]: ---------------------------------------------
+
+[2022-08-20T19:58:38.738Z] : [success]: Rel file saved successfully
+
+[2022-08-20T19:58:38.759Z] : [success]: Robot saved successfully
+

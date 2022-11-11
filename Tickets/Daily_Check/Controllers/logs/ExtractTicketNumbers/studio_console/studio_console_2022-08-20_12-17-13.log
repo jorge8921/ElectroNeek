@@ -1,0 +1,54 @@
+[2022-08-20T15:25:35.691Z] : [success]: Robot saved successfully
+
+[2022-08-20T15:28:37.937Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:31:01
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:32:49
+  ==========================================
+  
+
+[2022-08-20T15:33:38.396Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 12:52:57
+  ==========================================
+  
+
+[2022-08-20T15:59:40.578Z] : [error]: Selectors: "El valor no puede ser nulo.\r\nNombre del parámetro: source"
+
+
+[2022-08-20T15:59:40.580Z] : [error]: Total execution time: 3s 222ms
+
+[2022-08-20T15:59:40.580Z] : [info]: ---------------------------------------------
+
+[2022-08-20T15:59:53.900Z] : [error]: Selectors: "El valor no puede ser nulo.\r\nNombre del parámetro: source"
+
+
+[2022-08-20T15:59:53.902Z] : [error]: Total execution time: 3s 183ms
+
+[2022-08-20T15:59:53.903Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:00:00.844Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:00:12.669Z] : [error]: Selectors: "El valor no puede ser nulo.\r\nNombre del parámetro: source"
+
+
+[2022-08-20T16:00:12.671Z] : [error]: Total execution time: 3s 104ms
+
+[2022-08-20T16:00:12.672Z] : [info]: ---------------------------------------------
+
+[2022-08-20T16:00:52.131Z] : [success]: Robot saved successfully
+
+[2022-08-20T16:13:52.234Z] : [success]: Robot saved successfully
+

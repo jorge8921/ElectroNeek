@@ -1,0 +1,174 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 20/9/2022, 19:21:28
+  ==========================================
+  
+
+[2022-09-20T22:22:03.088Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:22:03.293Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:22:03.294Z] : [success]: Bot started
+
+[2022-09-20T22:22:03.294Z] : [info]: Robot start
+
+[2022-09-20T22:22:14.499Z] : [success]: Bot finished successfully, total execution time: 11s 203ms
+
+[2022-09-20T22:22:14.500Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:27:32.726Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:28:07.544Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:28:12.453Z] : [success]: Bot started
+
+[2022-09-20T22:28:12.454Z] : [info]: Robot start
+
+[2022-09-20T22:28:21.629Z] : [success]: Bot finished successfully, total execution time: 9s 173ms
+
+[2022-09-20T22:28:21.630Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:31:39.224Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:31:44.676Z] : [success]: Bot started
+
+[2022-09-20T22:31:44.676Z] : [info]: Robot start
+
+[2022-09-20T22:31:46.778Z] : [error]: Mustache is not defined
+      undefined
+
+[2022-09-20T22:31:46.780Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:32:38.102Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:32:50.224Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:32:50.224Z] : [success]: Bot started
+
+[2022-09-20T22:32:50.226Z] : [info]: Robot start
+
+[2022-09-20T22:32:58.395Z] : [success]: Bot finished successfully, total execution time: 8s 169ms
+
+[2022-09-20T22:32:58.396Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:35:28.227Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:35:32.301Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:35:32.302Z] : [success]: Bot started
+
+[2022-09-20T22:35:32.303Z] : [info]: Robot start
+
+[2022-09-20T22:35:41.541Z] : [success]: Bot finished successfully, total execution time: 9s 237ms
+
+[2022-09-20T22:35:41.542Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:37:43.663Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:37:47.849Z] : [success]: Bot started
+
+[2022-09-20T22:37:47.850Z] : [info]: Robot start
+
+[2022-09-20T22:37:49.919Z] : [error]: data is not defined
+      undefined
+
+[2022-09-20T22:37:49.921Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:40:10.102Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:40:20.261Z] : [success]: Bot started
+
+[2022-09-20T22:40:20.262Z] : [info]: Robot start
+
+[2022-09-20T22:40:29.475Z] : [success]: Bot finished successfully, total execution time: 9s 212ms
+
+[2022-09-20T22:40:29.476Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:41:23.426Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:41:31.048Z] : [success]: Bot started
+
+[2022-09-20T22:41:31.049Z] : [info]: Robot start
+
+[2022-09-20T22:41:39.221Z] : [success]: Bot finished successfully, total execution time: 8s 171ms
+
+[2022-09-20T22:41:39.222Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:42:01.231Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:42:06.195Z] : [success]: Bot started
+
+[2022-09-20T22:42:06.196Z] : [info]: Robot start
+
+[2022-09-20T22:42:08.285Z] : [error]: Cannot read properties of undefined (reading 'subjectLine')
+      undefined
+
+[2022-09-20T22:42:08.288Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:42:28.891Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:44:50.343Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:44:50.398Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:44:50.399Z] : [success]: Bot started
+
+[2022-09-20T22:44:50.399Z] : [info]: Robot start
+
+[2022-09-20T22:44:58.544Z] : [success]: Bot finished successfully, total execution time: 8s 142ms
+
+[2022-09-20T22:44:58.546Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:46:14.923Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:46:27.053Z] : [success]: Bot started
+
+[2022-09-20T22:46:27.054Z] : [info]: Robot start
+
+[2022-09-20T22:46:35.224Z] : [success]: Bot finished successfully, total execution time: 8s 169ms
+
+[2022-09-20T22:46:35.225Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:47:08.388Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:47:15.591Z] : [success]: Bot started
+
+[2022-09-20T22:47:15.592Z] : [info]: Robot start
+
+[2022-09-20T22:47:23.804Z] : [success]: Bot finished successfully, total execution time: 8s 211ms
+
+[2022-09-20T22:47:23.805Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:47:54.314Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:48:01.381Z] : [success]: Bot started
+
+[2022-09-20T22:48:01.382Z] : [info]: Robot start
+
+[2022-09-20T22:48:09.531Z] : [success]: Bot finished successfully, total execution time: 8s 148ms
+
+[2022-09-20T22:48:09.532Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:48:34.790Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:48:38.713Z] : [success]: Bot started
+
+[2022-09-20T22:48:38.714Z] : [info]: Robot start
+
+[2022-09-20T22:48:46.900Z] : [success]: Bot finished successfully, total execution time: 8s 185ms
+
+[2022-09-20T22:48:46.901Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:50:16.677Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:50:24.912Z] : [success]: Bot started
+
+[2022-09-20T22:50:24.913Z] : [info]: Robot start
+
+[2022-09-20T22:50:33.058Z] : [success]: Bot finished successfully, total execution time: 8s 144ms
+
+[2022-09-20T22:50:33.059Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:52:58.774Z] : [success]: Robot saved successfully
+

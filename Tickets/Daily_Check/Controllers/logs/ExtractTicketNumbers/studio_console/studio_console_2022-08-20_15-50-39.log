@@ -1,0 +1,59 @@
+[2022-08-20T18:51:18.370Z] : [error]: Selectors: "El valor no puede ser nulo.\r\nNombre del parámetro: source"
+
+
+[2022-08-20T18:51:18.373Z] : [error]: Total execution time: 5s 454ms
+
+[2022-08-20T18:51:18.375Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 15:51:18
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 20/8/2022, 16:59:33
+  ==========================================
+  
+
+[2022-08-20T20:01:00.498Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:01:43.756Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:04:32.648Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:05:04.146Z] : [error]: Selectors: File C:\Users\Jorge Noguera\Documents\Tickets\Daily_Check\Controllers\ticketsNumber.xlsx could not be found. Please verify the file path.
+
+
+[2022-08-20T20:05:04.148Z] : [error]: Total execution time: 10s 705ms
+
+[2022-08-20T20:05:04.149Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:05:31.974Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:05:36.315Z] : [success]: Bot started
+
+[2022-08-20T20:05:36.316Z] : [info]: Robot start
+
+[2022-08-20T20:05:40.609Z] : [error]: Selectors: File C:\Users\Jorge Noguera\Documents\Tickets\Daily_Check\Controllers\ticketsNumber.xlsx could not be found. Please verify the file path.
+
+
+[2022-08-20T20:05:40.610Z] : [error]: Total execution time: 4s 293ms
+
+[2022-08-20T20:05:40.611Z] : [info]: ---------------------------------------------
+
+[2022-08-20T20:05:53.653Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:07:09.164Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:07:42.355Z] : [success]: Robot saved successfully
+
+[2022-08-20T20:09:50.512Z] : [success]: Robot saved successfully
+
+[2022-08-20T21:04:04.635Z] : [success]: Robot saved successfully
+
+[2022-08-20T21:13:09.249Z] : [success]: Robot saved successfully
+

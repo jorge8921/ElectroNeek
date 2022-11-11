@@ -1,0 +1,209 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 13/9/2022, 15:17:56
+  ==========================================
+  
+
+[2022-09-13T18:18:46.870Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:18:47.048Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:18:47.049Z] : [success]: Bot started
+
+[2022-09-13T18:18:47.050Z] : [info]: Robot start
+
+[2022-09-13T18:19:06.954Z] : [info]: rlbLocs_i1
+
+[2022-09-13T18:19:10.667Z] : [info]: rlbLocs_i2
+
+[2022-09-13T18:19:14.857Z] : [info]: rlbLocs_i2
+
+[2022-09-13T18:19:16.984Z] : [info]: rlbLocs_i4
+
+[2022-09-13T18:19:59.966Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:20:00.746Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:20:00.747Z] : [success]: Bot started
+
+[2022-09-13T18:20:00.747Z] : [info]: Robot start
+
+[2022-09-13T18:20:18.833Z] : [info]: rlbLocs_i1
+
+[2022-09-13T18:20:22.535Z] : [info]: rlbLocs_i2
+
+[2022-09-13T18:20:26.272Z] : [info]: rlbLocs_i2
+
+[2022-09-13T18:20:28.384Z] : [info]: rlbLocs_i4
+
+[2022-09-13T18:31:45.226Z] : [success]: Bot finished successfully, total execution time: 11m 44s 478ms
+
+[2022-09-13T18:31:45.228Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:38:26.199Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:38:26.460Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:38:26.460Z] : [success]: Bot started
+
+[2022-09-13T18:38:26.461Z] : [info]: Robot start
+
+[2022-09-13T18:57:52.957Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:57:57.978Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:57:57.978Z] : [success]: Bot started
+
+[2022-09-13T18:57:57.979Z] : [info]: Robot start
+
+[2022-09-13T18:58:06.186Z] : [error]: Can't launch browser
+
+[2022-09-13T18:58:06.188Z] : [error]: Total execution time: 8s 206ms
+
+[2022-09-13T18:58:06.189Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:58:30.065Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:58:30.387Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:58:30.388Z] : [success]: Bot started
+
+[2022-09-13T18:58:30.388Z] : [info]: Robot start
+
+[2022-09-13T18:58:38.729Z] : [error]: Can't launch browser
+
+[2022-09-13T18:58:38.731Z] : [error]: Total execution time: 8s 341ms
+
+[2022-09-13T18:58:38.731Z] : [info]: ---------------------------------------------
+
+[2022-09-13T18:59:30.806Z] : [success]: Robot saved successfully
+
+[2022-09-13T18:59:31.154Z] : [success]: Bot started
+
+[2022-09-13T18:59:31.155Z] : [info]: Robot start
+
+[2022-09-13T19:00:09.565Z] : [info]: rlbLocs_i1
+
+[2022-09-13T19:00:25.964Z] : [success]: Bot finished successfully, total execution time: 54s 808ms
+
+[2022-09-13T19:00:25.965Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:19:25.312Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:19:25.617Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:19:25.617Z] : [success]: Bot started
+
+[2022-09-13T19:19:25.618Z] : [info]: Robot start
+
+[2022-09-13T19:22:41.352Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:22:45.092Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:22:45.093Z] : [success]: Bot started
+
+[2022-09-13T19:22:45.093Z] : [info]: Robot start
+
+[2022-09-13T19:23:22.675Z] : [info]: rlbLocs_i1
+
+[2022-09-13T19:23:38.664Z] : [success]: Bot finished successfully, total execution time: 53s 570ms
+
+[2022-09-13T19:23:38.665Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:43:02.534Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:43:07.861Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:43:07.861Z] : [success]: Bot started
+
+[2022-09-13T19:43:07.862Z] : [info]: Robot start
+
+[2022-09-13T19:43:48.518Z] : [info]: rlbLocs_i1
+
+[2022-09-13T19:44:04.569Z] : [success]: Bot finished successfully, total execution time: 56s 706ms
+
+[2022-09-13T19:44:04.571Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:48:47.770Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:48:48.246Z] : [success]: Bot started
+
+[2022-09-13T19:48:48.247Z] : [info]: Robot start
+
+[2022-09-13T19:49:12.626Z] : [success]: Bot finished successfully, total execution time: 24s 377ms
+
+[2022-09-13T19:49:12.627Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:51:52.794Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:51:53.216Z] : [success]: Bot started
+
+[2022-09-13T19:51:53.217Z] : [info]: Robot start
+
+[2022-09-13T19:52:47.889Z] : [success]: Bot finished successfully, total execution time: 54s 671ms
+
+[2022-09-13T19:52:47.890Z] : [info]: ---------------------------------------------
+
+[2022-09-13T19:59:18.539Z] : [success]: Robot saved successfully
+
+[2022-09-13T19:59:18.895Z] : [success]: Bot started
+
+[2022-09-13T19:59:18.896Z] : [info]: Robot start
+
+[2022-09-13T20:00:14.605Z] : [success]: Bot finished successfully, total execution time: 55s 708ms
+
+[2022-09-13T20:00:14.606Z] : [info]: ---------------------------------------------
+
+[2022-09-13T20:11:20.992Z] : [success]: Robot saved successfully
+
+[2022-09-13T20:11:21.372Z] : [success]: Bot started
+
+[2022-09-13T20:11:21.373Z] : [info]: Robot start
+
+[2022-09-13T20:11:44.825Z] : [success]: Bot finished successfully, total execution time: 23s 451ms
+
+[2022-09-13T20:11:44.826Z] : [info]: ---------------------------------------------
+
+[2022-09-13T20:13:29.504Z] : [success]: Robot saved successfully
+
+[2022-09-13T20:13:31.014Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.016Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.018Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.019Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.025Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.026Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.028Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.029Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.030Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.031Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.033Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.034Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.035Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.037Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.040Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.042Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.043Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.044Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.045Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-13T20:13:31.048Z] : [error]: Cannot read properties of null (reading 'type')
+

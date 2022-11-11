@@ -1,0 +1,30 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 21/9/2022, 14:50:03
+  ==========================================
+  
+
+[2022-09-21T17:58:53.248Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:59:33.991Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:59:33.992Z] : [success]: Bot started
+
+[2022-09-21T17:59:33.993Z] : [info]: Robot start
+
+[2022-09-21T17:59:37.189Z] : [error]: Tmp is not defined
+      undefined
+
+[2022-09-21T17:59:37.191Z] : [info]: ---------------------------------------------
+
+[2022-09-21T17:59:48.853Z] : [success]: Robot saved successfully
+
+[2022-09-21T17:59:53.096Z] : [success]: Bot started
+
+[2022-09-21T17:59:53.097Z] : [info]: Robot start
+
+[2022-09-21T18:01:55.783Z] : [success]: Bot finished successfully, total execution time: 2m 2s 680ms
+
+[2022-09-21T18:01:55.787Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,13 @@
+[2022-09-13T17:41:45.754Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-09-13T17:41:45.757Z] : [error]: Total execution time: 51s 91ms
+
+[2022-09-13T17:41:45.758Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 13/9/2022, 14:41:45
+  ==========================================
+  
+

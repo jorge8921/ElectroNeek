@@ -1,0 +1,238 @@
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 6/9/2022, 21:17:31
+  ==========================================
+  
+
+[2022-09-07T00:21:26.922Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:29:26.711Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:29:26.976Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:29:26.983Z] : [success]: Bot started
+
+[2022-09-07T00:29:26.986Z] : [info]: Robot start
+
+[2022-09-07T00:30:00.630Z] : [success]: Bot finished successfully, total execution time: 33s 641ms
+
+[2022-09-07T00:30:00.633Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:31:05.853Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:31:10.573Z] : [success]: Bot started
+
+[2022-09-07T00:31:10.576Z] : [info]: Robot start
+
+[2022-09-07T00:31:15.685Z] : [success]: Bot finished successfully, total execution time: 5s 108ms
+
+[2022-09-07T00:31:15.686Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:35:23.327Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:35:23.451Z] : [success]: Bot started
+
+[2022-09-07T00:35:23.452Z] : [info]: Robot start
+
+[2022-09-07T00:35:47.800Z] : [success]: Bot finished successfully, total execution time: 24s 346ms
+
+[2022-09-07T00:35:47.801Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:39:43.105Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:39:43.252Z] : [success]: Bot started
+
+[2022-09-07T00:39:43.253Z] : [info]: Robot start
+
+[2022-09-07T00:41:44.554Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-09-07T00:41:44.556Z] : [error]: Total execution time: 2m 1s 301ms
+
+[2022-09-07T00:41:44.557Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:42:05.509Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:42:45.605Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:42:49.380Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:42:49.381Z] : [success]: Bot started
+
+[2022-09-07T00:42:49.381Z] : [info]: Robot start
+
+[2022-09-07T00:45:36.081Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-09-07T00:45:36.083Z] : [error]: Total execution time: 2m 46s 700ms
+
+[2022-09-07T00:45:36.084Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:46:51.789Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:46:51.936Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:46:51.937Z] : [success]: Bot started
+
+[2022-09-07T00:46:51.938Z] : [info]: Robot start
+
+[2022-09-07T00:49:42.874Z] : [success]: Bot finished successfully, total execution time: 2m 50s 934ms
+
+[2022-09-07T00:49:42.876Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.4.10
+  Started at: 6/9/2022, 21:55:57
+  ==========================================
+  
+
+[2022-09-07T00:56:17.561Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:56:17.709Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:56:17.709Z] : [success]: Bot started
+
+[2022-09-07T00:56:17.710Z] : [info]: Robot start
+
+[2022-09-07T00:56:38.088Z] : [error]: Script Stopped.
+
+[2022-09-07T00:56:38.091Z] : [warn]: Total execution time: 20s 376ms
+
+[2022-09-07T00:56:38.092Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:57:04.444Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:57:04.581Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:57:04.582Z] : [success]: Bot started
+
+[2022-09-07T00:57:04.583Z] : [info]: Robot start
+
+[2022-09-07T00:57:40.138Z] : [success]: Bot finished successfully, total execution time: 35s 554ms
+
+[2022-09-07T00:57:40.139Z] : [info]: ---------------------------------------------
+
+[2022-09-07T00:59:32.231Z] : [success]: Robot saved successfully
+
+[2022-09-07T00:59:32.498Z] : [success]: Bot started
+
+[2022-09-07T00:59:32.499Z] : [info]: Robot start
+
+[2022-09-07T01:01:04.469Z] : [success]: Bot finished successfully, total execution time: 1m 31s 968ms
+
+[2022-09-07T01:01:04.470Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:02:11.008Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:02:11.139Z] : [success]: Bot started
+
+[2022-09-07T01:02:11.140Z] : [info]: Robot start
+
+[2022-09-07T01:02:14.304Z] : [error]: Chrome is already running. Close it or remove the Load User profile property
+
+[2022-09-07T01:02:14.306Z] : [error]: Total execution time: 3s 163ms
+
+[2022-09-07T01:02:14.307Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:02:52.087Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:02:52.088Z] : [success]: Bot started
+
+[2022-09-07T01:02:52.089Z] : [info]: Robot start
+
+[2022-09-07T01:03:21.397Z] : [success]: Bot finished successfully, total execution time: 29s 307ms
+
+[2022-09-07T01:03:21.398Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:06:08.272Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:06:08.429Z] : [success]: Bot started
+
+[2022-09-07T01:06:08.430Z] : [info]: Robot start
+
+[2022-09-07T01:07:14.255Z] : [success]: Bot finished successfully, total execution time: 1m 5s 823ms
+
+[2022-09-07T01:07:14.256Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:08:04.851Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:08:27.128Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:08:32.004Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:08:32.005Z] : [success]: Bot started
+
+[2022-09-07T01:08:32.006Z] : [info]: Robot start
+
+[2022-09-07T01:09:24.590Z] : [success]: Bot finished successfully, total execution time: 52s 583ms
+
+[2022-09-07T01:09:24.592Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:10:22.729Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:10:38.888Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:10:46.977Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:10:46.977Z] : [success]: Bot started
+
+[2022-09-07T01:10:46.978Z] : [info]: Robot start
+
+[2022-09-07T01:11:35.779Z] : [success]: Bot finished successfully, total execution time: 48s 799ms
+
+[2022-09-07T01:11:35.780Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:11:47.210Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:11:47.342Z] : [success]: Bot started
+
+[2022-09-07T01:11:47.343Z] : [info]: Robot start
+
+[2022-09-07T01:12:17.784Z] : [success]: Bot finished successfully, total execution time: 30s 440ms
+
+[2022-09-07T01:12:17.785Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:13:26.450Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:13:32.289Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:13:32.289Z] : [success]: Bot started
+
+[2022-09-07T01:13:32.290Z] : [info]: Robot start
+
+[2022-09-07T01:14:52.137Z] : [success]: Bot finished successfully, total execution time: 1m 19s 846ms
+
+[2022-09-07T01:14:52.138Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:15:16.176Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:15:16.305Z] : [success]: Bot started
+
+[2022-09-07T01:15:16.306Z] : [info]: Robot start
+
+[2022-09-07T01:15:19.400Z] : [error]: Chrome is already running. Close it or remove the Load User profile property
+
+[2022-09-07T01:15:19.402Z] : [error]: Total execution time: 3s 93ms
+
+[2022-09-07T01:15:19.402Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:15:40.668Z] : [success]: Robot saved successfully
+
+[2022-09-07T01:15:40.812Z] : [success]: Bot started
+
+[2022-09-07T01:15:40.813Z] : [info]: Robot start
+
+[2022-09-07T01:16:42.478Z] : [success]: Bot finished successfully, total execution time: 1m 1s 664ms
+
+[2022-09-07T01:16:42.479Z] : [info]: ---------------------------------------------
+
+[2022-09-07T01:16:44.949Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-07T01:16:44.950Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-07T01:16:44.951Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-07T01:16:44.953Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-07T01:16:44.954Z] : [error]: Cannot read properties of null (reading 'type')
+

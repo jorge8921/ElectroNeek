@@ -1,0 +1,79 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 16/8/2022, 11:20:56
+  ==========================================
+  
+
+[2022-08-16T14:22:28.646Z] : [success]: Robot saved successfully
+
+[2022-08-16T15:01:23.005Z] : [success]: Robot saved successfully
+
+[2022-08-16T15:03:21.779Z] : [success]: Robot saved successfully
+
+[2022-08-16T15:03:28.883Z] : [success]: Robot saved successfully
+
+[2022-08-16T15:04:23.908Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:04:23.908Z] : [success]: Bot started
+
+[2022-08-16T15:04:23.909Z] : [info]: Robot start
+
+[2022-08-16T15:04:27.020Z] : [error]: Chrome is already running. Close it or remove the Load User profile property
+
+[2022-08-16T15:04:27.023Z] : [error]: Total execution time: 3s 110ms
+
+[2022-08-16T15:04:27.024Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:04:38.319Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:04:38.320Z] : [success]: Bot started
+
+[2022-08-16T15:04:38.321Z] : [info]: Robot start
+
+[2022-08-16T15:05:20.791Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-08-16T15:05:20.793Z] : [error]: Total execution time: 42s 470ms
+
+[2022-08-16T15:05:20.795Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:38:02.715Z] : [success]: Robot saved successfully
+
+[2022-08-16T15:38:02.836Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:38:02.836Z] : [success]: Bot started
+
+[2022-08-16T15:38:02.837Z] : [info]: Robot start
+
+[2022-08-16T15:38:38.421Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-08-16T15:38:38.423Z] : [error]: Total execution time: 35s 584ms
+
+[2022-08-16T15:38:38.424Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:39:43.389Z] : [success]: Robot saved successfully
+
+[2022-08-16T15:39:43.632Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:39:43.632Z] : [success]: Bot started
+
+[2022-08-16T15:39:43.633Z] : [info]: Robot start
+
+[2022-08-16T15:41:09.800Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-08-16T15:41:09.802Z] : [error]: Total execution time: 1m 26s 166ms
+
+[2022-08-16T15:41:09.803Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:42:57.264Z] : [success]: Robot saved successfully
+
+[2022-08-16T15:43:01.978Z] : [info]: ---------------------------------------------
+
+[2022-08-16T15:43:01.979Z] : [success]: Bot started
+
+[2022-08-16T15:43:01.979Z] : [info]: Robot start
+
+[2022-08-16T15:44:42.402Z] : [success]: Bot finished successfully, total execution time: 1m 40s 422ms
+
+[2022-08-16T15:44:42.403Z] : [info]: ---------------------------------------------
+

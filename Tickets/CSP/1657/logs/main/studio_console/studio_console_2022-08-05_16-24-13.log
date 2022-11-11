@@ -1,0 +1,25 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 5/8/2022, 18:27:15
+  ==========================================
+  
+
+[2022-08-05T21:28:15.990Z] : [success]: Robot saved successfully
+
+[2022-08-05T21:28:16.002Z] : [info]: ---------------------------------------------
+
+[2022-08-05T21:28:16.002Z] : [success]: Bot started
+
+[2022-08-05T21:28:16.003Z] : [info]: Robot start
+
+[2022-08-05T21:28:22.949Z] : [success]: Bot finished successfully, total execution time: 6s 945ms
+
+[2022-08-05T21:28:22.950Z] : [info]: ---------------------------------------------
+
+[2022-08-05T21:29:29.177Z] : [success]: The workflow has been exported successfully
+
+[2022-08-07T01:53:49.199Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-07T01:53:49.202Z] : [error]: Cannot read properties of null (reading 'type')
+

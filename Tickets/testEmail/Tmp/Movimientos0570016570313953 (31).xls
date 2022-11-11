@@ -1,0 +1,591 @@
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+  <tr />
+</table>
+<TABLE cellSpacing="2" cellPadding="2" width="100%" border="1">
+  <tr>
+    <td colspan="16" nowrap="nowrap" width="50%" align="center">
+      <STRONG>Movimientos</STRONG>
+    </td>
+  </tr>
+  <TR>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Fecha</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Doc.</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Tran</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Ofi.</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Jor.</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Hora</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Mot.</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Desc Mot.</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Valor Total</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Valor Cheque</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>NIT Origen</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Referencia 1</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Referencia 2</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Terminal</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Fecha Movto.</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Ciudad</STRONG>
+    </TD>
+    <TD width="30%" bgColor="#cccccc">
+      <STRONG>Valor Saldo</STRONG>
+    </TD>
+  </TR>
+  <TR>
+    <TD align="right">11/09/2022</TD>
+    <TD align="right">563327</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PORTAL-EMPRESARIAL</TD>
+    <TD align="right">Adicional</TD>
+    <TD align="right">9:50:03</TD>
+    <TD align="right">80</TD>
+    <TD align="right">Abono Por Pago a proveedores 16782103 CARLOS ALBERTO GARCIA</TD>
+    <TD align="right">$ 390.000,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">16782103</TD>
+    <TD align="right">'0560010260046510</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">29</TD>
+    <TD align="right">11/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 718.828.198,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">19716</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PORTAL-EMPRESARIAL</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">19:28:40</TD>
+    <TD align="right">80</TD>
+    <TD align="right">Abono Por Pago a proveedores 9003978369 MULTIVENTAS HUILA SAS</TD>
+    <TD align="right">$ 1.070.195,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">9003978369</TD>
+    <TD align="right">'0560076769997693</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">41</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 717.758.003,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">18202</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PORTAL-EMPRESARIAL</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">19:08:48</TD>
+    <TD align="right">80</TD>
+    <TD align="right">Abono Por Pago a proveedores 9003978390 COMPANIA DSIERRA SAS</TD>
+    <TD align="right">$ 4.737.798,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">9003978390</TD>
+    <TD align="right">'0560076769997685</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">14</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 713.020.205,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5933993</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">17:32:08</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 900332528 PRODUCTOS DE MAI</TD>
+    <TD align="right">$ 577.302,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">900332528</TD>
+    <TD align="right">'0000000900332528</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 712.442.903,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5931535</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">17:31:54</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 901378946 ESPONENZIALE SAS</TD>
+    <TD align="right">$ 1.123.697,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">901378946</TD>
+    <TD align="right">'0000000901378946</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 711.319.206,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">245697</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PORTAL PYMES</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">17:00:19</TD>
+    <TD align="right">6</TD>
+    <TD align="right">Abono Transferencia 8050107523 DISTRIBUIDORA LA COSTA</TD>
+    <TD align="right">$ 1.637.045,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">8050107523</TD>
+    <TD align="right">'0560017969999352</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">4557</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 709.682.161,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5883495</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:45:31</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 1035440495 YEISON ALBERTO C</TD>
+    <TD align="right">$ 347.400,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">1035440495</TD>
+    <TD align="right">'0000001035440495</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 709.334.761,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5882919</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:45:28</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 900076839 TORRES SOTO SAS</TD>
+    <TD align="right">$ 259.783,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">900076839</TD>
+    <TD align="right">'0000000900076839</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 709.074.978,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5881037</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:45:17</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 800175937 PRODUCTOS ALIMEN</TD>
+    <TD align="right">$ 1.891.975,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">800175937</TD>
+    <TD align="right">'0000000800175937</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 707.183.003,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5879031</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:45:06</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 890902168 LABORATORIOS ECA</TD>
+    <TD align="right">$ 4.162.166,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">890902168</TD>
+    <TD align="right">'0000000890902168</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 703.020.837,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5875554</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:44:47</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 891201919 DISTRIBUIDORA CO</TD>
+    <TD align="right">$ 1.334.988,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">891201919</TD>
+    <TD align="right">'0000000891201919</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 701.685.849,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5865368</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:44:08</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 830144306 BIG MARKET SAS</TD>
+    <TD align="right">$ 1.062.568,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">830144306</TD>
+    <TD align="right">'0000000830144306</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 700.623.281,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5865322</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:44:08</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 900690706 BELLEZA   SALUD</TD>
+    <TD align="right">$ 515.995,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">900690706</TD>
+    <TD align="right">'0000000900690706</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 700.107.286,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">56757</TD>
+    <TD align="right">Deposito Especial</TD>
+    <TD align="right">Corporativa Empres Cali</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:22:13</TD>
+    <TD align="right">0</TD>
+    <TD align="right"> Deposito Cheque en Oficina</TD>
+    <TD align="right">$ 779.709,00</TD>
+    <TD align="right">$ 779.709,00</TD>
+    <TD align="right"> </TD>
+    <TD align="right">'0000008001380821</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">5866</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">CALI</TD>
+    <TD align="right">$ 699.327.577,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">654488</TD>
+    <TD align="right">Deposito Especial</TD>
+    <TD align="right">SAN DIEGO</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">15:05:08</TD>
+    <TD align="right">0</TD>
+    <TD align="right"> Deposito Efectivo en Oficina</TD>
+    <TD align="right">$ 61.103,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right"> </TD>
+    <TD align="right">'0000000890910469</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">3796</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">MEDELLIN</TD>
+    <TD align="right">$ 699.266.474,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">886724</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PORTAL-EMPRESARIAL</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">13:14:40</TD>
+    <TD align="right">80</TD>
+    <TD align="right">Abono Por Pago a proveedores 9001236833 DELTA GLOBAL SAS</TD>
+    <TD align="right">$ 1.035.072,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">9001236833</TD>
+    <TD align="right">'0560019069999829</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">26</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 698.231.402,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5801787</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">13:13:33</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 900224753 TIENDA Y DISTRIB</TD>
+    <TD align="right">$ 517.000,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">900224753</TD>
+    <TD align="right">'0000000900224753</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 697.714.402,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">851264</TD>
+    <TD align="right">Deposito Especial</TD>
+    <TD align="right">BTA CALLE 19</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">11:57:18</TD>
+    <TD align="right">0</TD>
+    <TD align="right"> Deposito Efectivo en Oficina</TD>
+    <TD align="right">$ 489.235,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right"> </TD>
+    <TD align="right">'0000000900126024</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">6589</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 697.225.167,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">99746</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PORTAL PYMES</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">11:17:38</TD>
+    <TD align="right">6</TD>
+    <TD align="right">Abono Transferencia 8300841167 SELECT PETS DE COLOMBI</TD>
+    <TD align="right">$ 928.791,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">8300841167</TD>
+    <TD align="right">'0550462500059698</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">4553</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 696.296.376,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">982196</TD>
+    <TD align="right">Deposito Especial</TD>
+    <TD align="right">LA ESTACION CALI</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">11:01:31</TD>
+    <TD align="right">0</TD>
+    <TD align="right"> Deposito Efectivo en Oficina</TD>
+    <TD align="right">$ 1.040.998,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right"> </TD>
+    <TD align="right">'0000000900123433</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">2215</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">CALI</TD>
+    <TD align="right">$ 695.255.378,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5682066</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">10:58:22</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 830026395 VETERINARIA ESPE</TD>
+    <TD align="right">$ 1.789.758,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">830026395</TD>
+    <TD align="right">'0000000830026395</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 693.465.620,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5680570</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">10:58:13</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 800045641 RAPIVENTAS</TD>
+    <TD align="right">$ 245.496,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">800045641</TD>
+    <TD align="right">'0000000800045641</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 693.220.124,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5678259</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">10:58:01</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 860450667 LABORATORIOS NAT</TD>
+    <TD align="right">$ 484.912,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">860450667</TD>
+    <TD align="right">'0000000860450667</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 692.735.212,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5668923</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">10:57:09</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 8300577390 STRONG MACHINE L</TD>
+    <TD align="right">$ 1.359.865,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">8300577390</TD>
+    <TD align="right">'0000008300577390</TD>
+    <TD align="right">'0000000086022159</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 691.375.347,02</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5659124</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">10:56:15</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 8001464256 ORGANIZACION SOL</TD>
+    <TD align="right">$ 911.035,87</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">8001464256</TD>
+    <TD align="right">'0000008001464256</TD>
+    <TD align="right">'0000021002193145</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 690.464.311,15</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">5658799</TD>
+    <TD align="right">Notas Credito</TD>
+    <TD align="right">PROCESOS ACH</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">10:56:11</TD>
+    <TD align="right">29</TD>
+    <TD align="right">Abono ACH 9007909347 LA COOPERATIVA D</TD>
+    <TD align="right">$ 573.210,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right">9007909347</TD>
+    <TD align="right">'0000009007909347</TD>
+    <TD align="right">'0000021003161660</TD>
+    <TD align="right">677</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">BOGOTA</TD>
+    <TD align="right">$ 689.891.101,15</TD>
+  </TR>
+  <TR>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">203753</TD>
+    <TD align="right">Deposito Especial</TD>
+    <TD align="right">RECAUDO Y PAGO FUNZA</TD>
+    <TD align="right">Normal</TD>
+    <TD align="right">9:42:26</TD>
+    <TD align="right">0</TD>
+    <TD align="right"> Deposito Efectivo en Oficina</TD>
+    <TD align="right">$ 1.071.486,00</TD>
+    <TD align="right">$ 0,00</TD>
+    <TD align="right"> </TD>
+    <TD align="right">'0000008300603779</TD>
+    <TD align="right">'0000000000000000</TD>
+    <TD align="right">7155</TD>
+    <TD align="right">09/09/2022</TD>
+    <TD align="right">FUNZA</TD>
+    <TD align="right">$ 688.819.615,15</TD>
+  </TR>
+  <tr>
+    <td height="20" />
+  </tr>
+  <tr>
+    <td class="TituDatos" nowrap="nowrap" align="center">Total Abonos</td>
+    <td class="TituDatos" nowrap="nowrap" align="center">Total retiros y debitos</td>
+    <td class="TituDatos" nowrap="nowrap" align="center">Movimiento neto</td>
+    <td class="TituDatos" nowrap="nowrap" align="center">Cantidad de registros</td>
+  </tr>
+  <tr>
+    <td class="Datos2" nowrap="nowrap">$ 30.398.582,87</td>
+    <td class="Datos2" nowrap="nowrap">$ 0,00</td>
+    <td class="Datos2" nowrap="nowrap">$30,398,582.87</td>
+    <td class="Datos2" nowrap="nowrap">27</td>
+  </tr>
+</TABLE>

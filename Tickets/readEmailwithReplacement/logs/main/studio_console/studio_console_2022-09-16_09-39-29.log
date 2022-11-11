@@ -1,0 +1,78 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 16/9/2022, 11:30:44
+  ==========================================
+  
+
+[2022-09-16T14:33:18.416Z] : [success]: Robot saved successfully
+
+[2022-09-16T14:33:18.489Z] : [info]: ---------------------------------------------
+
+[2022-09-16T14:33:18.490Z] : [success]: Bot started
+
+[2022-09-16T14:33:18.490Z] : [info]: Robot start
+
+[2022-09-16T14:33:30.650Z] : [success]: Bot finished successfully, total execution time: 12s 159ms
+
+[2022-09-16T14:33:30.651Z] : [info]: ---------------------------------------------
+
+[2022-09-16T14:34:13.316Z] : [success]: Robot saved successfully
+
+[2022-09-16T14:34:35.067Z] : [success]: Robot saved successfully
+
+[2022-09-16T14:35:20.819Z] : [success]: Robot saved successfully
+
+[2022-09-16T14:35:33.993Z] : [info]: ---------------------------------------------
+
+[2022-09-16T14:35:33.994Z] : [success]: Bot started
+
+[2022-09-16T14:35:33.994Z] : [info]: Robot start
+
+[2022-09-16T14:35:45.162Z] : [success]: Bot finished successfully, total execution time: 11s 167ms
+
+[2022-09-16T14:35:45.163Z] : [info]: ---------------------------------------------
+
+[2022-09-16T14:36:54.431Z] : [success]: Robot saved successfully
+
+[2022-09-16T14:36:54.522Z] : [success]: Bot started
+
+[2022-09-16T14:36:54.524Z] : [info]: Robot start
+
+[2022-09-16T14:37:05.712Z] : [success]: Bot finished successfully, total execution time: 11s 186ms
+
+[2022-09-16T14:37:05.712Z] : [info]: ---------------------------------------------
+
+[2022-09-16T14:40:58.966Z] : [success]: Robot saved successfully
+
+[2022-09-16T14:40:59.033Z] : [success]: Bot started
+
+[2022-09-16T14:40:59.034Z] : [info]: Robot start
+
+[2022-09-16T14:41:10.151Z] : [success]: Bot finished successfully, total execution time: 11s 116ms
+
+[2022-09-16T14:41:10.152Z] : [info]: ---------------------------------------------
+
+[2022-09-16T14:51:32.400Z] : [success]: Robot saved successfully
+
+[2022-09-16T14:51:32.509Z] : [success]: Bot started
+
+[2022-09-16T14:51:32.509Z] : [info]: Robot start
+
+[2022-09-16T14:51:45.736Z] : [success]: Bot finished successfully, total execution time: 13s 226ms
+
+[2022-09-16T14:51:45.737Z] : [info]: ---------------------------------------------
+
+[2022-09-16T15:17:17.193Z] : [success]: Robot saved successfully
+
+[2022-09-16T15:17:21.473Z] : [info]: ---------------------------------------------
+
+[2022-09-16T15:17:21.474Z] : [success]: Bot started
+
+[2022-09-16T15:17:21.474Z] : [info]: Robot start
+
+[2022-09-16T15:17:23.587Z] : [error]: subject is not defined
+      undefined
+
+[2022-09-16T15:17:23.589Z] : [info]: ---------------------------------------------
+

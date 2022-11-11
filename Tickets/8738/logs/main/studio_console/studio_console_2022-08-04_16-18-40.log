@@ -1,0 +1,289 @@
+
+  ==========================================
+  Studio Pro version: 8.3.13
+  Started at: 4/8/2022, 16:18:46
+  ==========================================
+  
+
+[2022-08-04T19:18:52.535Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:18:52.610Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:18:52.610Z] : [success]: Bot started
+
+[2022-08-04T19:18:52.611Z] : [info]: Robot start
+
+[2022-08-04T19:18:54.724Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:18:54.731Z] : [error]: Total execution time: 2s 113ms
+
+[2022-08-04T19:18:54.732Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:19:15.891Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:19:15.963Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:19:15.964Z] : [success]: Bot started
+
+[2022-08-04T19:19:15.965Z] : [info]: Robot start
+
+[2022-08-04T19:19:18.053Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:19:18.055Z] : [error]: Total execution time: 2s 88ms
+
+[2022-08-04T19:19:18.056Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:23:29.615Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:23:29.704Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:23:29.704Z] : [success]: Bot started
+
+[2022-08-04T19:23:29.765Z] : [info]: Robot start
+
+[2022-08-04T19:23:31.833Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:23:31.839Z] : [error]: Total execution time: 2s 67ms
+
+[2022-08-04T19:23:31.841Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:24:55.100Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:24:55.220Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:24:55.221Z] : [success]: Bot started
+
+[2022-08-04T19:24:55.221Z] : [info]: Robot start
+
+[2022-08-04T19:24:57.314Z] : [error]: El sistema no puede encontrar el archivo especificado
+
+[2022-08-04T19:24:57.318Z] : [error]: Total execution time: 2s 93ms
+
+[2022-08-04T19:24:57.320Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:25:48.343Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:25:48.411Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:25:48.411Z] : [success]: Bot started
+
+[2022-08-04T19:25:48.412Z] : [info]: Robot start
+
+[2022-08-04T19:25:50.504Z] : [success]: Bot finished successfully, total execution time: 2s 89ms
+
+[2022-08-04T19:25:50.506Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:26:02.686Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:26:02.764Z] : [success]: Bot started
+
+[2022-08-04T19:26:02.765Z] : [info]: Robot start
+
+[2022-08-04T19:26:07.894Z] : [success]: Bot finished successfully, total execution time: 5s 127ms
+
+[2022-08-04T19:26:07.895Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:30:07.249Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:30:07.366Z] : [success]: Bot started
+
+[2022-08-04T19:30:07.367Z] : [info]: Robot start
+
+[2022-08-04T19:30:10.505Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:30:10.507Z] : [error]: Total execution time: 3s 138ms
+
+[2022-08-04T19:30:10.509Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:34:11.179Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:34:11.180Z] : [success]: Bot started
+
+[2022-08-04T19:34:11.180Z] : [info]: Robot start
+
+[2022-08-04T19:34:13.321Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2022-08-04T19:34:13.327Z] : [error]: Total execution time: 2s 140ms
+
+[2022-08-04T19:34:13.329Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:39:39.431Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:39:39.532Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:39:39.533Z] : [success]: Bot started
+
+[2022-08-04T19:39:39.533Z] : [info]: Robot start
+
+[2022-08-04T19:39:42.737Z] : [error]: El sistema no puede encontrar el archivo especificado
+
+[2022-08-04T19:39:42.738Z] : [error]: Total execution time: 3s 203ms
+
+[2022-08-04T19:39:42.739Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:44:55.140Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:44:55.269Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:44:55.270Z] : [success]: Bot started
+
+[2022-08-04T19:44:55.271Z] : [info]: Robot start
+
+[2022-08-04T19:45:00.465Z] : [success]: Bot finished successfully, total execution time: 5s 193ms
+
+[2022-08-04T19:45:00.466Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:46:11.547Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:46:11.650Z] : [success]: Bot started
+
+[2022-08-04T19:46:11.653Z] : [info]: Robot start
+
+[2022-08-04T19:46:34.047Z] : [success]: Bot finished successfully, total execution time: 22s 390ms
+
+[2022-08-04T19:46:34.049Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:46:49.987Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:46:50.122Z] : [success]: Bot started
+
+[2022-08-04T19:46:50.124Z] : [info]: Robot start
+
+[2022-08-04T19:47:37.808Z] : [error]: Script Stopped.
+
+[2022-08-04T19:47:37.812Z] : [warn]: Total execution time: 47s 682ms
+
+[2022-08-04T19:47:37.813Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:47:47.407Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:47:47.560Z] : [success]: Bot started
+
+[2022-08-04T19:47:47.561Z] : [info]: Robot start
+
+[2022-08-04T19:47:51.880Z] : [success]: Bot finished successfully, total execution time: 4s 317ms
+
+[2022-08-04T19:47:51.881Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:48:14.651Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:48:14.792Z] : [success]: Bot started
+
+[2022-08-04T19:48:14.793Z] : [info]: Robot start
+
+[2022-08-04T19:48:19.147Z] : [success]: Bot finished successfully, total execution time: 4s 352ms
+
+[2022-08-04T19:48:19.149Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:48:55.258Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:48:55.400Z] : [success]: Bot started
+
+[2022-08-04T19:48:55.402Z] : [info]: Robot start
+
+[2022-08-04T19:48:58.660Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\8738\tab.py", line 1, in <module>
+    import pyautogui      
+ModuleNotFoundError: No module named 'pyautogui'
+
+
+[2022-08-04T19:48:58.662Z] : [error]: Total execution time: 3s 258ms
+
+[2022-08-04T19:48:58.663Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:50:14.545Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:50:14.546Z] : [success]: Bot started
+
+[2022-08-04T19:50:14.547Z] : [info]: Robot start
+
+[2022-08-04T19:50:17.719Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\Jorge Noguera\Documents\Tickets\8738\tab.py", line 1, in <module>
+    import pyautogui      
+ModuleNotFoundError: No module named 'pyautogui'
+
+
+[2022-08-04T19:50:17.720Z] : [error]: Total execution time: 3s 171ms
+
+[2022-08-04T19:50:17.721Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:56:22.922Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:58:12.303Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:59:27.716Z] : [success]: Robot saved successfully
+
+[2022-08-04T19:59:27.819Z] : [info]: ---------------------------------------------
+
+[2022-08-04T19:59:27.819Z] : [success]: Bot started
+
+[2022-08-04T19:59:27.820Z] : [info]: Robot start
+
+[2022-08-04T20:00:21.666Z] : [success]: Bot finished successfully, total execution time: 53s 845ms
+
+[2022-08-04T20:00:21.667Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:01:38.021Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:01:42.941Z] : [success]: Bot started
+
+[2022-08-04T20:01:42.942Z] : [info]: Robot start
+
+[2022-08-04T20:02:36.749Z] : [success]: Bot finished successfully, total execution time: 53s 805ms
+
+[2022-08-04T20:02:36.751Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:20:35.116Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:21:10.551Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:21:10.682Z] : [success]: Bot started
+
+[2022-08-04T20:21:10.683Z] : [info]: Robot start
+
+[2022-08-04T20:22:03.491Z] : [success]: Bot finished successfully, total execution time: 52s 807ms
+
+[2022-08-04T20:22:03.492Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:22:56.958Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:22:57.069Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:22:57.070Z] : [success]: Bot started
+
+[2022-08-04T20:22:57.070Z] : [info]: Robot start
+
+[2022-08-04T20:23:45.770Z] : [success]: Bot finished successfully, total execution time: 48s 699ms
+
+[2022-08-04T20:23:45.772Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:24:42.833Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:24:51.043Z] : [success]: Bot started
+
+[2022-08-04T20:24:51.044Z] : [info]: Robot start
+
+[2022-08-04T20:25:47.846Z] : [success]: Bot finished successfully, total execution time: 56s 801ms
+
+[2022-08-04T20:25:47.847Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:31:23.968Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:31:28.015Z] : [success]: Bot started
+
+[2022-08-04T20:31:28.016Z] : [info]: Robot start
+
+[2022-08-04T20:31:44.303Z] : [success]: Bot finished successfully, total execution time: 16s 285ms
+
+[2022-08-04T20:31:44.304Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:32:07.195Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:32:07.291Z] : [success]: Bot started
+
+[2022-08-04T20:32:07.292Z] : [info]: Robot start
+
+[2022-08-04T20:32:13.461Z] : [success]: Bot finished successfully, total execution time: 6s 168ms
+
+[2022-08-04T20:32:13.462Z] : [info]: ---------------------------------------------
+

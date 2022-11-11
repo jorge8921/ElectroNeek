@@ -1,0 +1,29 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 21/7/2022 10:33:32
+  ==========================================
+  
+
+[2022-07-21T16:34:07.514Z] : [info]: ---------------------------------------------
+
+[2022-07-21T16:34:07.515Z] : [success]: Bot iniciado
+
+[2022-07-21T16:34:07.516Z] : [info]: Robot start
+
+[2022-07-21T16:37:21.775Z] : [success]: El bot terminó con éxito, tiempo total de ejecución: 3m 14s 239ms
+
+[2022-07-21T16:37:21.778Z] : [info]: ---------------------------------------------
+
+[2022-07-21T18:13:16.151Z] : [success]: Bot iniciado
+
+[2022-07-21T18:13:16.153Z] : [info]: Robot start
+
+[2022-07-21T19:11:47.384Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/stop","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/stop: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2022-07-21T19:11:49.411Z] : [error]: Unknown Error: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/execute","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/execute: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2022-07-21T19:11:49.414Z] : [info]: ---------------------------------------------
+
+[2022-07-21T19:11:51.439Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/variables?name=Hasta&scope=ae36c269-bb94-4082-9e5d-268daf998f52","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/variables?name=Hasta&scope=ae36c269-bb94-4082-9e5d-268daf998f52: 0 Unknown Error","error":{"isTrusted":true}}
+

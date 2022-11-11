@@ -1,0 +1,124 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 20/9/2022, 18:39:46
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 20/9/2022, 18:41:21
+  ==========================================
+  
+
+[2022-09-20T21:50:38.896Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:50:50.689Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:50:50.690Z] : [success]: Bot started
+
+[2022-09-20T21:50:50.690Z] : [info]: Robot start
+
+[2022-09-20T21:50:53.236Z] : [error]: Mustache is not defined
+      undefined
+
+[2022-09-20T21:50:53.238Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:51:59.564Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:51:59.696Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:51:59.696Z] : [success]: Bot started
+
+[2022-09-20T21:51:59.697Z] : [info]: Robot start
+
+[2022-09-20T21:52:01.787Z] : [error]: Mustache is not defined
+      undefined
+
+[2022-09-20T21:52:01.788Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:52:20.378Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:52:25.307Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:52:25.308Z] : [success]: Bot started
+
+[2022-09-20T21:52:25.309Z] : [info]: Robot start
+
+[2022-09-20T21:52:27.388Z] : [error]: Cannot read properties of undefined (reading 'subject')
+      undefined
+
+[2022-09-20T21:52:27.390Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:53:32.941Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:53:39.769Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:53:39.770Z] : [success]: Bot started
+
+[2022-09-20T21:53:39.770Z] : [info]: Robot start
+
+[2022-09-20T21:53:41.876Z] : [error]: Cannot read properties of undefined (reading 'subject')
+      undefined
+
+[2022-09-20T21:53:41.878Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:54:05.097Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:55:04.874Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:55:06.883Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:55:06.884Z] : [success]: Bot started
+
+[2022-09-20T21:55:06.885Z] : [info]: Robot start
+
+[2022-09-20T21:55:08.987Z] : [error]: Cannot read properties of undefined (reading 'subject')
+      undefined
+
+[2022-09-20T21:55:08.992Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:56:05.382Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:56:11.448Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:56:11.449Z] : [success]: Bot started
+
+[2022-09-20T21:56:11.450Z] : [info]: Robot start
+
+[2022-09-20T21:56:13.580Z] : [error]: mustache.to_html is not a function
+      undefined
+
+[2022-09-20T21:56:13.581Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:57:10.491Z] : [success]: Robot saved successfully
+
+[2022-09-20T21:57:17.817Z] : [info]: ---------------------------------------------
+
+[2022-09-20T21:57:17.817Z] : [success]: Bot started
+
+[2022-09-20T21:57:17.818Z] : [info]: Robot start
+
+[2022-09-20T21:59:35.649Z] : [error]: Script Stopped.
+
+[2022-09-20T21:59:35.651Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:00:06.641Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:00:10.974Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:00:10.974Z] : [success]: Bot started
+
+[2022-09-20T22:00:10.975Z] : [info]: Robot start
+
+[2022-09-20T22:02:49.144Z] : [error]: Script Stopped.
+
+[2022-09-20T22:02:49.147Z] : [info]: ---------------------------------------------
+
+[2022-09-20T22:10:23.376Z] : [success]: Robot saved successfully
+
+[2022-09-20T22:10:28.354Z] : [success]: Bot started
+
+[2022-09-20T22:10:28.355Z] : [info]: Robot start
+

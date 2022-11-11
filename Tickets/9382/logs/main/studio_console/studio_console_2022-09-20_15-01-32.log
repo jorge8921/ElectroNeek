@@ -1,0 +1,51 @@
+
+  ==========================================
+  Studio Pro version: 8.5.8
+  Started at: 20/9/2022, 15:01:57
+  ==========================================
+  
+
+[2022-09-20T18:02:02.162Z] : [warn]: There is a small amount of free memory (RAM) left, 90.78% of RAM is being used (11071 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2022-09-20T18:03:15.013Z] : [success]: Robot saved successfully
+
+[2022-09-20T18:03:15.134Z] : [info]: ---------------------------------------------
+
+[2022-09-20T18:03:15.137Z] : [success]: Bot started
+
+[2022-09-20T18:03:15.138Z] : [info]: Robot start
+
+[2022-09-20T18:04:50.935Z] : [error]: Script Stopped.
+
+[2022-09-20T18:04:50.937Z] : [info]: ---------------------------------------------
+
+[2022-09-20T18:05:38.792Z] : [success]: Robot saved successfully
+
+[2022-09-20T18:05:44.586Z] : [info]: ---------------------------------------------
+
+[2022-09-20T18:05:44.588Z] : [success]: Bot started
+
+[2022-09-20T18:05:44.588Z] : [info]: Robot start
+
+[2022-09-20T18:05:52.292Z] : [warn]: Bot is reading an Excel range with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-09-20T18:05:52.791Z] : [success]: Bot finished successfully, total execution time: 8s 202ms
+
+[2022-09-20T18:05:52.792Z] : [info]: ---------------------------------------------
+
+[2022-09-20T18:16:50.466Z] : [success]: Robot saved successfully
+
+[2022-09-20T18:16:50.487Z] : [info]: ---------------------------------------------
+
+[2022-09-20T18:16:50.487Z] : [success]: Bot started
+
+[2022-09-20T18:16:50.488Z] : [info]: Robot start
+
+[2022-09-20T18:18:08.221Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2022-09-20T18:18:13.504Z] : [success]: Bot finished successfully, total execution time: 1m 23s 14ms
+
+[2022-09-20T18:18:13.505Z] : [info]: ---------------------------------------------
+
+[2022-09-20T18:20:25.976Z] : [success]: Robot saved successfully
+
