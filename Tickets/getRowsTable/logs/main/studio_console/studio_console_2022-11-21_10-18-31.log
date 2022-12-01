@@ -1,0 +1,20 @@
+[2022-11-21T13:33:49.481Z] : [error]: Uncaught (in promise): TypeError: Cannot read properties of undefined (reading 'freeze')
+TypeError: Cannot read properties of undefined (reading 'freeze')
+    at e.<anonymous> (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:3175418)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:3173669
+    at Object.next (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:3173774)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:3172710
+    at new e (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:584443)
+    at kW (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:3172458)
+    at Object.next (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:3175117)
+    at n.value (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:1928395)
+    at n.value (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:1927558)
+    at n.value (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:1926532)
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 21/11/2022, 10:33:49
+  ==========================================
+  
+

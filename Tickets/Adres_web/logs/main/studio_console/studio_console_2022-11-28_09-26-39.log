@@ -1,0 +1,202 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 28/11/2022, 12:17:21
+  ==========================================
+  
+
+[2022-11-28T15:19:54.422Z] : [success]: Robot saved successfully
+
+[2022-11-28T15:19:54.618Z] : [info]: ---------------------------------------------
+
+[2022-11-28T15:19:54.618Z] : [success]: Bot started
+
+[2022-11-28T15:19:54.620Z] : [info]: Robot start
+
+[2022-11-28T15:20:14.895Z] : [success]: Bot finished successfully, total execution time: 20s 274ms
+
+[2022-11-28T15:20:14.896Z] : [info]: ---------------------------------------------
+
+[2022-11-28T15:21:31.447Z] : [success]: Robot saved successfully
+
+[2022-11-28T15:21:35.599Z] : [success]: Bot started
+
+[2022-11-28T15:21:35.600Z] : [info]: Robot start
+
+[2022-11-28T15:21:51.827Z] : [success]: Bot finished successfully, total execution time: 16s 226ms
+
+[2022-11-28T15:21:51.829Z] : [info]: ---------------------------------------------
+
+[2022-11-28T16:43:39.607Z] : [warn]: There is a small amount of free memory (RAM) left, 90.2% of RAM is being used (11001 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2022-11-28T16:46:39.633Z] : [warn]: There is a small amount of free memory (RAM) left, 92.32% of RAM is being used (11259 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2022-11-28T16:49:39.645Z] : [warn]: There is a small amount of free memory (RAM) left, 92.32% of RAM is being used (11259 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2022-11-28T16:52:39.654Z] : [warn]: There is a small amount of free memory (RAM) left, 93.41% of RAM is being used (11392 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2022-11-28T16:55:39.661Z] : [warn]: There is a small amount of free memory (RAM) left, 94.25% of RAM is being used (11495 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2022-11-28T20:20:35.509Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 28/11/2022, 19:22:10
+  ==========================================
+  
+
+[2022-11-28T22:25:37.205Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:25:37.311Z] : [success]: Bot started
+
+[2022-11-28T22:25:37.312Z] : [info]: Robot start
+
+[2022-11-28T22:26:10.718Z] : [error]: chk1.value is not a function
+
+[2022-11-28T22:26:10.721Z] : [error]: Total execution time: 33s 406ms
+
+[2022-11-28T22:26:10.722Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:26:44.081Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:26:47.999Z] : [success]: Bot started
+
+[2022-11-28T22:26:48.001Z] : [info]: Robot start
+
+[2022-11-28T22:27:03.245Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2022-11-28T22:27:03.247Z] : [error]: Total execution time: 15s 244ms
+
+[2022-11-28T22:27:03.249Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:27:25.823Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:27:25.924Z] : [success]: Bot started
+
+[2022-11-28T22:27:25.925Z] : [info]: Robot start
+
+[2022-11-28T22:27:41.148Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2022-11-28T22:27:41.150Z] : [error]: Total execution time: 15s 223ms
+
+[2022-11-28T22:27:41.151Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:30:57.235Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:30:57.351Z] : [success]: Bot started
+
+[2022-11-28T22:30:57.352Z] : [info]: Robot start
+
+[2022-11-28T22:31:15.656Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2022-11-28T22:31:15.658Z] : [error]: Total execution time: 18s 303ms
+
+[2022-11-28T22:31:15.659Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:31:24.099Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:31:24.193Z] : [success]: Bot started
+
+[2022-11-28T22:31:24.194Z] : [info]: Robot start
+
+[2022-11-28T22:31:40.382Z] : [error]: Cannot read properties of null (reading 'value')
+
+[2022-11-28T22:31:40.383Z] : [error]: Total execution time: 16s 187ms
+
+[2022-11-28T22:31:40.384Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:32:33.068Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:32:33.147Z] : [success]: Bot started
+
+[2022-11-28T22:32:33.148Z] : [info]: Robot start
+
+[2022-11-28T22:32:49.312Z] : [error]: Cannot read properties of null (reading 'value')
+
+[2022-11-28T22:32:49.313Z] : [error]: Total execution time: 16s 163ms
+
+[2022-11-28T22:32:49.314Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:34:31.228Z] : [success]: Bot started
+
+[2022-11-28T22:34:31.229Z] : [info]: Robot start
+
+[2022-11-28T22:34:48.482Z] : [error]: Unexpected identifier 'document'
+
+[2022-11-28T22:34:48.484Z] : [error]: Total execution time: 17s 253ms
+
+[2022-11-28T22:34:48.485Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:35:15.788Z] : [success]: Bot started
+
+[2022-11-28T22:35:15.788Z] : [info]: Robot start
+
+[2022-11-28T22:35:32.010Z] : [error]: chk1.value is not a function
+
+[2022-11-28T22:35:32.012Z] : [error]: Total execution time: 16s 222ms
+
+[2022-11-28T22:35:32.013Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:37:11.483Z] : [success]: Bot started
+
+[2022-11-28T22:37:11.484Z] : [info]: Robot start
+
+[2022-11-28T22:37:28.822Z] : [success]: Bot finished successfully, total execution time: 17s 337ms
+
+[2022-11-28T22:37:28.823Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:37:42.846Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:37:42.937Z] : [success]: Bot started
+
+[2022-11-28T22:37:42.938Z] : [info]: Robot start
+
+[2022-11-28T22:37:59.185Z] : [error]: Cannot set properties of undefined (setting 'value')
+
+[2022-11-28T22:37:59.187Z] : [error]: Total execution time: 16s 246ms
+
+[2022-11-28T22:37:59.188Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:38:24.105Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:38:28.201Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:38:28.202Z] : [success]: Bot started
+
+[2022-11-28T22:38:28.204Z] : [info]: Robot start
+
+[2022-11-28T22:38:44.415Z] : [error]: Cannot set properties of undefined (setting 'value')
+
+[2022-11-28T22:38:44.417Z] : [error]: Total execution time: 16s 211ms
+
+[2022-11-28T22:38:44.418Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:38:52.778Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:38:52.857Z] : [success]: Bot started
+
+[2022-11-28T22:38:52.858Z] : [info]: Robot start
+
+[2022-11-28T22:39:09.224Z] : [success]: Bot finished successfully, total execution time: 16s 365ms
+
+[2022-11-28T22:39:09.225Z] : [info]: ---------------------------------------------
+
+[2022-11-28T22:43:46.956Z] : [success]: Robot saved successfully
+
+[2022-11-28T22:43:47.095Z] : [success]: Bot started
+
+[2022-11-28T22:43:47.095Z] : [info]: Robot start
+
+[2022-11-28T22:44:03.323Z] : [error]: Blocked a frame with origin "https://www.adres.gov.co" from accessing a cross-origin frame.
+
+[2022-11-28T22:44:03.325Z] : [error]: Total execution time: 16s 228ms
+
+[2022-11-28T22:44:03.326Z] : [info]: ---------------------------------------------
+
+[2022-11-29T14:47:11.693Z] : [success]: Robot saved successfully
+
+[2022-11-29T14:47:25.452Z] : [success]: The workflow has been exported successfully
+
+[2022-11-29T14:49:53.335Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,118 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 21/11/2022, 10:54:47
+  ==========================================
+  
+
+[2022-11-21T14:06:59.525Z] : [success]: Robot saved successfully
+
+[2022-11-21T14:06:59.628Z] : [success]: Bot started
+
+[2022-11-21T14:06:59.629Z] : [info]: Robot start
+
+[2022-11-21T14:07:01.706Z] : [success]: Bot finished successfully, total execution time: 2s 74ms
+
+[2022-11-21T14:07:01.709Z] : [info]: ---------------------------------------------
+
+[2022-11-21T14:42:07.035Z] : [success]: Robot saved successfully
+
+[2022-11-21T14:42:47.048Z] : [success]: Robot saved successfully
+
+[2022-11-21T14:42:47.135Z] : [info]: ---------------------------------------------
+
+[2022-11-21T14:42:47.135Z] : [success]: Bot started
+
+[2022-11-21T14:42:47.136Z] : [info]: Robot start
+
+[2022-11-21T14:42:49.291Z] : [error]:   File "C:\tmp\nestle.xml", line 1
+    <?xml version="1.0" encoding="utf-8"?><AttachedDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:oasis:names:specification:ubl:schema:xsd:AttachedDocument-2"><cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID><cbc:CustomizationID>Documentos adjuntos</cbc:CustomizationID><cbc:ProfileID>Factura Electr¾nica de Venta</cbc:ProfileID><cbc:ProfileExecutionID>1</cbc:ProfileExecutionID><cbc:ID>PL02222272</cbc:ID><cbc:IssueDate>2022-02-22</cbc:IssueDate><cbc:IssueTime>03:56:17-05:00</cbc:IssueTime><cbc:DocumentType>Contenedor de Factura Electr¾nica</cbc:DocumentType><cbc:ParentDocumentID>PL02222272</cbc:ParentDocumentID><cac:SenderParty><cac:PartyTaxScheme><cbc:RegistrationName>NESTLE PURINA PET CARE DE COLOMBIA S A</cbc:RegistrationName><cbc:CompanyID schemeID="8" schemeName="31" schemeAgencyID="195">830050346</cbc:CompanyID><cbc:TaxLevelCode listName="No aplica">O-13</cbc:TaxLevelCode><cac:TaxScheme><cbc:ID>01</cbc:ID><cbc:Name>IVA</cbc:Name></cac:TaxScheme></cac:PartyTaxScheme></cac:SenderParty><cac:ReceiverParty><cac:PartyTaxScheme><cbc:RegistrationName>Invercomer Del Caribe S.A.S.</cbc:RegistrationName><cbc:CompanyID schemeID="8" schemeName="31" schemeAgencyID="195">900383385</cbc:CompanyID><cbc:TaxLevelCode listName="No aplica">O-23</cbc:TaxLevelCode><cac:TaxScheme><cbc:ID>ZZ</cbc:ID><cbc:Name>No aplica</cbc:Name></cac:TaxScheme></cac:PartyTaxScheme></cac:ReceiverParty><cac:Attachment><cac:ExternalReference><cbc:MimeCode>text/xml</cbc:MimeCode><cbc:EncodingCode>UTF-8</cbc:EncodingCode><cbc:Description><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+
+
+[2022-11-21T14:42:49.294Z] : [error]: Total execution time: 2s 155ms
+
+[2022-11-21T14:42:49.294Z] : [info]: ---------------------------------------------
+
+[2022-11-21T14:48:42.361Z] : [info]: ---------------------------------------------
+
+[2022-11-21T14:48:42.362Z] : [success]: Bot started
+
+[2022-11-21T14:48:42.365Z] : [info]: Robot start
+
+[2022-11-21T14:48:44.505Z] : [error]:   File "C:\tmp\nestle.xml", line 1
+    <?xml version="1.0" encoding="utf-8"?><AttachedDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:oasis:names:specification:ubl:schema:xsd:AttachedDocument-2"><cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID><cbc:CustomizationID>Documentos adjuntos</cbc:CustomizationID><cbc:ProfileID>Factura Electr¾nica de Venta</cbc:ProfileID><cbc:ProfileExecutionID>1</cbc:ProfileExecutionID><cbc:ID>PL02222272</cbc:ID><cbc:IssueDate>2022-02-22</cbc:IssueDate><cbc:IssueTime>03:56:17-05:00</cbc:IssueTime><cbc:DocumentType>Contenedor de Factura Electr¾nica</cbc:DocumentType><cbc:ParentDocumentID>PL02222272</cbc:ParentDocumentID><cac:SenderParty><cac:PartyTaxScheme><cbc:RegistrationName>NESTLE PURINA PET CARE DE COLOMBIA S A</cbc:RegistrationName><cbc:CompanyID schemeID="8" schemeName="31" schemeAgencyID="195">830050346</cbc:CompanyID><cbc:TaxLevelCode listName="No aplica">O-13</cbc:TaxLevelCode><cac:TaxScheme><cbc:ID>01</cbc:ID><cbc:Name>IVA</cbc:Name></cac:TaxScheme></cac:PartyTaxScheme></cac:SenderParty><cac:ReceiverParty><cac:PartyTaxScheme><cbc:RegistrationName>Invercomer Del Caribe S.A.S.</cbc:RegistrationName><cbc:CompanyID schemeID="8" schemeName="31" schemeAgencyID="195">900383385</cbc:CompanyID><cbc:TaxLevelCode listName="No aplica">O-23</cbc:TaxLevelCode><cac:TaxScheme><cbc:ID>ZZ</cbc:ID><cbc:Name>No aplica</cbc:Name></cac:TaxScheme></cac:PartyTaxScheme></cac:ReceiverParty><cac:Attachment><cac:ExternalReference><cbc:MimeCode>text/xml</cbc:MimeCode><cbc:EncodingCode>UTF-8</cbc:EncodingCode><cbc:Description><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+
+
+[2022-11-21T14:48:44.507Z] : [error]: Total execution time: 2s 139ms
+
+[2022-11-21T14:48:44.508Z] : [info]: ---------------------------------------------
+
+[2022-11-21T14:49:14.621Z] : [info]: ---------------------------------------------
+
+[2022-11-21T14:49:14.622Z] : [success]: Bot started
+
+[2022-11-21T14:49:14.623Z] : [info]: Robot start
+
+[2022-11-21T14:49:16.775Z] : [error]:   File "C:\tmp\nestle.xml", line 1
+    <?xml version="1.0" encoding="utf-8"?><AttachedDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:oasis:names:specification:ubl:schema:xsd:AttachedDocument-2"><cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID><cbc:CustomizationID>Documentos adjuntos</cbc:CustomizationID><cbc:ProfileID>Factura Electr¾nica de Venta</cbc:ProfileID><cbc:ProfileExecutionID>1</cbc:ProfileExecutionID><cbc:ID>PL02222272</cbc:ID><cbc:IssueDate>2022-02-22</cbc:IssueDate><cbc:IssueTime>03:56:17-05:00</cbc:IssueTime><cbc:DocumentType>Contenedor de Factura Electr¾nica</cbc:DocumentType><cbc:ParentDocumentID>PL02222272</cbc:ParentDocumentID><cac:SenderParty><cac:PartyTaxScheme><cbc:RegistrationName>NESTLE PURINA PET CARE DE COLOMBIA S A</cbc:RegistrationName><cbc:CompanyID schemeID="8" schemeName="31" schemeAgencyID="195">830050346</cbc:CompanyID><cbc:TaxLevelCode listName="No aplica">O-13</cbc:TaxLevelCode><cac:TaxScheme><cbc:ID>01</cbc:ID><cbc:Name>IVA</cbc:Name></cac:TaxScheme></cac:PartyTaxScheme></cac:SenderParty><cac:ReceiverParty><cac:PartyTaxScheme><cbc:RegistrationName>Invercomer Del Caribe S.A.S.</cbc:RegistrationName><cbc:CompanyID schemeID="8" schemeName="31" schemeAgencyID="195">900383385</cbc:CompanyID><cbc:TaxLevelCode listName="No aplica">O-23</cbc:TaxLevelCode><cac:TaxScheme><cbc:ID>ZZ</cbc:ID><cbc:Name>No aplica</cbc:Name></cac:TaxScheme></cac:PartyTaxScheme></cac:ReceiverParty><cac:Attachment><cac:ExternalReference><cbc:MimeCode>text/xml</cbc:MimeCode><cbc:EncodingCode>UTF-8</cbc:EncodingCode><cbc:Description><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+
+
+[2022-11-21T14:49:16.777Z] : [error]: Total execution time: 2s 152ms
+
+[2022-11-21T14:49:16.778Z] : [info]: ---------------------------------------------
+
+[2022-11-21T14:50:47.269Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 21/11/2022, 13:18:19
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 21/11/2022, 14:37:03
+  ==========================================
+  
+
+[2022-11-21T17:37:40.115Z] : [success]: Robot saved successfully
+
+[2022-11-21T17:37:40.192Z] : [success]: Bot started
+
+[2022-11-21T17:37:40.193Z] : [info]: Robot start
+
+[2022-11-21T17:37:42.362Z] : [success]: Bot finished successfully, total execution time: 2s 168ms
+
+[2022-11-21T17:37:42.363Z] : [info]: ---------------------------------------------
+
+[2022-11-21T17:37:47.943Z] : [success]: Robot saved successfully
+
+[2022-11-21T17:39:47.275Z] : [info]: ---------------------------------------------
+
+[2022-11-21T17:39:47.275Z] : [success]: Bot started
+
+[2022-11-21T17:39:47.278Z] : [info]: Robot start
+
+[2022-11-21T17:39:49.451Z] : [success]: Bot finished successfully, total execution time: 2s 172ms
+
+[2022-11-21T17:39:49.452Z] : [info]: ---------------------------------------------
+
+[2022-11-21T17:39:57.768Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 21/11/2022, 14:40:05
+  ==========================================
+  
+
+[2022-11-21T18:39:23.862Z] : [success]: Robot saved successfully
+

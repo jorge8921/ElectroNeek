@@ -1,0 +1,35 @@
+
+  ==========================================
+  Studio Pro version: 8.6.10
+  Started at: 17/11/2022, 11:10:27
+  ==========================================
+  
+
+[2022-11-17T14:12:22.691Z] : [success]: Robot saved successfully
+
+[2022-11-17T14:12:39.845Z] : [success]: Robot saved successfully
+
+[2022-11-17T14:12:39.965Z] : [info]: ---------------------------------------------
+
+[2022-11-17T14:12:39.966Z] : [success]: Bot started
+
+[2022-11-17T14:12:39.970Z] : [info]: Robot start
+
+[2022-11-17T14:12:42.125Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-11-17T14:12:42.127Z] : [error]: Total execution time: 2s 153ms
+
+[2022-11-17T14:12:42.130Z] : [info]: ---------------------------------------------
+
+[2022-11-17T14:13:02.659Z] : [success]: Robot saved successfully
+
+[2022-11-17T14:13:02.768Z] : [success]: Bot started
+
+[2022-11-17T14:13:02.769Z] : [info]: Robot start
+
+[2022-11-17T14:13:04.878Z] : [success]: Bot finished successfully, total execution time: 2s 107ms
+
+[2022-11-17T14:13:04.881Z] : [info]: ---------------------------------------------
+
+[2022-11-17T14:13:44.428Z] : [success]: Robot saved successfully
+
