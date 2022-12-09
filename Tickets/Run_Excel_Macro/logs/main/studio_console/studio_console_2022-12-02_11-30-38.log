@@ -1,0 +1,101 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 2/12/2022, 11:31:35
+  ==========================================
+  
+
+[2022-12-02T15:13:54.094Z] : [success]: Robot saved successfully
+
+[2022-12-02T15:14:02.796Z] : [success]: Robot saved successfully
+
+[2022-12-02T15:14:06.868Z] : [info]: ---------------------------------------------
+
+[2022-12-02T15:14:06.868Z] : [success]: Bot started
+
+[2022-12-02T15:14:06.869Z] : [info]: Robot start
+
+[2022-12-02T15:14:09.102Z] : [error]: Bot failed to execute the macros: the Sub or Function name you specified doesn’t exist in the script file. Correct the name of the Sub or Function you want to execute and run the bot again.
+
+[2022-12-02T15:14:09.104Z] : [error]: Total execution time: 2s 232ms
+
+[2022-12-02T15:14:09.108Z] : [info]: ---------------------------------------------
+
+[2022-12-02T15:14:21.752Z] : [success]: Robot saved successfully
+
+[2022-12-02T15:14:25.001Z] : [info]: ---------------------------------------------
+
+[2022-12-02T15:14:25.002Z] : [success]: Bot started
+
+[2022-12-02T15:14:25.029Z] : [info]: Robot start
+
+[2022-12-02T15:14:27.181Z] : [success]: Bot finished successfully, total execution time: 2s 151ms
+
+[2022-12-02T15:14:27.182Z] : [info]: ---------------------------------------------
+
+[2022-12-02T15:22:18.500Z] : [success]: Bot started
+
+[2022-12-02T15:22:18.502Z] : [info]: Robot start
+
+[2022-12-02T15:22:20.638Z] : [success]: Bot finished successfully, total execution time: 2s 135ms
+
+[2022-12-02T15:22:20.639Z] : [info]: ---------------------------------------------
+
+[2022-12-02T16:24:35.462Z] : [success]: Bot started
+
+[2022-12-02T16:24:35.463Z] : [info]: Robot start
+
+[2022-12-02T16:24:37.594Z] : [success]: Bot finished successfully, total execution time: 2s 131ms
+
+[2022-12-02T16:24:37.595Z] : [info]: ---------------------------------------------
+
+[2022-12-02T16:24:56.974Z] : [success]: Robot saved successfully
+
+[2022-12-02T16:25:19.620Z] : [success]: Robot saved successfully
+
+[2022-12-02T16:25:24.571Z] : [info]: ---------------------------------------------
+
+[2022-12-02T16:25:24.572Z] : [success]: Bot started
+
+[2022-12-02T16:25:24.573Z] : [info]: Robot start
+
+[2022-12-02T16:25:26.682Z] : [success]: Bot finished successfully, total execution time: 2s 107ms
+
+[2022-12-02T16:25:26.685Z] : [info]: ---------------------------------------------
+
+[2022-12-02T16:26:36.535Z] : [success]: Bot started
+
+[2022-12-02T16:26:36.535Z] : [info]: Robot start
+
+[2022-12-02T16:26:38.621Z] : [success]: Bot finished successfully, total execution time: 2s 85ms
+
+[2022-12-02T16:26:38.622Z] : [info]: ---------------------------------------------
+
+[2022-12-02T16:27:20.439Z] : [success]: Robot saved successfully
+
+[2022-12-02T16:34:34.730Z] : [success]: Bot started
+
+[2022-12-02T16:34:34.731Z] : [info]: Robot start
+
+[2022-12-02T16:34:36.860Z] : [success]: Bot finished successfully, total execution time: 2s 126ms
+
+[2022-12-02T16:34:36.862Z] : [info]: ---------------------------------------------
+
+[2022-12-02T16:36:06.539Z] : [success]: Bot started
+
+[2022-12-02T16:36:06.540Z] : [info]: Robot start
+
+[2022-12-02T16:36:08.655Z] : [success]: Bot finished successfully, total execution time: 2s 114ms
+
+[2022-12-02T16:36:08.656Z] : [info]: ---------------------------------------------
+
+[2022-12-02T16:36:24.825Z] : [success]: Robot saved successfully
+
+[2022-12-02T16:36:26.080Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-02T16:36:26.089Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-02T16:36:26.091Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-02T16:36:26.093Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,1 @@
+[{"label":"Interface elements","selectable":false,"expanded":true,"children":[{"label":"New element","elementType":"interface","data":{"uuid":"a0447ac9-d84c-46e3-9756-ebe16b846c91","lastModified":"8.7.11","version":"5.2.0","comment":""}}],"elementType":"interface"}]
