@@ -1,0 +1,89 @@
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 2/1/2023, 20:47:31
+  ==========================================
+  
+
+[2023-01-02T23:47:59.117Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:49:46.415Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:49:46.462Z] : [error]: Activity parameters required: Console log
+
+[2023-01-02T23:49:46.465Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:50:05.213Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:50:05.296Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:50:05.297Z] : [success]: Bot started
+
+[2023-01-02T23:50:05.309Z] : [info]: Robot start
+
+[2023-01-02T23:50:09.038Z] : [info]: JUAN MEDINA DE LA PAZ                   Referencia Numerica : DEPOS 0000011222 Autorizacion : 00125414
+
+[2023-01-02T23:50:09.050Z] : [info]: ALMA LETICIA DIAZ LONGOR IA              Referencia Numerica : DEPOS 0000385856 Autorizacion : 00385856
+
+[2023-01-02T23:50:09.069Z] : [info]: MA IRMA FERNANDEZ OLIVAS                Referencia Numerica : DEPOS 0000011222 Autorizacion : 00310887
+
+[2023-01-02T23:50:09.085Z] : [info]: MERCEDES BLANCA MELINA,GONZALEZ/RIVERA    Referencia Numerica : DEPOS 0000000000 Autorizacion : 00703003
+
+[2023-01-02T23:50:09.101Z] : [info]: DEPOSITO EN EFECTIV SUC. SUC AUT BANAMEX Referencia Numerica :     0000000000 Autorizacion : 00246977
+
+[2023-01-02T23:50:09.117Z] : [info]: DEPOSITO DE         SUC. TEM IXCO,MOR 02 Referencia Numerica :      0000000000 Autorizacion : 00016856 1/12/2022
+
+[2023-01-02T23:50:09.138Z] : [info]: DEPOSITO EN EFECTIV SUC. HUINALA, N. L.  Referencia Numerica :     0000000000 Autorizacion : 00009966
+
+[2023-01-02T23:50:09.165Z] : [info]: undefined
+
+[2023-01-02T23:50:09.196Z] : [info]: undefined
+
+[2023-01-02T23:50:09.211Z] : [info]: undefined
+
+[2023-01-02T23:50:09.221Z] : [info]: undefined
+
+[2023-01-02T23:50:09.447Z] : [success]: Bot finished successfully, total execution time: 4s 137ms
+
+[2023-01-02T23:50:09.448Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:51:05.180Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:51:05.257Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:51:05.257Z] : [success]: Bot started
+
+[2023-01-02T23:51:05.283Z] : [info]: Robot start
+
+[2023-01-02T23:51:08.734Z] : [info]: JUAN MEDINA DE LA PAZ                   Referencia Numerica : DEPOS 0000011222 Autorizacion : 00125414
+
+[2023-01-02T23:51:08.750Z] : [info]: ALMA LETICIA DIAZ LONGOR IA              Referencia Numerica : DEPOS 0000385856 Autorizacion : 00385856
+
+[2023-01-02T23:51:08.766Z] : [info]: MA IRMA FERNANDEZ OLIVAS                Referencia Numerica : DEPOS 0000011222 Autorizacion : 00310887
+
+[2023-01-02T23:51:08.782Z] : [info]: MERCEDES BLANCA MELINA,GONZALEZ/RIVERA    Referencia Numerica : DEPOS 0000000000 Autorizacion : 00703003
+
+[2023-01-02T23:51:08.798Z] : [info]: DEPOSITO EN EFECTIV SUC. SUC AUT BANAMEX Referencia Numerica :     0000000000 Autorizacion : 00246977
+
+[2023-01-02T23:51:08.816Z] : [info]: DEPOSITO DE         SUC. TEM IXCO,MOR 02 Referencia Numerica :      0000000000 Autorizacion : 00016856 1/12/2022
+
+[2023-01-02T23:51:08.827Z] : [info]: DEPOSITO EN EFECTIV SUC. HUINALA, N. L.  Referencia Numerica :     0000000000 Autorizacion : 00009966
+
+[2023-01-02T23:51:09.409Z] : [success]: Bot finished successfully, total execution time: 4s 125ms
+
+[2023-01-02T23:51:09.410Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:55:44.593Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:55:58.614Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:55:58.717Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:55:58.717Z] : [success]: Bot started
+
+[2023-01-02T23:55:58.718Z] : [info]: Robot start
+
+[2023-01-02T23:56:10.954Z] : [success]: Bot finished successfully, total execution time: 12s 235ms
+
+[2023-01-02T23:56:10.955Z] : [info]: ---------------------------------------------
+
