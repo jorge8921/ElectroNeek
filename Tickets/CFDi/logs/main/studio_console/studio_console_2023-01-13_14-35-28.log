@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 13/1/2023, 16:08:14
+  ==========================================
+  
+
+[2023-01-13T19:11:38.094Z] : [success]: Robot saved successfully
+
+[2023-01-13T19:11:38.211Z] : [info]: ---------------------------------------------
+
+[2023-01-13T19:11:38.212Z] : [success]: Bot started
+
+[2023-01-13T19:11:38.213Z] : [info]: Robot start
+
+[2023-01-13T19:11:39.343Z] : [error]: Selectors: Selector is empty
+
+[2023-01-13T19:11:39.345Z] : [info]: Total execution time: 1s 129ms
+
+[2023-01-13T19:11:39.346Z] : [info]: ---------------------------------------------
+
+[2023-01-13T19:11:46.632Z] : [success]: Robot saved successfully
+
+[2023-01-13T19:11:46.742Z] : [success]: Bot started
+
+[2023-01-13T19:11:46.743Z] : [info]: Robot start
+
+[2023-01-13T19:12:04.067Z] : [error]: Selectors: Unknown commandUnknown commandUnknown command
+
+[2023-01-13T19:12:04.070Z] : [info]: Total execution time: 17s 324ms
+
+[2023-01-13T19:12:04.071Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,119 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 18/1/2023, 14:25:17
+  ==========================================
+  
+
+[2023-01-18T17:30:42.382Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:30:47.609Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:30:47.610Z] : [success]: Bot started
+
+[2023-01-18T17:30:47.611Z] : [info]: Robot start
+
+[2023-01-18T17:30:48.802Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-18T17:30:48.805Z] : [info]: Total execution time: 1s 190ms
+
+[2023-01-18T17:30:48.806Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:31:38.708Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:31:38.790Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:31:38.791Z] : [success]: Bot started
+
+[2023-01-18T17:31:38.792Z] : [info]: Robot start
+
+[2023-01-18T17:31:39.896Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-18T17:31:39.901Z] : [info]: Total execution time: 1s 104ms
+
+[2023-01-18T17:31:39.903Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:32:02.428Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:32:02.500Z] : [success]: Bot started
+
+[2023-01-18T17:32:02.501Z] : [info]: Robot start
+
+[2023-01-18T17:32:03.586Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-18T17:32:03.588Z] : [info]: Total execution time: 1s 85ms
+
+[2023-01-18T17:32:03.588Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:32:24.533Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:32:24.615Z] : [success]: Bot started
+
+[2023-01-18T17:32:24.615Z] : [info]: Robot start
+
+[2023-01-18T17:32:25.752Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-18T17:32:25.754Z] : [info]: Total execution time: 1s 137ms
+
+[2023-01-18T17:32:25.755Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:32:56.717Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:32:56.788Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:32:56.789Z] : [success]: Bot started
+
+[2023-01-18T17:32:56.790Z] : [info]: Robot start
+
+[2023-01-18T17:32:57.923Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-18T17:32:57.928Z] : [info]: Total execution time: 1s 133ms
+
+[2023-01-18T17:32:57.931Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:33:41.599Z] : [info]: Internet connection // error
+
+[2023-01-18T17:33:41.635Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:33:41.706Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:33:41.706Z] : [success]: Bot started
+
+[2023-01-18T17:33:41.707Z] : [info]: Robot start
+
+[2023-01-18T17:33:42.818Z] : [error]: moment is not defined
+
+[2023-01-18T17:33:42.820Z] : [info]: Total execution time: 1s 109ms
+
+[2023-01-18T17:33:42.822Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:33:56.173Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-18T17:33:56.197Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:33:56.275Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:33:56.275Z] : [success]: Bot started
+
+[2023-01-18T17:33:56.277Z] : [info]: Robot start
+
+[2023-01-18T17:33:57.423Z] : [error]: Moment is not defined
+
+[2023-01-18T17:33:57.427Z] : [info]: Total execution time: 1s 145ms
+
+[2023-01-18T17:33:57.430Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:34:29.811Z] : [success]: Robot saved successfully
+
+[2023-01-18T17:34:29.883Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:34:29.884Z] : [success]: Bot started
+
+[2023-01-18T17:34:29.886Z] : [info]: Robot start
+
+[2023-01-18T17:34:31.010Z] : [success]: Bot finished successfully, total execution time: 1s 122ms
+
+[2023-01-18T17:34:31.012Z] : [info]: ---------------------------------------------
+
+[2023-01-18T17:34:49.477Z] : [success]: Robot saved successfully
+

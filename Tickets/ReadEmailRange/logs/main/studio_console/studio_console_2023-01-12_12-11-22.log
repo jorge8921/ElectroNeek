@@ -1,0 +1,154 @@
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 12/1/2023, 12:11:41
+  ==========================================
+  
+
+[2023-01-12T15:21:33.969Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:21:34.085Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:21:34.086Z] : [success]: Bot started
+
+[2023-01-12T15:21:34.086Z] : [info]: Robot start
+
+[2023-01-12T15:21:35.243Z] : [success]: Bot finished successfully, total execution time: 1s 156ms
+
+[2023-01-12T15:21:35.244Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:22:22.835Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:23:45.733Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:23:52.558Z] : [success]: Bot started
+
+[2023-01-12T15:23:52.560Z] : [info]: Robot start
+
+[2023-01-12T15:23:53.653Z] : [success]: Bot finished successfully, total execution time: 1s 88ms
+
+[2023-01-12T15:23:53.655Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:25:32.679Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:25:32.779Z] : [success]: Bot started
+
+[2023-01-12T15:25:32.780Z] : [info]: Robot start
+
+[2023-01-12T15:25:33.884Z] : [success]: Bot finished successfully, total execution time: 1s 100ms
+
+[2023-01-12T15:25:33.886Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:26:03.205Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:26:03.341Z] : [success]: Bot started
+
+[2023-01-12T15:26:03.341Z] : [info]: Robot start
+
+[2023-01-12T15:26:15.770Z] : [success]: Bot finished successfully, total execution time: 12s 428ms
+
+[2023-01-12T15:26:15.772Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:28:09.702Z] : [success]: Bot started
+
+[2023-01-12T15:28:09.703Z] : [info]: Robot start
+
+[2023-01-12T15:28:21.972Z] : [success]: Bot finished successfully, total execution time: 12s 268ms
+
+[2023-01-12T15:28:21.973Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:31:39.460Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:31:39.564Z] : [success]: Bot started
+
+[2023-01-12T15:31:39.564Z] : [info]: Robot start
+
+[2023-01-12T15:31:51.767Z] : [success]: Bot finished successfully, total execution time: 12s 202ms
+
+[2023-01-12T15:31:51.769Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:36:18.416Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:36:18.500Z] : [success]: Bot started
+
+[2023-01-12T15:36:18.500Z] : [info]: Robot start
+
+[2023-01-12T15:44:41.268Z] : [error]: Script Stopped.
+
+[2023-01-12T15:44:41.271Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:45:05.671Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:45:23.668Z] : [success]: Bot started
+
+[2023-01-12T15:45:23.669Z] : [info]: Robot start
+
+[2023-01-12T15:46:05.306Z] : [error]: Script Stopped.
+
+[2023-01-12T15:46:05.308Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:46:13.604Z] : [success]: Bot started
+
+[2023-01-12T15:46:13.605Z] : [info]: Robot start
+
+[2023-01-12T15:49:59.965Z] : [success]: Bot finished successfully, total execution time: 3m 46s 358ms
+
+[2023-01-12T15:49:59.966Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:55:23.977Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:16:16.493Z] : [error]: Uncaught (in promise): TypeError: Cannot read properties of undefined (reading 'unfreeze')
+TypeError: Cannot read properties of undefined (reading 'unfreeze')
+    at e.<anonymous> (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:3201952)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:3199134
+    at Object.next (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:3199239)
+    at a (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:3197979)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:577201)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:2054039)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:577141)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:572301)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:584222
+    at e.invokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.be9ff0de1c4210bd5c25.js:1:577885)
+
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 12/1/2023, 13:16:16
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 12/1/2023, 13:27:04
+  ==========================================
+  
+
+[2023-01-12T16:29:36.225Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:29:36.350Z] : [success]: Bot started
+
+[2023-01-12T16:29:36.351Z] : [info]: Robot start
+
+[2023-01-12T16:29:37.490Z] : [success]: Bot finished successfully, total execution time: 1s 138ms
+
+[2023-01-12T16:29:37.491Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:29:47.657Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:29:47.838Z] : [success]: Bot started
+
+[2023-01-12T16:29:47.839Z] : [info]: Robot start
+
+[2023-01-12T16:33:41.728Z] : [success]: Bot finished successfully, total execution time: 3m 53s 888ms
+
+[2023-01-12T16:33:41.729Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:34:01.705Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:34:10.093Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:37:09.366Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:38:42.734Z] : [success]: Robot saved successfully
+

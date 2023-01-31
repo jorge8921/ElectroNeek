@@ -1,0 +1,67 @@
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 13/1/2023, 18:06:49
+  ==========================================
+  
+
+[2023-01-13T21:07:02.152Z] : [success]: Robot saved successfully
+
+[2023-01-13T21:07:02.301Z] : [info]: ---------------------------------------------
+
+[2023-01-13T21:07:02.302Z] : [success]: Bot started
+
+[2023-01-13T21:07:02.302Z] : [info]: Robot start
+
+[2023-01-13T21:07:03.498Z] : [error]: Variable2.include is not a function
+
+[2023-01-13T21:07:03.501Z] : [info]: Total execution time: 1s 194ms
+
+[2023-01-13T21:07:03.503Z] : [info]: ---------------------------------------------
+
+[2023-01-13T21:07:34.052Z] : [success]: Robot saved successfully
+
+[2023-01-13T21:07:47.183Z] : [info]: ---------------------------------------------
+
+[2023-01-13T21:07:47.184Z] : [success]: Bot started
+
+[2023-01-13T21:07:47.187Z] : [info]: Robot start
+
+[2023-01-13T21:07:48.355Z] : [error]: Variable2.include is not a function
+
+[2023-01-13T21:07:48.357Z] : [info]: Total execution time: 1s 167ms
+
+[2023-01-13T21:07:48.358Z] : [info]: ---------------------------------------------
+
+[2023-01-13T21:08:00.620Z] : [success]: Robot saved successfully
+
+[2023-01-13T21:08:04.895Z] : [success]: Bot started
+
+[2023-01-13T21:08:04.896Z] : [info]: Robot start
+
+[2023-01-13T21:08:06.025Z] : [error]: Variable2.include is not a function
+
+[2023-01-13T21:08:06.028Z] : [info]: Total execution time: 1s 128ms
+
+[2023-01-13T21:08:06.029Z] : [info]: ---------------------------------------------
+
+[2023-01-13T21:09:06.444Z] : [success]: Robot saved successfully
+
+[2023-01-13T21:09:06.586Z] : [info]: ---------------------------------------------
+
+[2023-01-13T21:09:06.587Z] : [success]: Bot started
+
+[2023-01-13T21:09:06.589Z] : [info]: Robot start
+
+[2023-01-13T21:09:07.706Z] : [success]: Bot finished successfully, total execution time: 1s 116ms
+
+[2023-01-13T21:09:07.707Z] : [info]: ---------------------------------------------
+
+[2023-01-13T21:09:21.732Z] : [success]: Robot saved successfully
+
+[2023-01-13T21:09:42.880Z] : [success]: Your if..then file has been converted to project successfully
+
+[2023-01-13T21:09:45.945Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-13T21:09:45.954Z] : [error]: Cannot read properties of null (reading 'type')
+
