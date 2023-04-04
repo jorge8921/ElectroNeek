@@ -1,0 +1,27 @@
+[2023-01-31T15:12:03.063Z] : [error]: Uncaught (in promise): TypeError: Cannot read properties of undefined (reading 'unfreeze')
+TypeError: Cannot read properties of undefined (reading 'unfreeze')
+    at e.<anonymous> (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:3201934)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:3199116
+    at Object.next (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:3199221)
+    at a (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:3197961)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:577201)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:2054039)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:577141)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:572301)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:584222
+    at e.invokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.0447bcc04565da43c56d.js:1:577885)
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 31/1/2023, 12:12:03
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 31/1/2023, 12:12:13
+  ==========================================
+  
+

@@ -1,0 +1,51 @@
+
+  ==========================================
+  Studio Pro version: 9.2.12
+  Started at: 22/3/2023, 16:54:01
+  ==========================================
+  
+
+[2023-03-22T19:56:10.253Z] : [success]: Robot saved successfully
+
+[2023-03-22T19:56:10.379Z] : [info]: ---------------------------------------------
+
+[2023-03-22T19:56:10.379Z] : [success]: Bot started
+
+[2023-03-22T19:56:10.380Z] : [info]: Robot start
+
+[2023-03-22T19:56:15.554Z] : [success]: Bot finished successfully, total execution time: 5s 173ms
+
+[2023-03-22T19:56:15.555Z] : [info]: ---------------------------------------------
+
+[2023-03-22T19:57:21.401Z] : [success]: Robot saved successfully
+
+[2023-03-22T19:57:21.494Z] : [success]: Bot started
+
+[2023-03-22T19:57:21.495Z] : [info]: Robot start
+
+[2023-03-22T19:57:25.612Z] : [success]: Bot finished successfully, total execution time: 4s 116ms
+
+[2023-03-22T19:57:25.613Z] : [info]: ---------------------------------------------
+
+[2023-03-22T19:58:09.927Z] : [success]: Robot saved successfully
+
+[2023-03-22T19:58:10.024Z] : [info]: ---------------------------------------------
+
+[2023-03-22T19:58:10.024Z] : [success]: Bot started
+
+[2023-03-22T19:58:10.025Z] : [info]: Robot start
+
+[2023-03-22T19:58:16.178Z] : [success]: Bot finished successfully, total execution time: 6s 152ms
+
+[2023-03-22T19:58:16.179Z] : [info]: ---------------------------------------------
+
+[2023-03-22T20:56:36.745Z] : [success]: Robot saved successfully
+
+[2023-03-22T20:56:42.219Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-22T20:56:42.223Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-22T20:56:42.224Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-22T20:56:42.225Z] : [error]: Cannot read properties of null (reading 'type')
+

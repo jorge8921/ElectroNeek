@@ -1,0 +1,82 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 31/1/2023, 13:42:41
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 31/1/2023, 14:57:47
+  ==========================================
+  
+
+[2023-01-31T17:58:14.024Z] : [success]: Robot saved successfully
+
+[2023-01-31T17:58:14.164Z] : [info]: ---------------------------------------------
+
+[2023-01-31T17:58:14.165Z] : [success]: Bot started
+
+[2023-01-31T17:58:14.170Z] : [info]: Robot start
+
+[2023-01-31T17:58:18.416Z] : [success]: Bot finished successfully, total execution time: 4s 245ms
+
+[2023-01-31T17:58:18.417Z] : [info]: ---------------------------------------------
+
+[2023-01-31T18:08:14.714Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:08:14.833Z] : [success]: Bot started
+
+[2023-01-31T18:08:14.834Z] : [info]: Robot start
+
+[2023-01-31T18:08:17.999Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'from_row', line 1, position 271.
+
+[2023-01-31T18:08:18.001Z] : [info]: Total execution time: 3s 164ms
+
+[2023-01-31T18:08:18.002Z] : [info]: ---------------------------------------------
+
+[2023-01-31T18:09:05.996Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:09:06.105Z] : [info]: ---------------------------------------------
+
+[2023-01-31T18:09:06.106Z] : [success]: Bot started
+
+[2023-01-31T18:09:06.107Z] : [info]: Robot start
+
+[2023-01-31T18:09:09.351Z] : [error]: Selectors: Unexpected character encountered while parsing value: {. Path '', line 1, position 2.
+
+[2023-01-31T18:09:09.355Z] : [info]: Total execution time: 3s 243ms
+
+[2023-01-31T18:09:09.356Z] : [info]: ---------------------------------------------
+
+[2023-01-31T18:09:56.947Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:09:57.033Z] : [success]: Bot started
+
+[2023-01-31T18:09:57.035Z] : [info]: Robot start
+
+[2023-01-31T18:10:01.233Z] : [success]: Bot finished successfully, total execution time: 4s 196ms
+
+[2023-01-31T18:10:01.234Z] : [info]: ---------------------------------------------
+
+[2023-01-31T18:10:39.535Z] : [success]: Bot started
+
+[2023-01-31T18:10:39.536Z] : [info]: Robot start
+
+[2023-01-31T18:10:43.705Z] : [success]: Bot finished successfully, total execution time: 4s 168ms
+
+[2023-01-31T18:10:43.707Z] : [info]: ---------------------------------------------
+
+[2023-01-31T19:42:15.269Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-31T19:42:15.272Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-31T19:42:15.274Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-31T19:42:15.276Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-31T19:42:15.278Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-31T19:42:15.281Z] : [error]: Cannot read properties of null (reading 'type')
+

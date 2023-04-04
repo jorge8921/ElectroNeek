@@ -1,0 +1,38 @@
+[2023-02-12T21:26:04.837Z] : [success]: Robot saved successfully
+
+[2023-02-12T21:27:19.377Z] : [success]: Robot saved successfully
+
+[2023-02-12T21:27:19.532Z] : [success]: Bot started
+
+[2023-02-12T21:27:19.532Z] : [info]: Robot start
+
+[2023-02-12T21:27:21.719Z] : [success]: Bot finished successfully, total execution time: 2s 186ms
+
+[2023-02-12T21:27:21.720Z] : [info]: ---------------------------------------------
+
+[2023-02-12T21:34:32.170Z] : [success]: Robot saved successfully
+
+[2023-02-12T21:35:13.103Z] : [success]: Robot saved successfully
+
+[2023-02-12T21:36:00.365Z] : [success]: Bot started
+
+[2023-02-12T21:36:00.366Z] : [info]: Robot start
+
+[2023-02-12T21:36:02.692Z] : [error]: Paginas_Resoluciones is not defined
+
+[2023-02-12T21:36:02.694Z] : [info]: Total execution time: 2s 325ms
+
+[2023-02-12T21:36:02.695Z] : [info]: ---------------------------------------------
+
+[2023-02-12T21:36:17.749Z] : [success]: Robot saved successfully
+
+[2023-02-12T21:36:17.898Z] : [success]: Bot started
+
+[2023-02-12T21:36:17.899Z] : [info]: Robot start
+
+[2023-02-12T21:37:50.237Z] : [error]: Script stopped.
+
+[2023-02-12T21:37:50.240Z] : [info]: Total execution time: 1m 32s 338ms
+
+[2023-02-12T21:37:50.241Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,101 @@
+
+  ==========================================
+  Studio Pro version: 9.2.12
+  Started at: 21/3/2023, 18:38:47
+  ==========================================
+  
+
+[2023-03-21T21:41:20.166Z] : [success]: Robot saved successfully
+
+[2023-03-21T21:41:20.251Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:41:20.252Z] : [success]: Bot started
+
+[2023-03-21T21:41:20.253Z] : [info]: Robot start
+
+[2023-03-21T21:41:23.727Z] : [error]: SyntaxError: Non-UTF-8 code starting with '\xe1' in file C:\Users\Jorge Noguera\Documents\GitHub\ElectroNeek\Tickets\Python _large_text\sample.txt on line 2, but no encoding declared; see https://python.org/dev/peps/pep-0263/ for details
+
+
+[2023-03-21T21:41:23.730Z] : [info]: Total execution time: 3s 473ms
+
+[2023-03-21T21:41:23.731Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:42:16.176Z] : [warn]: There is a small amount of free memory (RAM) left, 91.04% of RAM is being used (11103 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-03-21T21:45:16.844Z] : [success]: Robot saved successfully
+
+[2023-03-21T21:45:16.919Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:45:16.998Z] : [success]: Bot started
+
+[2023-03-21T21:45:17.000Z] : [info]: Robot start
+
+[2023-03-21T21:45:19.200Z] : [error]: SyntaxError: Non-UTF-8 code starting with '\xe1' in file C:\Users\Jorge Noguera\Documents\GitHub\ElectroNeek\Tickets\Python _large_text\sample.txt on line 2, but no encoding declared; see https://python.org/dev/peps/pep-0263/ for details
+
+
+[2023-03-21T21:45:19.203Z] : [info]: Total execution time: 2s 199ms
+
+[2023-03-21T21:45:19.204Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:46:26.778Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:46:26.781Z] : [success]: Bot started
+
+[2023-03-21T21:46:26.784Z] : [info]: Robot start
+
+[2023-03-21T21:46:28.929Z] : [error]: SyntaxError: Non-UTF-8 code starting with '\xe1' in file C:\Users\Jorge Noguera\Documents\GitHub\ElectroNeek\Tickets\Python _large_text\sample.txt on line 2, but no encoding declared; see https://python.org/dev/peps/pep-0263/ for details
+
+
+[2023-03-21T21:46:28.931Z] : [info]: Total execution time: 2s 144ms
+
+[2023-03-21T21:46:28.932Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:48:11.115Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:48:11.116Z] : [success]: Bot started
+
+[2023-03-21T21:48:11.119Z] : [info]: Robot start
+
+[2023-03-21T21:48:13.286Z] : [error]: SyntaxError: Non-UTF-8 code starting with '\xe1' in file C:\Users\Jorge Noguera\Documents\GitHub\ElectroNeek\Tickets\Python _large_text\sample.txt on line 2, but no encoding declared; see https://python.org/dev/peps/pep-0263/ for details
+
+
+[2023-03-21T21:48:13.288Z] : [info]: Total execution time: 2s 167ms
+
+[2023-03-21T21:48:13.289Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:48:56.152Z] : [success]: Robot saved successfully
+
+[2023-03-21T21:48:56.225Z] : [success]: Bot started
+
+[2023-03-21T21:48:56.226Z] : [info]: Robot start
+
+[2023-03-21T21:48:58.371Z] : [error]: SyntaxError: Non-UTF-8 code starting with '\xe1' in file C:\Users\Jorge Noguera\Documents\GitHub\ElectroNeek\Tickets\Python _large_text\sample.txt on line 2, but no encoding declared; see https://python.org/dev/peps/pep-0263/ for details
+
+
+[2023-03-21T21:48:58.375Z] : [info]: Total execution time: 2s 145ms
+
+[2023-03-21T21:48:58.377Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:49:38.995Z] : [success]: Bot started
+
+[2023-03-21T21:49:38.996Z] : [info]: Robot start
+
+[2023-03-21T21:49:41.174Z] : [error]: SyntaxError: Non-UTF-8 code starting with '\xe1' in file C:\Users\Jorge Noguera\Documents\GitHub\ElectroNeek\Tickets\Python _large_text\sample.txt on line 2, but no encoding declared; see https://python.org/dev/peps/pep-0263/ for details
+
+
+[2023-03-21T21:49:41.177Z] : [info]: Total execution time: 2s 178ms
+
+[2023-03-21T21:49:41.178Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:50:30.603Z] : [success]: Robot saved successfully
+
+[2023-03-21T21:50:30.670Z] : [info]: ---------------------------------------------
+
+[2023-03-21T21:50:30.671Z] : [success]: Bot started
+
+[2023-03-21T21:50:30.672Z] : [info]: Robot start
+
+[2023-03-21T21:50:39.939Z] : [success]: Bot finished successfully, total execution time: 9s 266ms
+
+[2023-03-21T21:50:39.940Z] : [info]: ---------------------------------------------
+

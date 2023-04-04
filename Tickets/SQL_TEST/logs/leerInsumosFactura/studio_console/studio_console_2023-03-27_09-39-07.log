@@ -1,0 +1,141 @@
+
+  ==========================================
+  Studio Pro version: 9.2.12
+  Started at: 27/3/2023, 9:39:11
+  ==========================================
+  
+
+[2023-03-27T12:40:40.092Z] : [success]: Robot saved successfully
+
+[2023-03-27T12:40:40.256Z] : [info]: ---------------------------------------------
+
+[2023-03-27T12:40:40.257Z] : [success]: Bot started
+
+[2023-03-27T12:40:40.258Z] : [info]: Robot start
+
+[2023-03-27T12:40:43.868Z] : [success]: Bot finished successfully, total execution time: 3s 608ms
+
+[2023-03-27T12:40:43.869Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:17:42.432Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:17:42.563Z] : [success]: Bot started
+
+[2023-03-27T13:17:42.564Z] : [info]: Robot start
+
+[2023-03-27T13:17:45.872Z] : [success]: Bot finished successfully, total execution time: 3s 305ms
+
+[2023-03-27T13:17:45.873Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:20:05.914Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:20:06.047Z] : [success]: Bot started
+
+[2023-03-27T13:20:06.050Z] : [info]: Robot start
+
+[2023-03-27T13:20:09.431Z] : [info]: contadorRegistrosArchivoExcel is not defined
+
+[2023-03-27T13:20:10.461Z] : [success]: Bot finished successfully, total execution time: 4s 409ms
+
+[2023-03-27T13:20:10.463Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:21:45.218Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:21:45.321Z] : [success]: Bot started
+
+[2023-03-27T13:21:45.322Z] : [info]: Robot start
+
+[2023-03-27T13:21:49.409Z] : [info]: Database: The label 'T00' has already been declared. Label names must be unique within a query batch or stored procedure.
+
+[2023-03-27T13:21:49.995Z] : [success]: Bot finished successfully, total execution time: 4s 672ms
+
+[2023-03-27T13:21:49.996Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:25:16.948Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:25:17.068Z] : [success]: Bot started
+
+[2023-03-27T13:25:17.069Z] : [info]: Robot start
+
+[2023-03-27T13:25:20.760Z] : [info]: Database: Incorrect syntax near ','.
+
+[2023-03-27T13:25:21.802Z] : [success]: Bot finished successfully, total execution time: 4s 732ms
+
+[2023-03-27T13:25:21.804Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:25:51.166Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:25:51.288Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:25:51.288Z] : [success]: Bot started
+
+[2023-03-27T13:25:51.289Z] : [info]: Robot start
+
+[2023-03-27T13:25:54.973Z] : [info]: Database: Incorrect syntax near ','.
+
+[2023-03-27T13:25:55.984Z] : [success]: Bot finished successfully, total execution time: 4s 693ms
+
+[2023-03-27T13:25:55.985Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:28:30.054Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:28:30.171Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:28:30.172Z] : [success]: Bot started
+
+[2023-03-27T13:28:30.174Z] : [info]: Robot start
+
+[2023-03-27T13:28:33.833Z] : [info]: Database: Incorrect syntax near ','.
+
+[2023-03-27T13:28:34.880Z] : [success]: Bot finished successfully, total execution time: 4s 704ms
+
+[2023-03-27T13:28:34.881Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:34:28.018Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:34:28.123Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:34:28.124Z] : [success]: Bot started
+
+[2023-03-27T13:34:28.125Z] : [info]: Robot start
+
+[2023-03-27T13:34:31.887Z] : [info]: null
+
+[2023-03-27T13:34:32.910Z] : [success]: Bot finished successfully, total execution time: 4s 784ms
+
+[2023-03-27T13:34:32.911Z] : [info]: ---------------------------------------------
+
+[2023-03-27T13:56:27.070Z] : [success]: Robot saved successfully
+
+[2023-03-27T13:56:33.303Z] : [success]: Bot started
+
+[2023-03-27T13:56:33.305Z] : [info]: Robot start
+
+[2023-03-27T13:56:37.057Z] : [info]: null
+
+[2023-03-27T13:56:38.074Z] : [success]: Bot finished successfully, total execution time: 4s 768ms
+
+[2023-03-27T13:56:38.076Z] : [info]: ---------------------------------------------
+
+[2023-03-27T14:00:08.798Z] : [success]: Bot started
+
+[2023-03-27T14:00:08.799Z] : [info]: Robot start
+
+[2023-03-27T14:00:12.435Z] : [info]: null
+
+[2023-03-27T14:00:13.479Z] : [success]: Bot finished successfully, total execution time: 4s 679ms
+
+[2023-03-27T14:00:13.481Z] : [info]: ---------------------------------------------
+
+[2023-03-27T14:01:57.739Z] : [success]: Robot saved successfully
+
+[2023-03-27T14:02:03.481Z] : [success]: Bot started
+
+[2023-03-27T14:02:03.483Z] : [info]: Robot start
+
+[2023-03-27T14:02:07.129Z] : [info]: null
+
+[2023-03-27T14:02:08.176Z] : [success]: Bot finished successfully, total execution time: 4s 691ms
+
+[2023-03-27T14:02:08.177Z] : [info]: ---------------------------------------------
+
