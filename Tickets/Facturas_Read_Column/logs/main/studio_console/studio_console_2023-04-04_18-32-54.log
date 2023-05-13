@@ -1,0 +1,173 @@
+
+  ==========================================
+  Studio Pro version: 9.2.12
+  Started at: 4/4/2023, 18:33:15
+  ==========================================
+  
+
+[2023-04-04T21:35:46.380Z] : [success]: Robot saved successfully
+
+[2023-04-04T21:35:51.687Z] : [info]: ---------------------------------------------
+
+[2023-04-04T21:35:51.689Z] : [success]: Bot started
+
+[2023-04-04T21:35:51.690Z] : [info]: Robot start
+
+[2023-04-04T21:35:55.809Z] : [success]: Bot finished successfully, total execution time: 4s 117ms
+
+[2023-04-04T21:35:55.810Z] : [info]: ---------------------------------------------
+
+[2023-04-04T21:36:47.237Z] : [success]: Robot saved successfully
+
+[2023-04-04T21:36:52.401Z] : [success]: Bot started
+
+[2023-04-04T21:36:52.402Z] : [info]: Robot start
+
+[2023-04-04T21:36:55.494Z] : [success]: Bot finished successfully, total execution time: 3s 91ms
+
+[2023-04-04T21:36:55.496Z] : [info]: ---------------------------------------------
+
+[2023-04-04T21:39:23.564Z] : [success]: Robot saved successfully
+
+[2023-04-04T21:39:23.662Z] : [success]: Bot started
+
+[2023-04-04T21:39:23.663Z] : [info]: Robot start
+
+[2023-04-04T21:39:26.777Z] : [success]: Bot finished successfully, total execution time: 3s 113ms
+
+[2023-04-04T21:39:26.778Z] : [info]: ---------------------------------------------
+
+[2023-04-04T21:59:23.626Z] : [success]: Robot saved successfully
+
+[2023-04-04T21:59:23.726Z] : [success]: Bot started
+
+[2023-04-04T21:59:23.727Z] : [info]: Robot start
+
+[2023-04-04T21:59:26.824Z] : [error]: res is not defined
+
+[2023-04-04T21:59:26.826Z] : [info]: Total execution time: 3s 96ms
+
+[2023-04-04T21:59:26.827Z] : [info]: ---------------------------------------------
+
+[2023-04-04T21:59:43.486Z] : [success]: Robot saved successfully
+
+[2023-04-04T21:59:43.574Z] : [success]: Bot started
+
+[2023-04-04T21:59:43.575Z] : [info]: Robot start
+
+[2023-04-04T21:59:46.683Z] : [error]: res.push is not a function
+
+[2023-04-04T21:59:46.685Z] : [info]: Total execution time: 3s 108ms
+
+[2023-04-04T21:59:46.686Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:00:57.956Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:00:58.071Z] : [success]: Bot started
+
+[2023-04-04T22:00:58.072Z] : [info]: Robot start
+
+[2023-04-04T22:01:01.222Z] : [error]: res is not defined
+
+[2023-04-04T22:01:01.225Z] : [info]: Total execution time: 3s 150ms
+
+[2023-04-04T22:01:01.226Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:01:21.623Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:01:21.708Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:01:21.709Z] : [success]: Bot started
+
+[2023-04-04T22:01:21.711Z] : [info]: Robot start
+
+[2023-04-04T22:01:24.845Z] : [success]: Bot finished successfully, total execution time: 3s 133ms
+
+[2023-04-04T22:01:24.846Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:02:05.231Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:02:11.193Z] : [success]: Bot started
+
+[2023-04-04T22:02:11.194Z] : [info]: Robot start
+
+[2023-04-04T22:02:14.286Z] : [error]: Selectors: Error converting value "{C:NEW_FACT}" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '[0]', line 1, position 15.
+
+[2023-04-04T22:02:14.288Z] : [info]: Total execution time: 3s 92ms
+
+[2023-04-04T22:02:14.289Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:05:39.841Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:05:39.923Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:05:39.924Z] : [success]: Bot started
+
+[2023-04-04T22:05:39.925Z] : [info]: Robot start
+
+[2023-04-04T22:05:43.013Z] : [error]: Selectors: Error converting value "NEW_FACT" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '[0]', line 1, position 11.
+
+[2023-04-04T22:05:43.015Z] : [info]: Total execution time: 3s 87ms
+
+[2023-04-04T22:05:43.016Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:06:56.745Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:06:56.824Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:06:56.825Z] : [success]: Bot started
+
+[2023-04-04T22:06:56.827Z] : [info]: Robot start
+
+[2023-04-04T22:06:59.930Z] : [error]: Selectors: Error converting value "NEW_FACT" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '[0]', line 1, position 11.
+
+[2023-04-04T22:06:59.932Z] : [info]: Total execution time: 3s 102ms
+
+[2023-04-04T22:06:59.933Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:07:45.670Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:07:45.740Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:07:45.741Z] : [success]: Bot started
+
+[2023-04-04T22:07:45.743Z] : [info]: Robot start
+
+[2023-04-04T22:07:48.846Z] : [error]: Selectors: Error converting value ""NEW_FACT"" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '[0]', line 1, position 15.
+
+[2023-04-04T22:07:48.848Z] : [info]: Total execution time: 3s 103ms
+
+[2023-04-04T22:07:48.849Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:08:08.714Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:08:13.495Z] : [success]: Bot started
+
+[2023-04-04T22:08:13.496Z] : [info]: Robot start
+
+[2023-04-04T22:08:16.606Z] : [error]: Selectors: Error converting value "NEW_FACT" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '[0]', line 1, position 11.
+
+[2023-04-04T22:08:16.609Z] : [info]: Total execution time: 3s 110ms
+
+[2023-04-04T22:08:16.611Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:09:45.593Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:09:45.668Z] : [success]: Bot started
+
+[2023-04-04T22:09:45.669Z] : [info]: Robot start
+
+[2023-04-04T22:09:49.762Z] : [success]: Bot finished successfully, total execution time: 4s 92ms
+
+[2023-04-04T22:09:49.763Z] : [info]: ---------------------------------------------
+
+[2023-04-04T22:14:54.716Z] : [success]: Robot saved successfully
+
+[2023-04-04T22:14:54.802Z] : [success]: Bot started
+
+[2023-04-04T22:14:54.804Z] : [info]: Robot start
+
+[2023-04-04T22:14:58.914Z] : [success]: Bot finished successfully, total execution time: 4s 108ms
+
+[2023-04-04T22:14:58.917Z] : [info]: ---------------------------------------------
+

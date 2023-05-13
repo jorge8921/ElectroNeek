@@ -1,0 +1,45 @@
+[2023-04-21T22:19:29.139Z] : [error]: Uncaught (in promise): TypeError: Cannot read properties of undefined (reading 'unfreeze')
+TypeError: Cannot read properties of undefined (reading 'unfreeze')
+    at e.<anonymous> (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:3406549)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:3403564
+    at Object.next (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:3403669)
+    at o (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:3402409)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:579825)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:2240602)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:579765)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:574925)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:586846
+    at e.invokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.f3907d96e56008850277.js:1:580509)
+
+
+  ==========================================
+  Studio Pro version: 9.3.8
+  Started at: 21/4/2023, 19:19:29
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.3.8
+  Started at: 21/4/2023, 19:19:37
+  ==========================================
+  
+
+[2023-04-21T22:19:39.935Z] : [success]: Robot saved successfully
+
+[2023-04-21T22:19:48.662Z] : [info]: ---------------------------------------------
+
+[2023-04-21T22:19:48.663Z] : [success]: Bot started
+
+[2023-04-21T22:19:48.664Z] : [info]: Robot start
+
+[2023-04-21T22:19:48.900Z] : [info]: A project backup was successfully created! You can find it
+
+[2023-04-21T22:19:48.903Z] : [success]: Robot saved successfully
+
+[2023-04-21T22:19:52.924Z] : [success]: Bot finished successfully, total execution time: 4s 258ms
+
+[2023-04-21T22:19:52.925Z] : [info]: ---------------------------------------------
+
+[2023-04-21T22:20:34.847Z] : [error]: The file you are trying to open was deleted or relocated. If you want to open this file, press “OPEN WORKFLOW” and search for the file manually
+
